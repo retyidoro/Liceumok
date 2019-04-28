@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.135392, 46.002554]
+    },
+    "properties": {
+      "nev": "Apor Péter Szakközépiskola",
+      "szakszam": 2,
+      "hely": "Kézdivásárhely",
+      "szakok": [
+        {
+          "szaknev": "Gazdasági",
+          "nyelv": "román",
+          "tobbnyelvu": 0,
+          "helyszam": 28,
+          "elfoglalva:": 7,
+          "forma": "nappali",
+          "szaktipus": "Szolgáltatások",
+          "profil": "Technológiai",
+          "szint": "Líceum",
+          "ut_media": 4.91
+        },
+        {
+          "szaknev": "Mezőgazdasági",
+          "nyelv": "magyar",
+          "tobbnyelvu": 0,
+          "helyszam": 28,
+          "elfoglalva:": 28,
+          "forma": "nappali",
+          "szaktipus": "Természeti erőforrások és környezetvédelem",
+          "profil": "Technológiai",
+          "szint": "Líceum",
+          "ut_media": 4.34
+        },
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.132818, 46.002745]
+    },
+    "properties": {
+      "title": "Bod Péter Tanítóképző",
+      "description": "1 szak, Kézdivásárhely"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.132073, 45.993621]
+    },
+    "properties": {
+      "title": "Gábor Áron Iskolaközpont",
+      "description": "2 szak, Kézdivásárhely"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.131599, 46.000603]
+    },
+    "properties": {
+      "title": "Református Kollégium",
+      "description": "1 szak, Kézdivásárhely"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.138222, 46.006686]
+    },
+    "properties": {
+      "title": "Nagy Mózes Elméleti Líceum",
+      "description": "3 szak, Kézdivásárhely"
+    }
+  }
+]}
