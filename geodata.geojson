@@ -34,7 +34,7 @@
           "profil": "Technológiai",
           "szint": "Líceum",
           "ut_media": 4.34
-        },
+        }
       ]
     }
   },
@@ -46,7 +46,7 @@
     },
     "properties": {
       "nev": "Bod Péter Tanítóképző",
-      "szakszam": 1",
+      "szakszam": 1,
       "hely": "Kézdivásárhely",
       "szakok": []
     }
