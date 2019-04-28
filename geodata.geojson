@@ -45,8 +45,10 @@
       "coordinates": [26.132818, 46.002745]
     },
     "properties": {
-      "title": "Bod Péter Tanítóképző",
-      "description": "1 szak, Kézdivásárhely"
+      "nev": "Bod Péter Tanítóképző",
+      "szakszam": 1",
+      "hely": "Kézdivásárhely",
+      "szakok": []
     }
   },
   {
@@ -56,8 +58,10 @@
       "coordinates": [26.132073, 45.993621]
     },
     "properties": {
-      "title": "Gábor Áron Iskolaközpont",
-      "description": "2 szak, Kézdivásárhely"
+      "nev": "Gábor Áron Iskolaközpont",
+      "szakszam": 2,
+      "hely": "Kézdivásárhely",
+      "szakok": []
     }
   },
   {
@@ -67,8 +71,10 @@
       "coordinates": [26.131599, 46.000603]
     },
     "properties": {
-      "title": "Református Kollégium",
-      "description": "1 szak, Kézdivásárhely"
+      "nev": "Református Kollégium",
+      "szakszam": 1,
+      "hely": "Kézdivásárhely",
+      "szakok": []
     }
   },
   {
@@ -78,8 +84,10 @@
       "coordinates": [26.138222, 46.006686]
     },
     "properties": {
-      "title": "Nagy Mózes Elméleti Líceum",
-      "description": "3 szak, Kézdivásárhely"
+      "nev": "Nagy Mózes Elméleti Líceum",
+      "szakszam": 3,
+      "hely": "Kézdivásárhely",
+      "szakok": []
     }
   }
 ]}
