@@ -1,0 +1,1313 @@
+﻿COD JUDET SPECIALIZARE NUMELE LICEULUI MEDIU SPECIALIZAREA LIMBA DE PREDARE BILINGV NR. DE LOCURI NR. LOCURI OCUPATE FORMA DE ÎNVĂȚĂMÂNT PROFILUL FILIERA NIVELUL ULTIMA MEDIE DE ADMITERE ULTIMA MEDIE DE ADMITERE DIN ANUL ANTERIOR
+138 ARAD "CSIKY GERGELY" FŐGIMNÁZIUM ARAD URBAN Ştiinţe ale Naturii Limba maghiară - 14 14 Zi Real Teoretică Liceal 7.19 5.70
+137 ARAD "CSIKY GERGELY" FŐGIMNÁZIUM ARAD URBAN Turism şi alimentaţie Limba maghiară - 28 15 Zi Servicii Tehnologică Liceal 4.42 6.06
+136 ARAD "CSIKY GERGELY" FŐGIMNÁZIUM ARAD URBAN Matematică-Informatică Limba maghiară - 14 14 Zi Real Teoretică Liceal 6.94 -
+135 ARAD "CSIKY GERGELY" FŐGIMNÁZIUM ARAD URBAN Economic Limba maghiară - 28 16 Zi Servicii Tehnologică Liceal 5.09 -
+133 ARAD COLEGIUL TEHNOLOGIC DE INDUSTRIE ALIMENTARĂ ARAD URBAN Industrie alimentară Limba română - 84 70 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.50 -
+132 ARAD COLEGIUL TEHNOLOGIC DE INDUSTRIE ALIMENTARĂ ARAD URBAN Agricultură Limba română - 56 56 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.51 3.95
+131 ARAD COLEGIUL TEHNIC DE CONSTRUCŢII ŞI PROTECŢIA MEDIULUI ARAD URBAN Protecţia mediului Limba română - 56 26 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.81 7.32
+130 ARAD COLEGIUL TEHNIC DE CONSTRUCŢII ŞI PROTECŢIA MEDIULUI ARAD URBAN Construcţii, instalaţii şi lucrări publice Limba română - 28 5 Zi Tehnic Tehnologică Liceal 4.22 6.19
+128 ARAD COLEGIUL TEHNIC "AUREL VLAICU" ARAD URBAN Mecanică Limba română - 28 16 Zi Tehnic Tehnologică Liceal 3.23 4.28
+127 ARAD COLEGIUL TEHNIC "AUREL VLAICU" ARAD URBAN Electric Limba română - 28 9 Zi Tehnic Tehnologică Liceal 3.30 7.95
+164 ARAD LICEUL TEHNOLOGIC "IULIU MOLDOVAN" ARAD URBAN Silvicultură Limba română - 28 11 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.26 -
+160 ARAD LICEUL TEHNOLOGIC "FRANCISC NEUMAN" ARAD URBAN Industrie textilă şi pielărie Limba română - 28 7 Zi Tehnic Tehnologică Liceal 2.70 3.53
+159 ARAD LICEUL TEHNOLOGIC "FRANCISC NEUMAN" ARAD URBAN Estetica şi igiena corpului omenesc Limba română - 28 28 Zi Servicii Tehnologică Liceal 3.92 5.42
+158 ARAD LICEUL TEHNOLOGIC "FRANCISC NEUMAN" ARAD URBAN Comerţ Limba română - 28 16 Zi Servicii Tehnologică Liceal 2.83 3.79
+121 ARAD COLEGIUL NAŢIONAL "PREPARANDIA-DIMITRIE ŢICHINDEAL" ARAD URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.64 5.05
+120 ARAD COLEGIUL NAŢIONAL "PREPARANDIA-DIMITRIE ŢICHINDEAL" ARAD URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 8.19 -
+203 ARAD COLEGIUL NAŢIONAL "ELENA GHIBA BIRTA" ARAD URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.28 6.80
+115 ARAD COLEGIUL NAŢIONAL "ELENA GHIBA BIRTA" ARAD URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 7.05 7.95
+114 ARAD COLEGIUL NAŢIONAL "ELENA GHIBA BIRTA" ARAD URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 6.95 8.34
+113 ARAD COLEGIUL NAŢIONAL "ELENA GHIBA BIRTA" ARAD URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 7.47 -
+106 ARAD COLEGIUL ECONOMIC ARAD URBAN Turism şi alimentaţie Limba română - 56 56 Zi Servicii Tehnologică Liceal 6.44 8.13
+105 ARAD COLEGIUL ECONOMIC ARAD URBAN Economic Limba română - 84 84 Zi Servicii Tehnologică Liceal 6.61 8.27
+183 ARAD LICEUL TEORETIC "ADAM MULLER GUTTENBRUNN" ARAD URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.12 6.28
+182 ARAD LICEUL TEORETIC "ADAM MULLER GUTTENBRUNN" ARAD URBAN Ştiinţe ale Naturii Limba germană - 28 20 Zi Real Teoretică Liceal 5.68 4.43
+181 ARAD LICEUL TEORETIC "ADAM MULLER GUTTENBRUNN" ARAD URBAN Filologie Limba română Limba germană 28 28 Zi Umanist Teoretică Liceal 6.07 5.36
+
+180 ARAD LICEUL TEORETIC "ADAM MULLER GUTTENBRUNN" ARAD URBAN Filologie Limba germană - 28 9 Zi Umanist Teoretică Liceal 3.55 -
+178 ARAD LICEUL TEOLOGIC PENTICOSTAL ARAD URBAN Matematică-Informatică Limba română - 28 16 Zi Real Teoretică Liceal 4.45 8.84
+146 ARAD LICEUL NAŢIONAL DE INFORMATICĂ ARAD URBAN Matematică-Informatică Limba română - 84 84 Zi Real Teoretică Liceal 6.58 -
+177 ARAD LICEUL TEOLOGIC BAPTIST "ALEXA POPOVICI" ARAD URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.23 -
+157 ARAD LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO "HENRI COANDĂ" ARAD URBAN Mecanică Limba română - 28 11 Zi Tehnic Tehnologică Liceal 3.04 -
+155 ARAD LICEUL TEHNOLOGIC DE ELECTRONICĂ ŞI AUTOMATIZĂRI "CAIUS IACOB" ARAD URBAN Electronică automatizări Limba română - 56 27 Zi Tehnic Tehnologică Liceal 3.49 3.10
+154 ARAD LICEUL TEHNOLOGIC DE ELECTRONICĂ ŞI AUTOMATIZĂRI "CAIUS IACOB" ARAD URBAN Electric Limba română - 28 23 Zi Tehnic Tehnologică Liceal 3.27 3.92
+119 ARAD COLEGIUL NAŢIONAL "MOISE NICOARĂ" ARAD URBAN Ştiinţe ale Naturii Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 9.37 2.98
+118 ARAD COLEGIUL NAŢIONAL "MOISE NICOARĂ" ARAD URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 8.20 7.94
+117 ARAD COLEGIUL NAŢIONAL "MOISE NICOARĂ" ARAD URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 8.62 8.20
+116 ARAD COLEGIUL NAŢIONAL "MOISE NICOARĂ" ARAD URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 8.01 8.28
+126 ARAD COLEGIUL NAŢIONAL "VASILE GOLDIŞ" ARAD URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.57 4.67
+125 ARAD COLEGIUL NAŢIONAL "VASILE GOLDIŞ" ARAD URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 7.67 -
+124 ARAD COLEGIUL NAŢIONAL "VASILE GOLDIŞ" ARAD URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 7.47 4.02
+123 ARAD COLEGIUL NAŢIONAL "VASILE GOLDIŞ" ARAD URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.40 4.63
+193 ARAD LICEUL TEORETIC "MIHAI VELICIU" CHISINEU-CRIS URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 5.62 6.91
+192 ARAD LICEUL TEORETIC "MIHAI VELICIU" CHISINEU-CRIS URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 6.06 -
+191 ARAD LICEUL TEORETIC "MIHAI VELICIU" CHISINEU-CRIS URBAN Filologie Limba română - 56 56 Zi Umanist Teoretică Liceal 6.43 -
+153 ARAD LICEUL TEHNOLOGIC CHIŞINEU CRIŞ URBAN Mecanică Limba română - 28 17 Zi Tehnic Tehnologică Liceal 3.38 5.40
+151 ARAD LICEUL TEHNOLOGIC CHIŞINEU CRIŞ URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 3.90 -
+150 ARAD LICEUL TEHNOLOGIC CHIŞINEU CRIŞ URBAN Construcţii, instalaţii şi lucrări publice Limba română - 28 9 Zi Tehnic Tehnologică Liceal 3.01 4.57
+162 ARAD LICEUL TEHNOLOGIC "ION CREANGĂ" CURTICI URBAN Ştiinţe ale Naturii Limba română - 28 24 Zi Real Teoretică Liceal 2.54 5.02
+161 ARAD LICEUL TEHNOLOGIC "ION CREANGĂ" CURTICI URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 2.94 3.78
+167 ARAD LICEUL TEHNOLOGIC "SAVA BRANCOVICI" INEU URBAN Turism şi alimentaţie Limba română - 28 20 Zi Servicii Tehnologică Liceal 3.53 2.82
+166 ARAD LICEUL TEHNOLOGIC "SAVA BRANCOVICI" INEU URBAN Electric Limba română - 28 2 Zi Tehnic Tehnologică Liceal 3.28 3.84
+
+112 ARAD COLEGIUL "MIHAI VITEAZUL" INEU URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 5.36 8.77
+111 ARAD COLEGIUL "MIHAI VITEAZUL" INEU URBAN Mecanică Limba română - 28 24 Zi Tehnic Tehnologică Liceal 2.96 8.69
+110 ARAD COLEGIUL "MIHAI VITEAZUL" INEU URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.59 9.76
+109 ARAD COLEGIUL "MIHAI VITEAZUL" INEU URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.87 9.36
+108 ARAD COLEGIUL "MIHAI VITEAZUL" INEU URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.75 9.18
+107 ARAD COLEGIUL "MIHAI VITEAZUL" INEU URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.21 8.87
+141 ARAD LICEUL "ATANASIE MARIENESCU" LIPOVA URBAN Mecanică Limba română - 28 25 Zi Tehnic Tehnologică Liceal 3.14 3.65
+140 ARAD LICEUL "ATANASIE MARIENESCU" LIPOVA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 5.88 6.19
+139 ARAD LICEUL "ATANASIE MARIENESCU" LIPOVA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.22 -
+148 ARAD LICEUL "SEVER BOCU" LIPOVA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.07 4.35
+147 ARAD LICEUL "SEVER BOCU" LIPOVA URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 3.44 2.93
+190 ARAD LICEUL TEORETIC "JOZEF GREGOR TAJOVSKY" NĂDLAC URBAN Ştiinţe Sociale Limba slovacă - 28 16 Zi Umanist Teoretică Liceal 3.07 -
+189 ARAD LICEUL TEORETIC "JOZEF GREGOR TAJOVSKY" NĂDLAC URBAN Ştiinţe Sociale Limba română - 28 21 Zi Umanist Teoretică Liceal 3.47 5.07
+188 ARAD LICEUL TEORETIC "JOZEF GREGOR TAJOVSKY" NĂDLAC URBAN Matematică-Informatică Limba română - 28 26 Zi Real Teoretică Liceal 5.54 -
+196 ARAD LICEUL TEORETIC PÂNCOTA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 4.34 5.54
+195 ARAD LICEUL TEORETIC PÂNCOTA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 5.95 6.44
+194 ARAD LICEUL TEORETIC PÂNCOTA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.93 8.31
+201 ARAD LICEUL TEORETIC SEBIŞ URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 5.75 7.37
+200 ARAD LICEUL TEORETIC SEBIŞ URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 2.28 6.74
+199 ARAD LICEUL TEORETIC SEBIŞ URBAN Matematică-Informatică Limba română - 28 26 Zi Real Teoretică Liceal 4.43 5.70
+198 ARAD LICEUL TEORETIC SEBIŞ URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.58 4.65
+197 ARAD LICEUL TEORETIC SEBIŞ URBAN Fabricarea produselor din lemn Limba română - 28 3 Zi Tehnic Tehnologică Liceal 2.73 6.57
+149 ARAD LICEUL TEHNOLOGIC BELIU RURAL Economic Limba română - 28 22 Zi Servicii Tehnologică Liceal 2.56 4.50
+184 ARAD LICEUL TEORETIC CERMEI RURAL Ştiinţe ale Naturii Limba română - 28 15 Zi Real Teoretică Liceal 3.32 4.50
+174 ARAD LICEUL TEHNOLOGIC "VASILE JUNCU" MINIŞ RURAL Economic Limba română - 28 10 Zi Servicii Tehnologică Liceal 2.62 6.00
+
+145 ARAD LICEUL "IOAN BUTEANU" GURAHONŢ RURAL Silvicultură Limba română - 28 17 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.46 6.90
+144 ARAD LICEUL "IOAN BUTEANU" GURAHONŢ RURAL Matematică-Informatică Limba română - 28 15 Zi Real Teoretică Liceal 4.37 3.98
+143 ARAD LICEUL "IOAN BUTEANU" GURAHONŢ RURAL Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 5.42 7.94
+165 ARAD LICEUL TEHNOLOGIC "MOGA VOIEVOD" HĂLMAGIU RURAL Turism şi alimentaţie Limba română - 28 13 Zi Servicii Tehnologică Liceal 2.26 -
+187 ARAD LICEUL TEORETIC "GHEORGHE LAZĂR" PECICA URBAN Matematică-Informatică Limba română - 28 24 Zi Real Teoretică Liceal 4.55 5.44
+186 ARAD LICEUL TEORETIC "GHEORGHE LAZĂR" PECICA URBAN Filologie Limba română - 28 15 Zi Umanist Teoretică Liceal 3.26 3.69
+169 ARAD LICEUL TEHNOLOGIC SĂVÂRŞIN RURAL Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.11 4.00
+168 ARAD LICEUL TEHNOLOGIC SĂVÂRŞIN RURAL Agricultură Limba română - 28 17 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.04 2.78
+172 ARAD LICEUL TEHNOLOGIC "STEFAN HELL" SÂNTANA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 3.28 4.49
+171 ARAD LICEUL TEHNOLOGIC "STEFAN HELL" SÂNTANA URBAN Mecanică Limba română - 28 9 Zi Tehnic Tehnologică Liceal 2.34 6.01
+170 ARAD LICEUL TEHNOLOGIC "STEFAN HELL" SÂNTANA URBAN Economic Limba română - 28 15 Zi Servicii Tehnologică Liceal 4.19 3.22
+175 ARAD LICEUL TEHNOLOGIC VINGA RURAL Economic Limba română - 28 26 Zi Servicii Tehnologică Liceal 3.53 -
+
+160 BISTRIȚA-NĂSĂUD LICEUL TEORETIC "CONSTANTIN ROMANU VIVU" TEACA RURAL Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 4.68 2.69
+159 BISTRIȚA-NĂSĂUD LICEUL TEHNOLOGIC TELCIU RURAL Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.40 4.49
+134 BISTRIȚA-NĂSĂUD COLEGIUL TEHNIC "INFOEL" BISTRIȚA URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 7.51 6.52
+133 BISTRIȚA-NĂSĂUD COLEGIUL TEHNIC "INFOEL" BISTRIȚA URBAN Electronică automatizări Limba română - 56 56 Zi Tehnic Tehnologică Liceal 6.05 5.45
+132 BISTRIȚA-NĂSĂUD COLEGIUL TEHNIC "INFOEL" BISTRIȚA URBAN Electric Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.64 7.60
+131 BISTRIȚA-NĂSĂUD COLEGIUL TEHNIC "INFOEL" BISTRIȚA URBAN Economic Limba română - 56 56 Zi Servicii Tehnologică Liceal 7.11 5.36
+110 BISTRIȚA-NĂSĂUD "ANDREI MUREȘANU" NEMZETI KOLLÉGIUM BESZTERCE URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 8.17 6.34
+109 BISTRIȚA-NĂSĂUD "ANDREI MUREȘANU" NEMZETI KOLLÉGIUM BESZTERCE URBAN Ştiinţe Sociale Limba maghiară - 28 10 Zi Umanist Teoretică Liceal 4.27 8.97
+108 BISTRIȚA-NĂSĂUD "ANDREI MUREȘANU" NEMZETI KOLLÉGIUM BESZTERCE URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 8.28 6.02
+107 BISTRIȚA-NĂSĂUD "ANDREI MUREȘANU" NEMZETI KOLLÉGIUM BESZTERCE URBAN Ştiinţe ale Naturii Limba maghiară - 28 15 Zi Real Teoretică Liceal 6.57 9.08
+106 BISTRIȚA-NĂSĂUD "ANDREI MUREȘANU" NEMZETI KOLLÉGIUM BESZTERCE URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.83 8.55
+105 BISTRIȚA-NĂSĂUD "ANDREI MUREȘANU" NEMZETI KOLLÉGIUM BESZTERCE URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.84 8.74
+104 BISTRIȚA-NĂSĂUD "ANDREI MUREȘANU" NEMZETI KOLLÉGIUM BESZTERCE URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 8.24 6.21
+152 BISTRIȚA-NĂSĂUD LICEUL TEHNOLOGIC AGRICOL BISTRIȚA URBAN Industrie alimentară Limba română - 28 9 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.99 -
+151 BISTRIȚA-NĂSĂUD LICEUL TEHNOLOGIC AGRICOL BISTRIȚA URBAN Agricultură Limba română - 28 24 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.11 4.34
+165 BISTRIȚA-NĂSĂUD LICEUL TEORETIC SANITAR BISTRIȚA URBAN Ştiinţe ale Naturii Limba română - 84 84 Zi Real Teoretică Liceal 6.99 -
+154 BISTRIȚA-NĂSĂUD LICEUL TEHNOLOGIC DE SERVICII BISTRIȚA URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.67 5.46
+153 BISTRIȚA-NĂSĂUD LICEUL TEHNOLOGIC DE SERVICII BISTRIȚA URBAN Estetica şi igiena corpului omenesc Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.21 5.27
+140 BISTRIȚA-NĂSĂUD LICEUL CU PROGRAM SPORTIV BISTRIȚA URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.45 -
+138 BISTRIȚA-NĂSĂUD LICEUL CU PROGRAM SPORTIV BISTRIȚA URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 6.18 -
+130 BISTRIȚA-NĂSĂUD COLEGIUL TEHNIC "GRIGORE MOISIL" BISTRIȚA URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.15 4.11
+129 BISTRIȚA-NĂSĂUD COLEGIUL TEHNIC "GRIGORE MOISIL" BISTRIȚA URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.72 3.53
+128 BISTRIȚA-NĂSĂUD COLEGIUL TEHNIC "GRIGORE MOISIL" BISTRIȚA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.75 5.32
+156 BISTRIȚA-NĂSĂUD LICEUL TEHNOLOGIC FORESTIER BISTRIȚA URBAN Economic Limba română - 28 14 Zi Servicii Tehnologică Liceal 3.69 4.57
+120 BISTRIȚA-NĂSĂUD COLEGIUL NAȚIONAL "LIVIU REBREANU" BISTRIȚA URBAN Ştiinţe Sociale Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 8.31 9.60
+
+119 BISTRIȚA-NĂSĂUD COLEGIUL NAȚIONAL "LIVIU REBREANU" BISTRIȚA URBAN Ştiinţe ale Naturii Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 9.00 9.06
+118 BISTRIȚA-NĂSĂUD COLEGIUL NAȚIONAL "LIVIU REBREANU" BISTRIȚA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.46 7.20
+117 BISTRIȚA-NĂSĂUD COLEGIUL NAȚIONAL "LIVIU REBREANU" BISTRIȚA URBAN Ştiinţe ale Naturii Limba germană - 28 13 Zi Real Teoretică Liceal 5.43 9.41
+116 BISTRIȚA-NĂSĂUD COLEGIUL NAȚIONAL "LIVIU REBREANU" BISTRIȚA URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 9.10 8.01
+115 BISTRIȚA-NĂSĂUD COLEGIUL NAȚIONAL "LIVIU REBREANU" BISTRIȚA URBAN Filologie Limba română - 56 56 Zi Umanist Teoretică Liceal 7.63 8.45
+145 BISTRIȚA-NĂSĂUD LICEUL TEHNOLOGIC "HENRI COANDĂ" BECLEAN URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.67 6.50
+150 BISTRIȚA-NĂSĂUD LICEUL TEHNOLOGIC AGRICOL BECLEAN URBAN Protecţia mediului Limba română - 28 23 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.34 4.42
+149 BISTRIȚA-NĂSĂUD LICEUL TEHNOLOGIC AGRICOL BECLEAN URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.44 -
+125 BISTRIȚA-NĂSĂUD COLEGIUL NAȚIONAL "PETRU RAREȘ" BECLEAN URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 6.25 6.15
+124 BISTRIȚA-NĂSĂUD COLEGIUL NAȚIONAL "PETRU RAREȘ" BECLEAN URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.16 8.04
+123 BISTRIȚA-NĂSĂUD COLEGIUL NAȚIONAL "PETRU RAREȘ" BECLEAN URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.34 4.77
+122 BISTRIȚA-NĂSĂUD COLEGIUL NAȚIONAL "PETRU RAREȘ" BECLEAN URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.74 6.96
+121 BISTRIȚA-NĂSĂUD COLEGIUL NAȚIONAL "PETRU RAREȘ" BECLEAN URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 7.05 8.67
+103 BISTRIȚA-NĂSĂUD COLEGIUL ECONOMIC NĂSĂUD URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 5.87 6.59
+102 BISTRIȚA-NĂSĂUD COLEGIUL ECONOMIC NĂSĂUD URBAN Economic Limba română - 56 56 Zi Servicii Tehnologică Liceal 5.93 6.91
+101 BISTRIȚA-NĂSĂUD COLEGIUL ECONOMIC NĂSĂUD URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.94 6.26
+114 BISTRIȚA-NĂSĂUD COLEGIUL NAȚIONAL "GEORGE COȘBUC" NĂSĂUD URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.25 -
+112 BISTRIȚA-NĂSĂUD COLEGIUL NAȚIONAL "GEORGE COȘBUC" NĂSĂUD URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 7.57 7.55
+111 BISTRIȚA-NĂSĂUD COLEGIUL NAȚIONAL "GEORGE COȘBUC" NĂSĂUD URBAN Filologie Limba română - 56 56 Zi Umanist Teoretică Liceal 7.06 8.70
+127 BISTRIȚA-NĂSĂUD COLEGIUL SILVIC "TRANSILVANIA" NĂSĂUD URBAN Silvicultură Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.55 5.79
+126 BISTRIȚA-NĂSĂUD COLEGIUL SILVIC "TRANSILVANIA" NĂSĂUD URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.33 6.10
+164 BISTRIȚA-NĂSĂUD LICEUL TEORETIC "SOLOMON HALIȚĂ" SÎNGEORZ-BĂI URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.34 3.35
+163 BISTRIȚA-NĂSĂUD LICEUL TEORETIC "SOLOMON HALIȚĂ" SÎNGEORZ-BĂI URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 5.91 2.95
+162 BISTRIȚA-NĂSĂUD LICEUL TEORETIC "SOLOMON HALIȚĂ" SÎNGEORZ-BĂI URBAN Filologie Limba română - 56 56 Zi Umanist Teoretică Liceal 6.15 3.42
+161 BISTRIȚA-NĂSĂUD LICEUL TEORETIC "SOLOMON HALIȚĂ" SÎNGEORZ-BĂI URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.00 4.77
+
+146 BISTRIȚA-NĂSĂUD LICEUL TEHNOLOGIC "ION CĂIAN ROMÂNUL" CĂIANU MIC RURAL Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.03 7.40
+155 BISTRIȚA-NĂSĂUD LICEUL TEHNOLOGIC FELDRU RURAL Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.03 3.18
+158 BISTRIȚA-NĂSĂUD LICEUL TEHNOLOGIC LECHINȚA RURAL Agricultură Limba română - 28 21 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.62 4.12
+147 BISTRIȚA-NĂSĂUD LICEUL TEHNOLOGIC "LIVIU REBREANU" MAIERU RURAL Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.99 -
+137 BISTRIȚA-NĂSĂUD LICEUL "RADU PETRESCU" PRUNDU BÎRGĂULUI RURAL Ştiinţe ale Naturii Limba română - 28 20 Zi Real Teoretică Liceal 3.96 5.91
+136 BISTRIȚA-NĂSĂUD LICEUL "RADU PETRESCU" PRUNDU BÎRGĂULUI RURAL Matematică-Informatică Limba română - 28 20 Zi Real Teoretică Liceal 6.23 5.71
+135 BISTRIȚA-NĂSĂUD LICEUL "RADU PETRESCU" PRUNDU BÎRGĂULUI RURAL Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.20 7.85
+
+194 BIHOR LICEUL TEHNOLOGIC NR.1 DOBREŞTI RURAL Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.87 2.57
+195 BIHOR LICEUL TEHNOLOGIC NR.1 POPEȘTI RURAL Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 3.53 4.81
+225 BIHOR LICEUL TEORETIC "JOZEF KOZACEK" BUDOI RURAL Filologie Limba slovacă - 28 12 Zi Umanist Teoretică Liceal 2.84 7.72
+237 BIHOR "PETŐFI SÁNDOR" ELMÉLETI LÍCEUM SZÉKELYHÍD URBAN Ştiinţe ale Naturii Limba română - 28 9 Zi Real Teoretică Liceal 5.82 3.32
+236 BIHOR "PETŐFI SÁNDOR" ELMÉLETI LÍCEUM SZÉKELYHÍD URBAN Ştiinţe ale Naturii Limba maghiară - 28 19 Zi Real Teoretică Liceal 4.85 4.96
+235 BIHOR "PETŐFI SÁNDOR" ELMÉLETI LÍCEUM SZÉKELYHÍD URBAN Filologie Limba maghiară - 28 24 Zi Umanist Teoretică Liceal 3.92 -
+193 BIHOR 1-ES SZÁMÚ TECHNOLÓGIAI LÍCEUM KÁGYA RURAL Industrie alimentară Limba maghiară - 28 8 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.11 3.62
+200 BIHOR LICEUL TEHNOLOGIC NR.1 SUPLACU DE BARCĂU RURAL Mecanică Limba română - 28 19 Zi Tehnic Tehnologică Liceal 3.37 -
+201 BIHOR LICEUL TEHNOLOGIC NR.1 ŞUNCUIUŞ RURAL Electric Limba română - 28 20 Zi Tehnic Tehnologică Liceal 2.04 4.36
+231 BIHOR LICEUL TEORETIC "NICOLAE JIGA" TINCA RURAL Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 3.18 8.05
+230 BIHOR LICEUL TEORETIC "NICOLAE JIGA" TINCA RURAL Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 5.75 4.73
+174 BIHOR COLEGIUL TEHNIC NR.1 VADU CRIŞULUI RURAL Silvicultură Limba română - 28 21 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.55 4.60
+172 BIHOR COLEGIUL TEHNIC NR.1 VADU CRIŞULUI RURAL Filologie Limba română - 28 18 Zi Umanist Teoretică Liceal 3.48 -
+171 BIHOR COLEGIUL TEHNIC NR.1 VADU CRIŞULUI RURAL Economic Limba română - 28 17 Zi Servicii Tehnologică Liceal 3.87 7.82
+106 BIHOR 1-ES SZÁMÚ MEZŐGAZDASÁGI KOLLÉGIUM ÉRMIHÁLYFALVA URBAN Ştiinţe ale Naturii Limba maghiară - 28 13 Zi Real Teoretică Liceal 4.42 6.08
+105 BIHOR 1-ES SZÁMÚ MEZŐGAZDASÁGI KOLLÉGIUM ÉRMIHÁLYFALVA URBAN Comerţ Limba română - 14 14 Zi Servicii Tehnologică Liceal 4.11 7.20
+104 BIHOR 1-ES SZÁMÚ MEZŐGAZDASÁGI KOLLÉGIUM ÉRMIHÁLYFALVA URBAN Comerţ Limba maghiară - 14 8 Zi Servicii Tehnologică Liceal 4.03 6.59
+103 BIHOR 1-ES SZÁMÚ MEZŐGAZDASÁGI KOLLÉGIUM ÉRMIHÁLYFALVA URBAN Agricultură Limba română - 14 9 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.76 7.12
+102 BIHOR 1-ES SZÁMÚ MEZŐGAZDASÁGI KOLLÉGIUM ÉRMIHÁLYFALVA URBAN Agricultură Limba maghiară - 14 0 Zi Resurse naturale și protecția mediului Tehnologică Liceal null -
+218 BIHOR LICEUL TEORETIC "AUREL LAZĂR" ORADEA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.58 6.69
+217 BIHOR LICEUL TEORETIC "AUREL LAZĂR" ORADEA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.01 4.05
+216 BIHOR LICEUL TEORETIC "AUREL LAZĂR" ORADEA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.17 5.10
+215 BIHOR LICEUL TEORETIC "AUREL LAZĂR" ORADEA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.62 -
+208 BIHOR "SZENT LÁSZLÓ" RÓMAI KATOLIKUS TEOLÓGIAI LÍCEUM NAGYVÁRAD URBAN Turism şi alimentaţie Limba maghiară - 28 22 Zi Servicii Tehnologică Liceal 3.01 4.17
+207 BIHOR "SZENT LÁSZLÓ" RÓMAI KATOLIKUS TEOLÓGIAI LÍCEUM NAGYVÁRAD URBAN Economic Limba maghiară - 28 25 Zi Servicii Tehnologică Liceal 3.88 5.80
+
+122 BIHOR COLEGIUL NAȚIONAL "IOSIF VULCAN" ORADEA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.77 8.47
+119 BIHOR COLEGIUL NAȚIONAL "IOSIF VULCAN" ORADEA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.12 8.70
+118 BIHOR COLEGIUL NAȚIONAL "IOSIF VULCAN" ORADEA URBAN Filologie Limba română Limba spaniolă 14 14 Zi Umanist Teoretică Liceal 7.07 8.62
+117 BIHOR COLEGIUL NAȚIONAL "IOSIF VULCAN" ORADEA URBAN Filologie Limba română Limba engleză 14 14 Zi Umanist Teoretică Liceal 7.69 8.62
+109 BIHOR COLEGIUL ECONOMIC "PARTENIE COSMA" ORADEA URBAN Turism şi alimentaţie Limba română - 112 112 Zi Servicii Tehnologică Liceal 6.04 9.13
+108 BIHOR COLEGIUL ECONOMIC "PARTENIE COSMA" ORADEA URBAN Economic Limba română - 168 168 Zi Servicii Tehnologică Liceal 5.56 7.24
+107 BIHOR COLEGIUL ECONOMIC "PARTENIE COSMA" ORADEA URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.59 7.86
+185 BIHOR "LORÁNTFFY ZSUZSANNA" REFORMÁTUS GIMNÁZIUM NAGYVÁRAD URBAN Electric Limba maghiară - 28 21 Zi Tehnic Tehnologică Liceal 4.55 -
+205 BIHOR LICEUL TEOLOGIC PENTICOSTAL "BETEL" ORADEA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.30 7.77
+150 BIHOR COLEGIUL TEHNIC "CONSTANTIN BRÂNCUȘI" ORADEA URBAN Producţie media Limba română - 28 2 Zi Tehnic Tehnologică Liceal 4.71 6.19
+149 BIHOR COLEGIUL TEHNIC "CONSTANTIN BRÂNCUȘI" ORADEA URBAN Estetica şi igiena corpului omenesc Limba română - 28 3 Zi Servicii Tehnologică Liceal 3.18 5.99
+148 BIHOR COLEGIUL TEHNIC "CONSTANTIN BRÂNCUȘI" ORADEA URBAN Construcţii, instalaţii şi lucrări publice Limba română - 28 4 Zi Tehnic Tehnologică Liceal 5.85 6.51
+182 BIHOR LICEUL GRECO-CATOLIC "IULIU MANIU" ORADEA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.35 -
+116 BIHOR COLEGIUL NAȚIONAL "EMANUIL GOJDU" ORADEA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 8.16 -
+115 BIHOR COLEGIUL NAȚIONAL "EMANUIL GOJDU" ORADEA URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 8.53 8.35
+114 BIHOR COLEGIUL NAȚIONAL "EMANUIL GOJDU" ORADEA URBAN Matematică-Informatică Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 9.69 7.50
+113 BIHOR COLEGIUL NAȚIONAL "EMANUIL GOJDU" ORADEA URBAN Matematică-Informatică Limba română - 84 84 Zi Real Teoretică Liceal 8.80 8.21
+238 BIHOR LICEUL TEORETIC GERMAN "FRIEDRICH SCHILLER" ORADEA URBAN Matematică-Informatică Limba germană - 28 10 Zi Real Teoretică Liceal 6.29 6.67
+211 BIHOR "ADY ENDRE" ELMÉLETI LÍCEUM NAGYVÁRAD URBAN Ştiinţe ale Naturii Limba maghiară - 56 56 Zi Real Teoretică Liceal 6.21 8.24
+210 BIHOR "ADY ENDRE" ELMÉLETI LÍCEUM NAGYVÁRAD URBAN Matematică-Informatică Limba maghiară - 56 56 Zi Real Teoretică Liceal 6.35 5.38
+209 BIHOR "ADY ENDRE" ELMÉLETI LÍCEUM NAGYVÁRAD URBAN Filologie Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 6.10 6.37
+202 BIHOR LICEUL TEHNOLOGIC SANITAR "VASILE VOICULESCU" ORADEA URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 6.94 -
+130 BIHOR "MIHAI EMINESCU" NEMZETI KOLLÉGIUM NAGYVÁRAD URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 8.13 7.46
+129 BIHOR "MIHAI EMINESCU" NEMZETI KOLLÉGIUM NAGYVÁRAD URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 9.12 6.64
+128 BIHOR "MIHAI EMINESCU" NEMZETI KOLLÉGIUM NAGYVÁRAD URBAN Ştiinţe ale Naturii Limba maghiară - 28 28 Zi Real Teoretică Liceal 6.58 6.65
+
+127 BIHOR "MIHAI EMINESCU" NEMZETI KOLLÉGIUM NAGYVÁRAD URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 8.66 7.23
+126 BIHOR "MIHAI EMINESCU" NEMZETI KOLLÉGIUM NAGYVÁRAD URBAN Matematică-Informatică Limba maghiară - 28 28 Zi Real Teoretică Liceal 6.59 6.94
+125 BIHOR "MIHAI EMINESCU" NEMZETI KOLLÉGIUM NAGYVÁRAD URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 8.78 7.07
+124 BIHOR "MIHAI EMINESCU" NEMZETI KOLLÉGIUM NAGYVÁRAD URBAN Filologie Limba română - 56 56 Zi Umanist Teoretică Liceal 7.84 7.63
+123 BIHOR "MIHAI EMINESCU" NEMZETI KOLLÉGIUM NAGYVÁRAD URBAN Filologie Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 5.82 6.72
+228 BIHOR LICEUL TEORETIC "LUCIAN BLAGA" ORADEA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.29 5.62
+227 BIHOR LICEUL TEORETIC "LUCIAN BLAGA" ORADEA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.00 4.02
+226 BIHOR LICEUL TEORETIC "LUCIAN BLAGA" ORADEA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.37 5.96
+160 BIHOR COLEGIUL TEHNIC "MIHAI VITEAZUL" ORADEA URBAN Turism şi alimentaţie Limba română - 56 53 Zi Servicii Tehnologică Liceal 3.46 -
+159 BIHOR COLEGIUL TEHNIC "MIHAI VITEAZUL" ORADEA URBAN Industrie alimentară Limba română - 28 5 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.92 -
+158 BIHOR COLEGIUL TEHNIC "MIHAI VITEAZUL" ORADEA URBAN Estetica şi igiena corpului omenesc Limba română - 28 28 Zi Servicii Tehnologică Liceal 3.75 -
+157 BIHOR COLEGIUL TEHNIC "MIHAI VITEAZUL" ORADEA URBAN Electronică automatizări Limba română - 28 22 Zi Tehnic Tehnologică Liceal 3.68 4.76
+156 BIHOR COLEGIUL TEHNIC "MIHAI VITEAZUL" ORADEA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.82 -
+167 BIHOR COLEGIUL TEHNIC "TRAIAN VUIA" ORADEA URBAN Turism şi alimentaţie Limba română - 28 22 Zi Servicii Tehnologică Liceal 3.52 -
+166 BIHOR COLEGIUL TEHNIC "TRAIAN VUIA" ORADEA URBAN Mecanică Limba română - 28 17 Zi Tehnic Tehnologică Liceal 3.21 -
+165 BIHOR COLEGIUL TEHNIC "TRAIAN VUIA" ORADEA URBAN Industrie textilă şi pielărie Limba română - 28 2 Zi Tehnic Tehnologică Liceal 4.74 3.37
+164 BIHOR COLEGIUL TEHNIC "TRAIAN VUIA" ORADEA URBAN Estetica şi igiena corpului omenesc Limba română - 28 1 Zi Servicii Tehnologică Liceal 5.82 4.78
+163 BIHOR COLEGIUL TEHNIC "TRAIAN VUIA" ORADEA URBAN Electronică automatizări Limba română - 28 5 Zi Tehnic Tehnologică Liceal 3.73 5.93
+161 BIHOR COLEGIUL TEHNIC "TRAIAN VUIA" ORADEA URBAN Electric Limba română - 28 8 Zi Tehnic Tehnologică Liceal 4.19 5.69
+203 BIHOR LICEUL TEOLOGIC BAPTIST "EMANUEL" ORADEA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.98 4.85
+234 BIHOR LICEUL TEORETIC "ONISIFOR GHIBU" ORADEA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.78 4.98
+233 BIHOR LICEUL TEORETIC "ONISIFOR GHIBU" ORADEA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.97 8.26
+232 BIHOR LICEUL TEORETIC "ONISIFOR GHIBU" ORADEA URBAN Filologie Limba română - 56 56 Zi Umanist Teoretică Liceal 7.53 8.74
+146 BIHOR COLEGIUL TEHNIC "ALEXANDRU ROMAN" ALEȘD URBAN Mecanică Limba română - 28 11 Zi Tehnic Tehnologică Liceal 3.42 3.79
+145 BIHOR COLEGIUL TEHNIC "ALEXANDRU ROMAN" ALEȘD URBAN Matematică-Informatică Limba română - 28 13 Zi Real Teoretică Liceal 6.34 -
+
+144 BIHOR COLEGIUL TEHNIC "ALEXANDRU ROMAN" ALEȘD URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.41 -
+143 BIHOR COLEGIUL TEHNIC "ALEXANDRU ROMAN" ALEȘD URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 3.11 6.39
+142 BIHOR COLEGIUL TEHNIC "ALEXANDRU ROMAN" ALEȘD URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.34 5.33
+141 BIHOR COLEGIUL TEHNIC "ALEXANDRU ROMAN" ALEȘD URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 3.84 -
+220 BIHOR LICEUL TEORETIC "CONSTANTIN ȘERBAN" ALEȘD URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.44 6.12
+219 BIHOR LICEUL TEORETIC "CONSTANTIN ȘERBAN" ALEȘD URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 4.69 2.41
+242 BIHOR LICEUL VOCAȚIONAL PEDAGOGIC "NICOLAE BOLCAȘ" BEIUȘ URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.88 -
+241 BIHOR LICEUL VOCAȚIONAL PEDAGOGIC "NICOLAE BOLCAȘ" BEIUȘ URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 5.91 -
+137 BIHOR COLEGIUL NAȚIONAL "SAMUIL VULCAN" BEIUȘ URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 5.48 -
+136 BIHOR COLEGIUL NAȚIONAL "SAMUIL VULCAN" BEIUȘ URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 5.66 2.83
+135 BIHOR COLEGIUL NAȚIONAL "SAMUIL VULCAN" BEIUȘ URBAN Matematică-Informatică Limba română - 56 51 Zi Real Teoretică Liceal 3.63 6.40
+134 BIHOR COLEGIUL NAȚIONAL "SAMUIL VULCAN" BEIUȘ URBAN Filologie Limba română - 56 56 Zi Umanist Teoretică Liceal 5.72 -
+155 BIHOR COLEGIUL TEHNIC "IOAN CIORDAȘ" BEIUȘ URBAN Silvicultură Limba română - 28 24 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.29 3.31
+154 BIHOR COLEGIUL TEHNIC "IOAN CIORDAȘ" BEIUȘ URBAN Mecanică Limba română - 14 14 Zi Tehnic Tehnologică Liceal 3.90 -
+153 BIHOR COLEGIUL TEHNIC "IOAN CIORDAȘ" BEIUȘ URBAN Fabricarea produselor din lemn Limba română - 14 3 Zi Tehnic Tehnologică Liceal 5.26 -
+152 BIHOR COLEGIUL TEHNIC "IOAN CIORDAȘ" BEIUȘ URBAN Estetica şi igiena corpului omenesc Limba română - 28 23 Zi Servicii Tehnologică Liceal 3.43 2.48
+151 BIHOR COLEGIUL TEHNIC "IOAN CIORDAȘ" BEIUȘ URBAN Economic Limba română - 28 24 Zi Servicii Tehnologică Liceal 3.48 3.37
+112 BIHOR COLEGIUL NAȚIONAL "AVRAM IANCU" ȘTEI URBAN Ştiinţe ale Naturii Limba română - 28 19 Zi Real Teoretică Liceal 4.75 8.62
+111 BIHOR COLEGIUL NAȚIONAL "AVRAM IANCU" ȘTEI URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.32 9.29
+110 BIHOR COLEGIUL NAȚIONAL "AVRAM IANCU" ȘTEI URBAN Filologie Limba română - 56 48 Zi Umanist Teoretică Liceal 2.61 9.52
+170 BIHOR COLEGIUL TEHNIC "UNIREA" ȘTEI URBAN Turism şi alimentaţie Limba română - 28 8 Zi Servicii Tehnologică Liceal 2.65 -
+169 BIHOR COLEGIUL TEHNIC "UNIREA" ȘTEI URBAN Mecanică Limba română - 28 12 Zi Tehnic Tehnologică Liceal 1.99 -
+168 BIHOR COLEGIUL TEHNIC "UNIREA" ȘTEI URBAN Economic Limba română - 28 17 Zi Servicii Tehnologică Liceal 3.52 -
+133 BIHOR COLEGIUL NAȚIONAL "OCTAVIAN GOGA" MARGHITA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.03 6.41
+132 BIHOR COLEGIUL NAȚIONAL "OCTAVIAN GOGA" MARGHITA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 6.52 6.47
+
+131 BIHOR COLEGIUL NAȚIONAL "OCTAVIAN GOGA" MARGHITA URBAN Filologie Limba română - 56 56 Zi Umanist Teoretică Liceal 5.55 5.18
+189 BIHOR LICEUL TEHNOLOGIC "HOREA" MARGHITA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.40 -
+188 BIHOR LICEUL TEHNOLOGIC "HOREA" MARGHITA URBAN Comerţ Limba română - 28 23 Zi Servicii Tehnologică Liceal 2.51 2.42
+187 BIHOR LICEUL TEHNOLOGIC "HOREA" MARGHITA URBAN Agricultură Limba română - 28 8 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.23 4.94
+224 BIHOR "HORVÁTH JÁNOS" ELMÉLETI LÍCEUM MARGITTA URBAN Ştiinţe ale Naturii Limba maghiară - 28 27 Zi Real Teoretică Liceal 4.49 7.79
+223 BIHOR "HORVÁTH JÁNOS" ELMÉLETI LÍCEUM MARGITTA URBAN Matematică-Informatică Limba maghiară - 28 28 Zi Real Teoretică Liceal 6.39 7.78
+222 BIHOR "HORVÁTH JÁNOS" ELMÉLETI LÍCEUM MARGITTA URBAN Filologie Limba maghiară - 28 26 Zi Umanist Teoretică Liceal 2.70 2.83
+199 BIHOR LICEUL TEHNOLOGIC NR.1 SALONTA URBAN Turism şi alimentaţie Limba română - 28 22 Zi Servicii Tehnologică Liceal 3.23 9.17
+197 BIHOR LICEUL TEHNOLOGIC NR.1 SALONTA URBAN Economic Limba română - 28 26 Zi Servicii Tehnologică Liceal 3.97 9.24
+196 BIHOR LICEUL TEHNOLOGIC NR.1 SALONTA URBAN Agricultură Limba română - 28 13 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.08 7.53
+214 BIHOR "ARANY JÁNOS" ELMÉLETI LÍCEUM NAGYSZALONTA URBAN Ştiinţe ale Naturii Limba maghiară - 28 16 Zi Real Teoretică Liceal 3.95 8.23
+213 BIHOR "ARANY JÁNOS" ELMÉLETI LÍCEUM NAGYSZALONTA URBAN Matematică-Informatică Limba maghiară - 28 22 Zi Real Teoretică Liceal 5.00 8.85
+212 BIHOR "ARANY JÁNOS" ELMÉLETI LÍCEUM NAGYSZALONTA URBAN Filologie Limba maghiară - 28 13 Zi Umanist Teoretică Liceal 4.15 8.83
+140 BIHOR COLEGIUL NAȚIONAL "TEODOR NEȘ" SALONTA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 6.27 4.57
+139 BIHOR COLEGIUL NAȚIONAL "TEODOR NEȘ" SALONTA URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 5.38 -
+138 BIHOR COLEGIUL NAȚIONAL "TEODOR NEȘ" SALONTA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.16 6.32
+221 BIHOR LICEUL TEORETIC "GABRIEL ŢEPELEA" BOROD RURAL Ştiinţe ale Naturii Limba română - 28 22 Zi Real Teoretică Liceal 2.49 3.20
+191 BIHOR "TAMÁSI ÁRON" MEZŐGAZDASÁGI ÉS IPARI SZAKKÉPZŐ ISKOLA BORS RURAL Electronică automatizări Limba maghiară - 28 3 Zi Tehnic Tehnologică Liceal 4.45 5.36
+240 BIHOR LICEUL TEORETIC NR.1 BRATCA RURAL Ştiinţe ale Naturii Limba română - 28 27 Zi Real Teoretică Liceal 2.06 -
+239 BIHOR LICEUL TEORETIC NR.1 BRATCA RURAL Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 4.81 7.90
+
+136 BRAȘOV Colegiul Național de Informatică 'Gr. Moisil' Brașov URBAN Matematică-Informatică Limba română - 140 140 Zi Real Teoretică Liceal 8.93 -
+115 BRAȘOV 'Áprily Lajos' Főgimnázium Brassó URBAN Ştiinţe ale Naturii Limba maghiară - 28 28 Zi Real Teoretică Liceal 7.36 9.49
+114 BRAȘOV 'Áprily Lajos' Főgimnázium Brassó URBAN Matematică-Informatică Limba maghiară - 28 26 Zi Real Teoretică Liceal 7.02 9.51
+113 BRAȘOV 'Áprily Lajos' Főgimnázium Brassó URBAN Filologie Limba maghiară Limba engleză 28 10 Zi Umanist Teoretică Liceal 6.23 9.67
+112 BRAȘOV 'Áprily Lajos' Főgimnázium Brassó URBAN Comerţ Limba maghiară - 28 16 Zi Servicii Tehnologică Liceal 5.63 9.62
+197 BRAȘOV Liceul Teoretic 'Johannes Honterus' Brașov URBAN Ştiinţe ale Naturii Limba germană - 56 56 Zi Real Teoretică Liceal 8.68 7.44
+196 BRAȘOV Liceul Teoretic 'Johannes Honterus' Brașov URBAN Filologie Limba germană - 56 56 Zi Umanist Teoretică Liceal 7.43 -
+185 BRAȘOV Liceul Tehnologic Silvic 'Dr. Nicolae Rucăreanu' Brașov URBAN Silvicultură Limba română - 56 45 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.87 -
+184 BRAȘOV Liceul Tehnologic Silvic 'Dr. Nicolae Rucăreanu' Brașov URBAN Fabricarea produselor din lemn Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.11 5.12
+156 BRAȘOV 'Remus Răduleț' Technikai Kollégium Brassó URBAN Electronică automatizări Limba română - 28 10 Zi Tehnic Tehnologică Liceal 4.35 -
+155 BRAȘOV 'Remus Răduleț' Technikai Kollégium Brassó URBAN Electronică automatizări Limba maghiară - 14 13 Zi Tehnic Tehnologică Liceal 2.64 4.62
+154 BRAȘOV 'Remus Răduleț' Technikai Kollégium Brassó URBAN Electronică automatizări Limba germană - 14 14 Zi Tehnic Tehnologică Liceal 5.57 2.68
+153 BRAȘOV 'Remus Răduleț' Technikai Kollégium Brassó URBAN Electric Limba română - 28 10 Zi Tehnic Tehnologică Liceal 3.38 5.68
+141 BRAȘOV Colegiul Tehnic 'Maria Baiulescu' Brașov URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.61 -
+140 BRAȘOV Colegiul Tehnic 'Maria Baiulescu' Brașov URBAN Industrie textilă şi pielărie Limba română - 56 56 Zi Tehnic Tehnologică Liceal 5.69 9.25
+138 BRAȘOV Colegiul Tehnic 'Maria Baiulescu' Brașov URBAN Estetica şi igiena corpului omenesc Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.27 7.48
+171 BRAȘOV Liceul 'Andrei Mureșanu' Brașov URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.41 5.38
+169 BRAȘOV Liceul 'Andrei Mureșanu' Brașov URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.35 -
+152 BRAȘOV Colegiul Tehnic 'Transilvania' Brașov URBAN Mecanică Limba română - 56 31 Zi Tehnic Tehnologică Liceal 4.07 4.17
+151 BRAȘOV Colegiul Tehnic 'Transilvania' Brașov URBAN Electromecanică Limba română - 56 56 Zi Tehnic Tehnologică Liceal 5.90 -
+158 BRAȘOV Colegiul Tehnic de Transporturi Brașov URBAN Producţie media Limba română - 28 20 Zi Tehnic Tehnologică Liceal 3.46 5.41
+157 BRAȘOV Colegiul Tehnic de Transporturi Brașov URBAN Electronică automatizări Limba română - 28 9 Zi Tehnic Tehnologică Liceal 3.68 4.24
+162 BRAȘOV Colegiul de Științe 'Grigore Antipa' Brașov URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 8.34 -
+161 BRAȘOV Colegiul de Științe 'Grigore Antipa' Brașov URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 7.91 4.19
+160 BRAȘOV Colegiul de Științe 'Grigore Antipa' Brașov URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.57 3.34
+
+147 BRAȘOV Colegiul Tehnic 'Mircea Cristea' Brașov URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 6.42 -
+146 BRAȘOV Colegiul Tehnic 'Mircea Cristea' Brașov URBAN Producţie media Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.65 6.25
+145 BRAȘOV Colegiul Tehnic 'Mircea Cristea' Brașov URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.04 -
+143 BRAȘOV Colegiul Tehnic 'Mircea Cristea' Brașov URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.27 6.75
+142 BRAȘOV Colegiul Tehnic 'Mircea Cristea' Brașov URBAN Construcţii, instalaţii şi lucrări publice Limba română - 28 21 Zi Tehnic Tehnologică Liceal 3.40 6.94
+107 BRAȘOV Colegiul 'Nicolae Titulescu' Brașov URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.66 7.99
+105 BRAȘOV Colegiul 'Nicolae Titulescu' Brașov URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 7.79 8.53
+104 BRAȘOV Colegiul 'Nicolae Titulescu' Brașov URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.98 8.86
+103 BRAȘOV Colegiul 'Nicolae Titulescu' Brașov URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.64 -
+132 BRAȘOV Colegiul Național 'Unirea' Brașov URBAN Ştiinţe Sociale Limba română Limba spaniolă 28 28 Zi Umanist Teoretică Liceal 7.70 8.79
+131 BRAȘOV Colegiul Național 'Unirea' Brașov URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.67 7.59
+130 BRAȘOV Colegiul Național 'Unirea' Brașov URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.71 8.31
+129 BRAȘOV Colegiul Național 'Unirea' Brașov URBAN Filologie Limba română Limba franceză 28 28 Zi Umanist Teoretică Liceal 7.72 8.44
+128 BRAȘOV Colegiul Național 'Unirea' Brașov URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 8.60 9.16
+135 BRAȘOV Colegiul Național Economic 'Andrei Bârseanu' Brașov URBAN Turism şi alimentaţie Limba română - 84 84 Zi Servicii Tehnologică Liceal 7.01 -
+134 BRAȘOV Colegiul Național Economic 'Andrei Bârseanu' Brașov URBAN Economic Limba română - 84 84 Zi Servicii Tehnologică Liceal 7.12 9.11
+133 BRAȘOV Colegiul Național Economic 'Andrei Bârseanu' Brașov URBAN Comerţ Limba română - 56 56 Zi Servicii Tehnologică Liceal 7.40 7.86
+124 BRAȘOV Colegiul Național 'Dr. Ioan Meșotă' Brașov URBAN Ştiinţe ale Naturii Limba română Limba germană 28 28 Zi Real Teoretică Liceal 9.21 9.15
+123 BRAȘOV Colegiul Național 'Dr. Ioan Meșotă' Brașov URBAN Ştiinţe ale Naturii Limba română Limba franceză 28 28 Zi Real Teoretică Liceal 9.08 6.84
+122 BRAȘOV Colegiul Național 'Dr. Ioan Meșotă' Brașov URBAN Ştiinţe ale Naturii Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 9.54 -
+121 BRAȘOV Colegiul Național 'Dr. Ioan Meșotă' Brașov URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 9.48 4.82
+120 BRAȘOV Colegiul Național 'Dr. Ioan Meșotă' Brașov URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 8.99 -
+111 BRAȘOV Colegiul Național 'Andrei Șaguna' Brașov URBAN Ştiinţe Sociale Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 9.03 8.01
+110 BRAȘOV Colegiul Național 'Andrei Șaguna' Brașov URBAN Ştiinţe ale Naturii Limba română Limba franceză 28 28 Zi Real Teoretică Liceal 8.85 -
+109 BRAȘOV Colegiul Național 'Andrei Șaguna' Brașov URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 9.35 8.23
+
+108 BRAȘOV Colegiul Național 'Andrei Șaguna' Brașov URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 9.53 8.58
+165 BRAȘOV Colegiul de Științe ale Naturii 'Emil Racoviță' Brașov URBAN Ştiinţe Sociale Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 7.97 8.44
+164 BRAȘOV Colegiul de Științe ale Naturii 'Emil Racoviță' Brașov URBAN Ştiinţe ale Naturii Limba română - 112 112 Zi Real Teoretică Liceal 8.07 9.01
+163 BRAȘOV Colegiul de Științe ale Naturii 'Emil Racoviță' Brașov URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.27 -
+194 BRAȘOV Liceul Teoretic 'Ioan Pascu' Codlea URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.06 6.89
+193 BRAȘOV Liceul Teoretic 'Ioan Pascu' Codlea URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.58 7.57
+150 BRAȘOV Colegiul Tehnic 'Simion Mehedinți' Codlea URBAN Turism şi alimentaţie Limba română - 28 11 Zi Servicii Tehnologică Liceal 3.61 6.54
+148 BRAȘOV Colegiul Tehnic 'Simion Mehedinți' Codlea URBAN Economic Limba română - 28 21 Zi Servicii Tehnologică Liceal 3.93 6.09
+119 BRAȘOV Colegiul Național 'Doamna Stanca' Făgăraș URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 6.62 7.85
+118 BRAȘOV Colegiul Național 'Doamna Stanca' Făgăraș URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.58 8.72
+117 BRAȘOV Colegiul Național 'Doamna Stanca' Făgăraș URBAN Ştiinţe ale Naturii Limba germană - 28 15 Zi Real Teoretică Liceal 4.56 6.03
+116 BRAȘOV Colegiul Național 'Doamna Stanca' Făgăraș URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.17 5.31
+178 BRAȘOV Liceul Tehnologic 'Dr. Ioan Șenchea' Făgăraș URBAN Industrie alimentară Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.85 4.01
+177 BRAȘOV Liceul Tehnologic 'Dr. Ioan Șenchea' Făgăraș URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.43 2.91
+127 BRAȘOV Colegiul Național 'Radu Negru' Făgăraș URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.36 9.19
+126 BRAȘOV Colegiul Național 'Radu Negru' Făgăraș URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.77 9.60
+125 BRAȘOV Colegiul Național 'Radu Negru' Făgăraș URBAN Matematică-Informatică Limba română - 84 84 Zi Real Teoretică Liceal 7.00 9.43
+101 BRAȘOV Colegiul 'Aurel Vijoli' Făgăraș URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 3.47 -
+198 BRAȘOV Liceul Teoretic 'Mihail Săulescu' Predeal URBAN Turism şi alimentaţie Limba română - 28 8 Zi Servicii Tehnologică Liceal 3.46 8.75
+183 BRAȘOV Liceul Tehnologic Râșnov URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 4.21 4.58
+176 BRAȘOV 'Șt.O.Iosif' Líceum Kőhalom URBAN Ştiinţe ale Naturii Limba română - 28 21 Zi Real Teoretică Liceal 3.53 3.12
+175 BRAȘOV 'Șt.O.Iosif' Líceum Kőhalom URBAN Mecanică Limba română - 28 24 Zi Tehnic Tehnologică Liceal 2.97 4.05
+174 BRAȘOV 'Șt.O.Iosif' Líceum Kőhalom URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 4.99 6.21
+173 BRAȘOV 'Șt.O.Iosif' Líceum Kőhalom URBAN Electric Limba maghiară - 28 7 Zi Tehnic Tehnologică Liceal 2.60 -
+201 BRAȘOV 'Zajzoni Rab István' Elméleti Líceum Négyfalu URBAN Ştiinţe ale Naturii Limba maghiară - 28 14 Zi Real Teoretică Liceal 5.94 6.04
+
+190 BRAȘOV Liceul Teoretic 'George Moroianu' Săcele URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 4.91 5.54
+189 BRAȘOV Liceul Teoretic 'George Moroianu' Săcele URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 5.30 -
+192 BRAȘOV Liceul Teoretic 'I.C. Drăgușanu' Victoria URBAN Matematică-Informatică Limba română - 28 24 Zi Real Teoretică Liceal 5.14 4.76
+191 BRAȘOV Liceul Teoretic 'I.C. Drăgușanu' Victoria URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 4.12 5.51
+137 BRAȘOV Colegiul Tehnic 'Alexandru Bărbat' Victoria URBAN Turism şi alimentaţie Limba română - 28 19 Zi Servicii Tehnologică Liceal 3.83 7.89
+200 BRAȘOV Liceul Teoretic 'Mitropolit Ioan Mețianu' Zărnești URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 6.58 7.08
+199 BRAȘOV Liceul Teoretic 'Mitropolit Ioan Mețianu' Zărnești URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.28 4.90
+180 BRAȘOV Liceul Tehnologic 'Malaxa' Zărnești URBAN Mecanică Limba română - 28 12 Zi Tehnic Tehnologică Liceal 3.16 -
+181 BRAȘOV Liceul Tehnologic 'Sextil Pușcariu' Bran RURAL Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 3.89 3.65
+172 BRAȘOV Liceul 'Petru Rareș' Feldioara RURAL Economic Limba română - 28 10 Zi Servicii Tehnologică Liceal 4.24 3.93
+168 BRAȘOV Colegiul pentru Agricultură și Industrie Alimentară 'Țara Bârsei' Prejmer RURAL Economic Limba română - 28 19 Zi Servicii Tehnologică Liceal 4.12 9.02
+167 BRAȘOV Colegiul pentru Agricultură și Industrie Alimentară 'Țara Bârsei' Prejmer RURAL Agricultură Limba română - 28 10 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.44 3.48
+
+140 ALBA COLEGIUL TEHNIC "APULUM" ALBA IULIA URBAN Materiale de construcţii Limba română - 14 14 Zi Tehnic Tehnologică Liceal 5.96 4.21
+139 ALBA COLEGIUL TEHNIC "APULUM" ALBA IULIA URBAN Industrie textilă şi pielărie Limba română - 14 14 Zi Tehnic Tehnologică Liceal 6.21 -
+138 ALBA COLEGIUL TEHNIC "APULUM" ALBA IULIA URBAN Estetica şi igiena corpului omenesc Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.71 3.90
+137 ALBA COLEGIUL TEHNIC "APULUM" ALBA IULIA URBAN Chimie industrială Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.52 5.87
+182 ALBA SEMINARUL TEOLOGIC ORTODOX "SFANTUL SIMION STEFAN" ALBA IULIA URBAN Ştiinţe Sociale Limba română - 14 14 Zi Umanist Teoretică Liceal 8.07 7.09
+180 ALBA SEMINARUL TEOLOGIC ORTODOX "SFANTUL SIMION STEFAN" ALBA IULIA URBAN Filologie Limba română - 14 14 Zi Umanist Teoretică Liceal 7.69 -
+103 ALBA COLEGIUL ECONOMIC "DIONISIE POP MARTIAN" ALBA IULIA URBAN Turism şi alimentaţie Limba română - 56 56 Zi Servicii Tehnologică Liceal 7.28 8.22
+102 ALBA COLEGIUL ECONOMIC "DIONISIE POP MARTIAN" ALBA IULIA URBAN Economic Limba română - 56 56 Zi Servicii Tehnologică Liceal 8.11 8.99
+101 ALBA COLEGIUL ECONOMIC "DIONISIE POP MARTIAN" ALBA IULIA URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 7.18 8.19
+157 ALBA LICEUL "HOREA, CLOSCA SI CRISAN" ABRUD URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 6.83 -
+156 ALBA LICEUL "HOREA, CLOSCA SI CRISAN" ABRUD URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.17 -
+155 ALBA LICEUL "HOREA, CLOSCA SI CRISAN" ABRUD URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.58 -
+131 ALBA COLEGIUL NATIONAL "TITU MAIORESCU" AIUD URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.58 7.80
+130 ALBA COLEGIUL NATIONAL "TITU MAIORESCU" AIUD URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.57 8.89
+129 ALBA COLEGIUL NATIONAL "TITU MAIORESCU" AIUD URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.61 7.60
+133 ALBA COLEGIUL TEHNIC AIUD URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.08 4.28
+132 ALBA COLEGIUL TEHNIC AIUD URBAN Economic Limba română - 56 56 Zi Servicii Tehnologică Liceal 6.19 -
+110 ALBA "BETHLEN GÁBOR" KOLLÉGIUM NAGYENYED URBAN Ştiinţe ale Naturii Limba maghiară - 14 14 Zi Real Teoretică Liceal 7.70 7.38
+108 ALBA "BETHLEN GÁBOR" KOLLÉGIUM NAGYENYED URBAN Matematică-Informatică Limba maghiară - 14 14 Zi Real Teoretică Liceal 7.64 7.90
+158 ALBA LICEUL TEHNOLOGIC AGRICOL "ALEXANDRU BORZA" CIUMBRUD URBAN Agricultură Limba română - 28 23 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.04 -
+123 ALBA COLEGIUL NATIONAL "INOCHENTIE MICU CLAIN" BLAJ URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.58 8.10
+121 ALBA COLEGIUL NATIONAL "INOCHENTIE MICU CLAIN" BLAJ URBAN Matematică-Informatică Limba română - 56 54 Zi Real Teoretică Liceal 4.44 8.27
+120 ALBA COLEGIUL NATIONAL "INOCHENTIE MICU CLAIN" BLAJ URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.87 7.04
+172 ALBA LICEUL TEHNOLOGIC "STEFAN MANCIULEA" BLAJ URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.13 6.69
+171 ALBA LICEUL TEHNOLOGIC "STEFAN MANCIULEA" BLAJ URBAN Agricultură Limba română - 28 25 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.67 -
+
+168 ALBA LICEUL TEHNOLOGIC SILVIC CIMPENI URBAN Electronică automatizări Limba română - 28 23 Zi Tehnic Tehnologică Liceal 3.12 -
+167 ALBA LICEUL TEHNOLOGIC SILVIC CIMPENI URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.35 -
+107 ALBA COLEGIUL NATIONAL "AVRAM IANCU" CIMPENI URBAN Ştiinţe Sociale Limba română Limba franceză 28 28 Zi Umanist Teoretică Liceal 6.85 7.57
+106 ALBA COLEGIUL NATIONAL "AVRAM IANCU" CIMPENI URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 7.53 8.22
+105 ALBA COLEGIUL NATIONAL "AVRAM IANCU" CIMPENI URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.38 9.04
+104 ALBA COLEGIUL NATIONAL "AVRAM IANCU" CIMPENI URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 7.49 8.02
+114 ALBA COLEGIUL NATIONAL "DAVID PRODAN" CUGIR URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.47 4.49
+113 ALBA COLEGIUL NATIONAL "DAVID PRODAN" CUGIR URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.51 -
+112 ALBA COLEGIUL NATIONAL "DAVID PRODAN" CUGIR URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 4.47 8.75
+143 ALBA COLEGIUL TEHNIC "I. D. LAZARESCU" CUGIR URBAN Mecanică Limba română - 28 13 Zi Tehnic Tehnologică Liceal 3.77 -
+142 ALBA COLEGIUL TEHNIC "I. D. LAZARESCU" CUGIR URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.69 -
+177 ALBA LICEUL TEORETIC "PETRU MAIOR" OCNA MURES URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 5.09 -
+176 ALBA LICEUL TEORETIC "PETRU MAIOR" OCNA MURES URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 6.86 6.42
+175 ALBA LICEUL TEORETIC "PETRU MAIOR" OCNA MURES URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 5.38 3.78
+127 ALBA COLEGIUL NATIONAL "LUCIAN BLAGA" SEBES URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.73 8.37
+126 ALBA COLEGIUL NATIONAL "LUCIAN BLAGA" SEBES URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 8.26 8.69
+125 ALBA COLEGIUL NATIONAL "LUCIAN BLAGA" SEBES URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 8.68 7.31
+124 ALBA COLEGIUL NATIONAL "LUCIAN BLAGA" SEBES URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 7.83 7.76
+166 ALBA LICEUL TEHNOLOGIC SEBES URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.96 4.69
+165 ALBA LICEUL TEHNOLOGIC SEBES URBAN Industrie alimentară Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 6.04 -
+164 ALBA LICEUL TEHNOLOGIC SEBES URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.97 -
+163 ALBA LICEUL TEHNOLOGIC SEBES URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 7.37 6.62
+154 ALBA LICEUL GERMAN SEBES URBAN Ştiinţe ale Naturii Limba germană - 14 1 Zi Real Teoretică Liceal 7.82 -
+153 ALBA LICEUL GERMAN SEBES URBAN Filologie Limba germană - 14 9 Zi Umanist Teoretică Liceal 4.45 -
+145 ALBA LICEUL "CORNELIU MEDREA" ZLATNA URBAN Ştiinţe ale Naturii Limba română - 28 23 Zi Real Teoretică Liceal 5.04 6.18
+
+144 ALBA LICEUL "CORNELIU MEDREA" ZLATNA URBAN Electronică automatizări Limba română - 28 22 Zi Tehnic Tehnologică Liceal 3.02 6.83
+173 ALBA LICEUL TEHNOLOGIC "TARA MOTILOR" ALBAC RURAL Agricultură Limba română - 28 13 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.01 7.30
+152 ALBA LICEUL "DR. LAZAR CHIRILA" BAIA DE ARIES URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.38 6.72
+151 ALBA LICEUL "DR. LAZAR CHIRILA" BAIA DE ARIES URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 5.24 -
+179 ALBA LICEUL TEORETIC TEIUS URBAN Ştiinţe ale Naturii Limba română - 28 19 Zi Real Teoretică Liceal 3.63 -
+178 ALBA LICEUL TEORETIC TEIUS URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 4.28 -
+161 ALBA LICEUL TEHNOLOGIC JIDVEI RURAL Agricultură Limba română - 28 17 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.95 -
+136 ALBA COLEGIUL TEHNIC "ALEXANDRU DOMSA" ALBA IULIA URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.52 7.12
+135 ALBA COLEGIUL TEHNIC "ALEXANDRU DOMSA" ALBA IULIA URBAN Electric Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.65 6.68
+119 ALBA COLEGIUL NATIONAL "HOREA CLOSCA SI CRISAN" ALBA IULIA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 8.88 9.30
+118 ALBA COLEGIUL NATIONAL "HOREA CLOSCA SI CRISAN" ALBA IULIA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.91 9.64
+117 ALBA COLEGIUL NATIONAL "HOREA CLOSCA SI CRISAN" ALBA IULIA URBAN Matematică-Informatică Limba română - 84 84 Zi Real Teoretică Liceal 9.15 9.44
+116 ALBA COLEGIUL NATIONAL "HOREA CLOSCA SI CRISAN" ALBA IULIA URBAN Filologie Limba română Limba franceză 28 28 Zi Umanist Teoretică Liceal 7.78 8.05
+115 ALBA COLEGIUL NATIONAL "HOREA CLOSCA SI CRISAN" ALBA IULIA URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 8.74 9.16
+
+177 HARGHITA "DR.P. BOROS FORTUNÁT" ELMÉLETI KÖZÉPISKOLA ZETELAKA RURAL Ştiinţe Sociale Limba maghiară - 28 15 Zi Umanist Teoretică Liceal 3.72 -
+161 HARGHITA "TIVAI NAGY IMRE" LÍCEUM CSÍKSZENTMÁRTON RURAL Turism şi alimentaţie Limba maghiară - 14 8 Zi Servicii Tehnologică Liceal 3.68 3.69
+160 HARGHITA "TIVAI NAGY IMRE" LÍCEUM CSÍKSZENTMÁRTON RURAL Agricultură Limba maghiară - 14 1 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.06 -
+126 HARGHITA LICEUL "MIRON CRISTEA" SUBCETATE RURAL Ştiinţe ale Naturii Limba română - 14 2 Zi Real Teoretică Liceal 3.79 -
+124 HARGHITA LICEUL "MIRON CRISTEA" SUBCETATE RURAL Filologie Limba română - 14 8 Zi Umanist Teoretică Liceal 2.61 -
+134 HARGHITA "BENEDEK ELEK" PEDAGÓGIAI LÍCEUM SZÉKELYUDVAHELY URBAN Ştiinţe ale Naturii Limba maghiară Limba engleză 28 28 Zi Real Teoretică Liceal 7.71 7.85
+114 HARGHITA "BACZKAMADARASI KIS GERGELY" REFORMÁTUS KOLLÉGIUM SZÉKELYUDVARHELY URBAN Ştiinţe ale Naturii Limba maghiară - 14 14 Zi Real Teoretică Liceal 7.78 8.43
+112 HARGHITA "BACZKAMADARASI KIS GERGELY" REFORMÁTUS KOLLÉGIUM SZÉKELYUDVARHELY URBAN Matematică-Informatică Limba maghiară - 14 14 Zi Real Teoretică Liceal 7.72 8.29
+137 HARGHITA "EÖTVÖS JÓZSEF" SZAKKÖZÉPISKOLA SZÉKELYUDVARHELY URBAN Mecanică Limba maghiară - 28 28 Zi Tehnic Tehnologică Liceal 5.62 6.53
+136 HARGHITA "EÖTVÖS JÓZSEF" SZAKKÖZÉPISKOLA SZÉKELYUDVARHELY URBAN Industrie alimentară Limba maghiară - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.63 5.00
+135 HARGHITA "EÖTVÖS JÓZSEF" SZAKKÖZÉPISKOLA SZÉKELYUDVARHELY URBAN Agricultură Limba maghiară - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.89 -
+120 HARGHITA "BÁNYAI JÁNOS" MŰSZAKI SZAKKÖZÉPISKOLA SZÉKELYUDVARHELY URBAN Mecanică Limba maghiară - 14 14 Zi Tehnic Tehnologică Liceal 4.96 5.11
+119 HARGHITA "BÁNYAI JÁNOS" MŰSZAKI SZAKKÖZÉPISKOLA SZÉKELYUDVARHELY URBAN Estetica şi igiena corpului omenesc Limba maghiară - 14 14 Zi Servicii Tehnologică Liceal 5.11 -
+123 HARGHITA LICEUL "MARIN PREDA" ODORHEIU SECUIESC URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 2.64 -
+196 HARGHITA "TAMÁSI ÁRON" ELMÉLETI LÍCEUM SZÉKELYUDVARHELY URBAN Ştiinţe ale Naturii Limba maghiară Limba engleză 28 28 Zi Real Teoretică Liceal 8.04 -
+195 HARGHITA "TAMÁSI ÁRON" ELMÉLETI LÍCEUM SZÉKELYUDVARHELY URBAN Ştiinţe ale Naturii Limba maghiară - 28 28 Zi Real Teoretică Liceal 8.01 8.70
+193 HARGHITA "TAMÁSI ÁRON" ELMÉLETI LÍCEUM SZÉKELYUDVARHELY URBAN Matematică-Informatică Limba maghiară - 28 28 Zi Real Teoretică Liceal 8.19 -
+192 HARGHITA "TAMÁSI ÁRON" ELMÉLETI LÍCEUM SZÉKELYUDVARHELY URBAN Filologie Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 7.60 8.40
+151 HARGHITA "KÓS KÁROLY" SZAKKÖZÉPISKOLA SZÉKELYUDVARHELY URBAN Turism şi alimentaţie Limba maghiară - 56 56 Zi Servicii Tehnologică Liceal 6.76 -
+150 HARGHITA "KÓS KÁROLY" SZAKKÖZÉPISKOLA SZÉKELYUDVARHELY URBAN Economic Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 7.20 7.21
+149 HARGHITA "KÓS KÁROLY" SZAKKÖZÉPISKOLA CSÍKSZEREDA URBAN Protecţia mediului Limba maghiară - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.93 5.20
+148 HARGHITA "KÓS KÁROLY" SZAKKÖZÉPISKOLA CSÍKSZEREDA URBAN Construcţii, instalaţii şi lucrări publice Limba maghiară - 28 28 Zi Tehnic Tehnologică Liceal 5.19 7.23
+158 HARGHITA "SZÉKELY KÁROLY" SZAKKÖZÉPISKOLA CSÍKSZEREDA URBAN Producţie media Limba maghiară - 14 8 Zi Tehnic Tehnologică Liceal 3.63 5.60
+157 HARGHITA "SZÉKELY KÁROLY" SZAKKÖZÉPISKOLA CSÍKSZEREDA URBAN Mecanică Limba maghiară - 14 10 Zi Tehnic Tehnologică Liceal 2.66 -
+156 HARGHITA "SZÉKELY KÁROLY" SZAKKÖZÉPISKOLA CSÍKSZEREDA URBAN Electric Limba maghiară - 28 9 Zi Tehnic Tehnologică Liceal 2.69 7.56
+
+111 HARGHITA "MÁRTON ÁRON" FŐGIMNÁZIUM CSÍKSZEREDA URBAN Ştiinţe Sociale Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 7.75 4.14
+110 HARGHITA "MÁRTON ÁRON" FŐGIMNÁZIUM CSÍKSZEREDA URBAN Ştiinţe ale Naturii Limba maghiară - 56 56 Zi Real Teoretică Liceal 7.98 5.18
+109 HARGHITA "MÁRTON ÁRON" FŐGIMNÁZIUM CSÍKSZEREDA URBAN Matematică-Informatică Limba maghiară - 56 56 Zi Real Teoretică Liceal 7.55 8.49
+108 HARGHITA "MÁRTON ÁRON" FŐGIMNÁZIUM CSÍKSZEREDA URBAN Filologie Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 7.36 7.25
+104 HARGHITA COLEGIUL NAŢIONAL "OCTAVIAN GOGA" MIERCUREA CIUC URBAN Ştiinţe Sociale Limba română - 28 26 Zi Umanist Teoretică Liceal 4.54 8.50
+103 HARGHITA COLEGIUL NAŢIONAL "OCTAVIAN GOGA" MIERCUREA CIUC URBAN Ştiinţe ale Naturii Limba română - 28 20 Zi Real Teoretică Liceal 5.08 8.58
+102 HARGHITA COLEGIUL NAŢIONAL "OCTAVIAN GOGA" MIERCUREA CIUC URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.12 8.85
+101 HARGHITA COLEGIUL NAŢIONAL "OCTAVIAN GOGA" MIERCUREA CIUC URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.49 8.22
+146 HARGHITA "JOANNES KÁJONI" SZAKKÖZÉPISKOLA CSÍKSZEREDA URBAN Turism şi alimentaţie Limba română - 14 14 Zi Servicii Tehnologică Liceal 5.33 -
+145 HARGHITA "JOANNES KÁJONI" SZAKKÖZÉPISKOLA CSÍKSZEREDA URBAN Turism şi alimentaţie Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 6.95 -
+144 HARGHITA "JOANNES KÁJONI" SZAKKÖZÉPISKOLA CSÍKSZEREDA URBAN Economic Limba română - 14 11 Zi Servicii Tehnologică Liceal 4.69 -
+143 HARGHITA "JOANNES KÁJONI" SZAKKÖZÉPISKOLA CSÍKSZEREDA URBAN Economic Limba maghiară - 56 56 Zi Servicii Tehnologică Liceal 6.18 -
+142 HARGHITA "JOANNES KÁJONI" SZAKKÖZÉPISKOLA CSÍKSZEREDA URBAN Comerţ Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 6.49 2.45
+172 HARGHITA "SEGITŐ MÁRIA" RÓMAI KATOLIKUS GIMNÁZIUM CSÍKSZEREDA URBAN Ştiinţe Sociale Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 7.40 8.19
+171 HARGHITA "SEGITŐ MÁRIA" RÓMAI KATOLIKUS GIMNÁZIUM CSÍKSZEREDA URBAN Ştiinţe ale Naturii Limba maghiară - 28 28 Zi Real Teoretică Liceal 7.76 8.47
+163 HARGHITA "VENCZEL JÓZSEF" SZAKKÖZÉPISKOLA CSÍKSZEREDA URBAN Silvicultură Limba maghiară - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.16 3.83
+162 HARGHITA "VENCZEL JÓZSEF" SZAKKÖZÉPISKOLA CSÍKSZEREDA URBAN Industrie alimentară Limba maghiară - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.76 3.64
+153 HARGHITA LICEUL TEHNOLOGIC "LIVIU REBREANU" BĂLAN URBAN Ştiinţe ale Naturii Limba română - 13 13 Zi Real Teoretică Liceal 6.48 6.59
+152 HARGHITA LICEUL TEHNOLOGIC "LIVIU REBREANU" BĂLAN URBAN Filologie Limba română - 15 12 Zi Umanist Teoretică Liceal 4.49 5.82
+165 HARGHITA "ZIMMETHAUSEN" SZAKLÍCEUM BORSZÉK URBAN Turism şi alimentaţie Limba maghiară - 28 8 Zi Servicii Tehnologică Liceal 3.99 -
+185 HARGHITA "ORBÁN BALÁZS" GIMNÁZIUM SZÉKELYKERESZTÚR URBAN Matematică-Informatică Limba maghiară - 28 23 Zi Real Teoretică Liceal 6.05 7.59
+184 HARGHITA "ORBÁN BALÁZS" GIMNÁZIUM SZÉKELYKERESZTÚR URBAN Filologie Limba maghiară - 28 16 Zi Umanist Teoretică Liceal 4.74 7.25
+176 HARGHITA "BERDE MÓZES" UNITÁRIUS GIMNÁZIUM SZÉKELYKERESZTÚR URBAN Ştiinţe ale Naturii Limba maghiară - 28 22 Zi Real Teoretică Liceal 3.98 2.64
+164 HARGHITA "ZEYK DOMOKOS" TECHNOLÓGIAI LÍCEUM SZÉKELYKERESZTÚR URBAN Economic Limba maghiară - 28 3 Zi Servicii Tehnologică Liceal 3.00 4.10
+191 HARGHITA LICEUL TEORETIC "SFÂNTU NICOLAE" GHEORGHENI URBAN Ştiinţe ale Naturii Limba română - 14 14 Zi Real Teoretică Liceal 6.50 8.14
+
+190 HARGHITA LICEUL TEORETIC "SFÂNTU NICOLAE" GHEORGHENI URBAN Filologie Limba română - 14 12 Zi Umanist Teoretică Liceal 2.22 7.23
+189 HARGHITA "SALAMON ERNŐ" ELMÉLETI GIMNÁZIUM GYERGYÓSZENTMIKLÓS URBAN Ştiinţe Sociale Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 6.60 6.67
+188 HARGHITA "SALAMON ERNŐ" ELMÉLETI GIMNÁZIUM GYERGYÓSZENTMIKLÓS URBAN Ştiinţe ale Naturii Limba maghiară - 28 28 Zi Real Teoretică Liceal 7.86 7.45
+187 HARGHITA "SALAMON ERNŐ" ELMÉLETI GIMNÁZIUM GYERGYÓSZENTMIKLÓS URBAN Matematică-Informatică Limba maghiară - 56 56 Zi Real Teoretică Liceal 6.76 8.02
+186 HARGHITA "SALAMON ERNŐ" ELMÉLETI GIMNÁZIUM GYERGYÓSZENTMIKLÓS URBAN Filologie Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 6.33 7.37
+118 HARGHITA "BATTHYÁNY IGNÁC" MŰSZAKI SZAKKÖZÉPISKOLA GYERGYÓSZENTMIKLÓS URBAN Turism şi alimentaţie Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 4.37 4.65
+117 HARGHITA "BATTHYÁNY IGNÁC" MŰSZAKI SZAKKÖZÉPISKOLA GYERGYÓSZENTMIKLÓS URBAN Producţie media Limba maghiară - 28 28 Zi Tehnic Tehnologică Liceal 5.20 -
+116 HARGHITA "BATTHYÁNY IGNÁC" MŰSZAKI SZAKKÖZÉPISKOLA GYERGYÓSZENTMIKLÓS URBAN Economic Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 4.31 -
+115 HARGHITA "BATTHYÁNY IGNÁC" MŰSZAKI SZAKKÖZÉPISKOLA GYERGYÓSZENTMIKLÓS URBAN Agricultură Limba maghiară - 28 25 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.27 -
+138 HARGHITA "FOGARASY MIHÁLY" MŰSZAKI LÍCEUM GYERGYÓSZENTMIKLÓS URBAN Mecanică Limba maghiară - 28 5 Zi Tehnic Tehnologică Liceal 3.38 4.43
+106 HARGHITA COLEGIUL NAȚIONAL "MIHAI EMINESCU" TOPLIŢA URBAN Electronică automatizări Limba română - 28 19 Zi Tehnic Tehnologică Liceal 3.03 -
+105 HARGHITA COLEGIUL NAȚIONAL "MIHAI EMINESCU" TOPLIŢA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.64 3.53
+179 HARGHITA "KEMÉNY JÁNOS" ELMÉLETI LÍCEUM MAROSHÉVÍZ URBAN Ştiinţe ale Naturii Limba maghiară - 14 11 Zi Real Teoretică Liceal 4.43 7.28
+178 HARGHITA "KEMÉNY JÁNOS" ELMÉLETI LÍCEUM MAROSHÉVÍZ URBAN Filologie Limba maghiară - 14 0 Zi Umanist Teoretică Liceal null 5.55
+183 HARGHITA LICEUL TEORETIC "O.C.TĂSLĂUANU" TOPLIŢA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 5.57 4.87
+182 HARGHITA LICEUL TEORETIC "O.C.TĂSLĂUANU" TOPLIŢA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.33 5.90
+181 HARGHITA LICEUL TEORETIC "O.C.TĂSLĂUANU" TOPLIŢA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.00 6.79
+180 HARGHITA LICEUL TEORETIC "O.C.TĂSLĂUANU" TOPLIŢA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.35 8.13
+140 HARGHITA "GÁBOR ÁRON" SZAKKÖZÉPISKOLA SZENTEGYHÁZA URBAN Economic Limba maghiară - 28 5 Zi Servicii Tehnologică Liceal 4.80 6.41
+168 HARGHITA LICEUL TEHNOLOGIC CORBU RURAL Ştiinţe Sociale Limba română - 14 14 Zi Umanist Teoretică Liceal 5.51 5.93
+167 HARGHITA LICEUL TEHNOLOGIC CORBU RURAL Ştiinţe ale Naturii Limba română - 14 14 Zi Real Teoretică Liceal 4.38 5.62
+166 HARGHITA LICEUL TEHNOLOGIC CORBU RURAL Silvicultură Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.55 4.45
+169 HARGHITA KORONDI SZAKKÖZÉPISKOLA KOROND RURAL Turism şi alimentaţie Limba maghiară - 28 17 Zi Servicii Tehnologică Liceal 4.07 3.97
+154 HARGHITA "PETŐFI SÁNDOR" IKSOLAKÖZPONT CSÍKDÁNFALVA RURAL Agricultură Limba maghiară - 28 11 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.59 7.40
+155 HARGHITA "PUSKÁS TIVADAR" SZAKKÖZÉPISKOLA GYERGYÓDITRÓ RURAL Protecţia mediului Limba maghiară - 28 11 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.18 7.74
+
+159 HARGHITA "SÖVÉR ELEK" SZAKKÖZÉPISKOLA GYERGYÓALFALU RURAL Turism şi alimentaţie Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 4.17 4.95
+174 HARGHITA "ÁRPÁD-HÁZI SZENT ERZSÉBET" RÓMAI KATOLIKUS TEOLÓGIAI LÍCEUM GYIMESFELSŐLOK RURAL Ştiinţe ale Naturii Limba maghiară - 14 9 Zi Real Teoretică Liceal 5.67 -
+
+175 HUNEDOARA LICEUL TEHNOLOGIC "GRIGORE MOISIL" DEVA URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.58 -
+174 HUNEDOARA LICEUL TEHNOLOGIC "GRIGORE MOISIL" DEVA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.03 -
+164 HUNEDOARA COLEGIUL TEHNIC ENERGETIC "DRAGOMIR HURMUZESCU" DEVA URBAN Producţie media Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.18 -
+141 HUNEDOARA COLEGIUL NAȚIONAL PEDAGOGIC "REGINA MARIA" DEVA URBAN Ştiinţe Sociale Limba română - 14 14 Zi Umanist Teoretică Liceal 8.08 8.55
+139 HUNEDOARA COLEGIUL NAȚIONAL PEDAGOGIC "REGINA MARIA" DEVA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.61 7.31
+138 HUNEDOARA COLEGIUL NAȚIONAL PEDAGOGIC "REGINA MARIA" DEVA URBAN Filologie Limba română - 14 14 Zi Umanist Teoretică Liceal 7.90 7.30
+118 HUNEDOARA COLEGIUL NAȚIONAL "DECEBAL" DEVA URBAN Ştiinţe ale Naturii Limba română Limba germană 14 14 Zi Real Teoretică Liceal 5.87 6.61
+117 HUNEDOARA COLEGIUL NAȚIONAL "DECEBAL" DEVA URBAN Ştiinţe ale Naturii Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 8.03 9.56
+116 HUNEDOARA COLEGIUL NAȚIONAL "DECEBAL" DEVA URBAN Ştiinţe ale Naturii Limba germană - 14 14 Zi Real Teoretică Liceal 6.26 8.80
+115 HUNEDOARA COLEGIUL NAȚIONAL "DECEBAL" DEVA URBAN Matematică-Informatică Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 8.96 7.55
+114 HUNEDOARA COLEGIUL NAȚIONAL "DECEBAL" DEVA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.16 9.33
+113 HUNEDOARA COLEGIUL NAȚIONAL "DECEBAL" DEVA URBAN Filologie Limba română Limba franceză 14 14 Zi Umanist Teoretică Liceal 7.44 5.95
+112 HUNEDOARA COLEGIUL NAȚIONAL "DECEBAL" DEVA URBAN Filologie Limba română Limba engleză 14 14 Zi Umanist Teoretică Liceal 7.88 5.73
+192 HUNEDOARA "TÉGLÁS GÁBOR" ELMÉLETI LÍCEUM DÉVA URBAN Ştiinţe ale Naturii Limba maghiară - 14 4 Zi Real Teoretică Liceal 6.20 -
+191 HUNEDOARA "TÉGLÁS GÁBOR" ELMÉLETI LÍCEUM DÉVA URBAN Turism şi alimentaţie Limba maghiară - 28 18 Zi Servicii Tehnologică Liceal 3.37 4.09
+190 HUNEDOARA "TÉGLÁS GÁBOR" ELMÉLETI LÍCEUM DÉVA URBAN Matematică-Informatică Limba maghiară - 14 11 Zi Real Teoretică Liceal 4.57 -
+158 HUNEDOARA COLEGIUL TEHNIC "TRANSILVANIA" DEVA URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.74 5.71
+157 HUNEDOARA COLEGIUL TEHNIC "TRANSILVANIA" DEVA URBAN Electronică automatizări Limba română Limba italiană 14 14 Zi Tehnic Tehnologică Liceal 7.32 4.05
+156 HUNEDOARA COLEGIUL TEHNIC "TRANSILVANIA" DEVA URBAN Electronică automatizări Limba română Limba engleză 14 14 Zi Tehnic Tehnologică Liceal 7.67 3.13
+149 HUNEDOARA COLEGIUL TEHNIC "MATEI CORVIN" HUNEDOARA URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 3.91 -
+127 HUNEDOARA COLEGIUL NAȚIONAL "IANCU DE HUNEDOARA" HUNEDOARA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.18 9.02
+126 HUNEDOARA COLEGIUL NAȚIONAL "IANCU DE HUNEDOARA" HUNEDOARA URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 7.15 7.28
+125 HUNEDOARA COLEGIUL NAȚIONAL "IANCU DE HUNEDOARA" HUNEDOARA URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 7.24 7.56
+103 HUNEDOARA COLEGIUL ECONOMIC "EMANUIL GOJDU" HUNEDOARA URBAN Turism şi alimentaţie Limba română - 56 56 Zi Servicii Tehnologică Liceal 6.31 6.53
+102 HUNEDOARA COLEGIUL ECONOMIC "EMANUIL GOJDU" HUNEDOARA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.00 5.73
+
+101 HUNEDOARA COLEGIUL ECONOMIC "EMANUIL GOJDU" HUNEDOARA URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.65 5.46
+136 HUNEDOARA COLEGIUL NAȚIONAL DE INFORMATICĂ "TRAIAN LALESCU" HUNEDOARA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.85 7.64
+135 HUNEDOARA COLEGIUL NAȚIONAL DE INFORMATICĂ "TRAIAN LALESCU" HUNEDOARA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.43 7.20
+134 HUNEDOARA COLEGIUL NAȚIONAL DE INFORMATICĂ "TRAIAN LALESCU" HUNEDOARA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.72 7.19
+169 HUNEDOARA LICEUL TEHNOLOGIC "CONSTANTIN BURSAN" HUNEDOARA URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.96 5.08
+105 HUNEDOARA COLEGIUL ECONOMIC "HERMES" PETROȘANI URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.82 4.62
+104 HUNEDOARA COLEGIUL ECONOMIC "HERMES" PETROȘANI URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.52 -
+146 HUNEDOARA COLEGIUL TEHNIC "DIMITRIE LEONIDA" PETROȘANI URBAN Electronică automatizări Limba română - 28 19 Zi Tehnic Tehnologică Liceal 3.28 4.88
+133 HUNEDOARA COLEGIUL NAȚIONAL DE INFORMATICĂ "CARMEN SYLVA" PETROȘANI URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.36 9.16
+132 HUNEDOARA COLEGIUL NAȚIONAL DE INFORMATICĂ "CARMEN SYLVA" PETROȘANI URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.17 9.24
+131 HUNEDOARA COLEGIUL NAȚIONAL DE INFORMATICĂ "CARMEN SYLVA" PETROȘANI URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 6.46 8.36
+130 HUNEDOARA COLEGIUL NAȚIONAL "MIHAI EMINESCU" PETROȘANI URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.42 7.01
+129 HUNEDOARA COLEGIUL NAȚIONAL "MIHAI EMINESCU" PETROȘANI URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 7.99 7.21
+128 HUNEDOARA COLEGIUL NAȚIONAL "MIHAI EMINESCU" PETROȘANI URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.58 5.74
+184 HUNEDOARA LICEUL TEHNOLOGIC LUPENI URBAN Turism şi alimentaţie Limba română - 28 15 Zi Servicii Tehnologică Liceal 3.60 -
+187 HUNEDOARA LICEUL TEORETIC "MIRCEA ELIADE" LUPENI URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 6.44 5.49
+186 HUNEDOARA LICEUL TEORETIC "MIRCEA ELIADE" LUPENI URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 4.70 3.18
+185 HUNEDOARA LICEUL TEORETIC "MIRCEA ELIADE" LUPENI URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 6.39 -
+145 HUNEDOARA COLEGIUL TEHNIC "CONSTANTIN BRÂNCUŞI" PETRILA URBAN Ştiinţe ale Naturii Limba română - 28 25 Zi Real Teoretică Liceal 3.15 5.80
+144 HUNEDOARA COLEGIUL TEHNIC "CONSTANTIN BRÂNCUŞI" PETRILA URBAN Filologie Limba română - 28 27 Zi Umanist Teoretică Liceal 4.72 -
+143 HUNEDOARA COLEGIUL TEHNIC "CONSTANTIN BRÂNCUŞI" PETRILA URBAN Economic Limba română - 56 30 Zi Servicii Tehnologică Liceal 3.61 8.08
+182 HUNEDOARA LICEUL TEHNOLOGIC "RETEZAT" URICANI URBAN Turism şi alimentaţie Limba română - 42 42 Zi Servicii Tehnologică Liceal 4.76 -
+181 HUNEDOARA LICEUL TEHNOLOGIC "RETEZAT" URICANI URBAN Fabricarea produselor din lemn Limba română - 14 10 Zi Tehnic Tehnologică Liceal 3.79 -
+155 HUNEDOARA COLEGIUL TEHNIC "MIHAI VITEAZU" VULCAN URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 4.91 -
+154 HUNEDOARA COLEGIUL TEHNIC "MIHAI VITEAZU" VULCAN URBAN Mecanică Limba română - 28 21 Zi Tehnic Tehnologică Liceal 2.26 -
+
+153 HUNEDOARA COLEGIUL TEHNIC "MIHAI VITEAZU" VULCAN URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 5.63 3.91
+152 HUNEDOARA COLEGIUL TEHNIC "MIHAI VITEAZU" VULCAN URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.61 -
+151 HUNEDOARA COLEGIUL TEHNIC "MIHAI VITEAZU" VULCAN URBAN Electronică automatizări Limba română - 28 16 Zi Tehnic Tehnologică Liceal 2.53 5.14
+150 HUNEDOARA COLEGIUL TEHNIC "MIHAI VITEAZU" VULCAN URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 3.55 -
+111 HUNEDOARA COLEGIUL NAȚIONAL "AVRAM IANCU" BRAD URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.24 6.16
+110 HUNEDOARA COLEGIUL NAȚIONAL "AVRAM IANCU" BRAD URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 6.05 6.33
+109 HUNEDOARA COLEGIUL NAȚIONAL "AVRAM IANCU" BRAD URBAN Filologie Limba română - 56 56 Zi Umanist Teoretică Liceal 6.25 8.03
+172 HUNEDOARA LICEUL TEHNOLOGIC "CRIȘAN" CRIȘCIOR RURAL Turism şi alimentaţie Limba română - 28 19 Zi Servicii Tehnologică Liceal 4.08 4.04
+180 HUNEDOARA LICEUL TEHNOLOGIC "OVID DENSUSIANU" CĂLAN URBAN Ştiinţe ale Naturii Limba română - 28 26 Zi Real Teoretică Liceal 2.48 3.61
+178 HUNEDOARA LICEUL TEHNOLOGIC "OVID DENSUSIANU" CĂLAN URBAN Construcţii, instalaţii şi lucrări publice Limba română - 28 9 Zi Tehnic Tehnologică Liceal 2.41 -
+124 HUNEDOARA COLEGIUL NAȚIONAL "I. C. BRĂTIANU" HAȚEG URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 6.93 7.77
+123 HUNEDOARA COLEGIUL NAȚIONAL "I. C. BRĂTIANU" HAȚEG URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.64 7.08
+122 HUNEDOARA COLEGIUL NAȚIONAL "I. C. BRĂTIANU" HAȚEG URBAN Turism şi alimentaţie Limba română - 56 56 Zi Servicii Tehnologică Liceal 4.66 7.90
+121 HUNEDOARA COLEGIUL NAȚIONAL "I. C. BRĂTIANU" HAȚEG URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.62 7.43
+120 HUNEDOARA COLEGIUL NAȚIONAL "I. C. BRĂTIANU" HAȚEG URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.09 8.89
+119 HUNEDOARA COLEGIUL NAȚIONAL "I. C. BRĂTIANU" HAȚEG URBAN Electric Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.12 9.58
+177 HUNEDOARA LICEUL TEHNOLOGIC "NICOLAUS OLAHUS" ORĂȘTIE URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.12 -
+108 HUNEDOARA COLEGIUL NAȚIONAL "AUREL VLAICU" ORĂȘTIE URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 6.02 6.57
+107 HUNEDOARA COLEGIUL NAȚIONAL "AUREL VLAICU" ORĂȘTIE URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.66 4.11
+106 HUNEDOARA COLEGIUL NAȚIONAL "AUREL VLAICU" ORĂȘTIE URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 5.98 5.62
+163 HUNEDOARA COLEGIUL TEHNIC DE TRANSPORT FEROVIAR "ANGHEL SALIGNY" SIMERIA URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.56 7.40
+162 HUNEDOARA COLEGIUL TEHNIC DE TRANSPORT FEROVIAR "ANGHEL SALIGNY" SIMERIA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 5.52 6.44
+161 HUNEDOARA COLEGIUL TEHNIC DE TRANSPORT FEROVIAR "ANGHEL SALIGNY" SIMERIA URBAN Electromecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 3.10 4.99
+160 HUNEDOARA COLEGIUL TEHNIC AGRICOL "ALEXANDRU BORZA" GEOAGIU URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.47 3.17
+189 HUNEDOARA LICEUL TEORETIC "SILVIU DRAGOMIR" ILIA RURAL Matematică-Informatică Limba română - 14 14 Zi Real Teoretică Liceal 5.93 3.76
+
+188 HUNEDOARA LICEUL TEORETIC "SILVIU DRAGOMIR" ILIA RURAL Filologie Limba română - 42 41 Zi Umanist Teoretică Liceal 3.47 4.07
+
+211 CLUJ LICEUL TEORETIC "ONISIFOR GHIBU" CLUJ-NAPOCA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 8.56 7.01
+210 CLUJ LICEUL TEORETIC "ONISIFOR GHIBU" CLUJ-NAPOCA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 9.06 5.50
+209 CLUJ LICEUL TEORETIC "ONISIFOR GHIBU" CLUJ-NAPOCA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 9.25 8.52
+204 CLUJ LICEUL TEORETIC "NICOLAE BĂLCESCU" CLUJ-NAPOCA URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 9.08 -
+203 CLUJ LICEUL TEORETIC "NICOLAE BĂLCESCU" CLUJ-NAPOCA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 9.64 7.25
+202 CLUJ LICEUL TEORETIC "NICOLAE BĂLCESCU" CLUJ-NAPOCA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 8.43 6.16
+201 CLUJ LICEUL TEORETIC "MIHAI EMINESCU" CLUJ-NAPOCA URBAN Filologie Limba română Limba spaniolă 14 14 Zi Umanist Teoretică Liceal 6.70 9.02
+200 CLUJ LICEUL TEORETIC "MIHAI EMINESCU" CLUJ-NAPOCA URBAN Filologie Limba română Limba portugheză 14 14 Zi Umanist Teoretică Liceal 7.04 9.46
+199 CLUJ LICEUL TEORETIC "MIHAI EMINESCU" CLUJ-NAPOCA URBAN Filologie Limba română Limba franceză 28 20 Zi Umanist Teoretică Liceal 5.91 8.80
+198 CLUJ LICEUL TEORETIC "MIHAI EMINESCU" CLUJ-NAPOCA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.86 4.23
+197 CLUJ LICEUL TEORETIC "LUCIAN BLAGA" CLUJ-NAPOCA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.83 4.38
+196 CLUJ LICEUL TEORETIC "LUCIAN BLAGA" CLUJ-NAPOCA URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 8.89 8.39
+190 CLUJ LICEUL TEORETIC "GHEORGHE ȘINCAI" CLUJ-NAPOCA URBAN Ştiinţe Sociale Limba română Limba engleză 56 56 Zi Umanist Teoretică Liceal 8.47 9.43
+189 CLUJ LICEUL TEORETIC "GHEORGHE ȘINCAI" CLUJ-NAPOCA URBAN Matematică-Informatică Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 9.14 9.57
+188 CLUJ LICEUL TEORETIC "GHEORGHE ȘINCAI" CLUJ-NAPOCA URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 8.08 8.49
+186 CLUJ LICEUL TEORETIC "EUGEN PORA" CLUJ-NAPOCA URBAN Ştiinţe Sociale Limba română Limba spaniolă 28 21 Zi Umanist Teoretică Liceal 5.39 7.51
+185 CLUJ LICEUL TEORETIC "EUGEN PORA" CLUJ-NAPOCA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.24 7.16
+184 CLUJ "BRASSAI SÁMUEL" ELMÉLETI LÍCEUM KOLOZSVÁR URBAN Ştiinţe ale Naturii Limba maghiară - 28 15 Zi Real Teoretică Liceal 5.37 8.35
+183 CLUJ "BRASSAI SÁMUEL" ELMÉLETI LÍCEUM KOLOZSVÁR URBAN Turism şi alimentaţie Limba maghiară - 28 10 Zi Servicii Tehnologică Liceal 6.21 7.34
+182 CLUJ "BÁTHORY ISTVÁN" ELMÉLETI LÍCEUM KOLOZSVÁR URBAN Ştiinţe ale Naturii Limba maghiară - 28 28 Zi Real Teoretică Liceal 7.64 8.54
+181 CLUJ "BÁTHORY ISTVÁN" ELMÉLETI LÍCEUM KOLOZSVÁR URBAN Producţie media Limba maghiară - 28 27 Zi Tehnic Tehnologică Liceal 5.58 -
+180 CLUJ "BÁTHORY ISTVÁN" ELMÉLETI LÍCEUM KOLOZSVÁR URBAN Matematică-Informatică Limba maghiară - 28 28 Zi Real Teoretică Liceal 8.46 8.92
+228 CLUJ SEMINARUL TEOLOGIC ORTODOX CLUJ-NAPOCA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.23 -
+226 CLUJ SEMINARUL TEOLOGIC ORTODOX CLUJ-NAPOCA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.49 8.14
+134 CLUJ COLEGIUL TEHNIC "RALUCA RIPAN" CLUJ-NAPOCA URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.67 4.67
+
+133 CLUJ COLEGIUL TEHNIC "NAPOCA" CLUJ-NAPOCA URBAN Turism şi alimentaţie Limba română - 56 56 Zi Servicii Tehnologică Liceal 5.82 4.83
+132 CLUJ COLEGIUL TEHNIC "EDMOND NICOLAU" CLUJ-NAPOCA URBAN Producţie media Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.85 -
+141 CLUJ COLEGIUL TEHNIC DE TRANSPORTURI "TRANSILVANIA" CLUJ-NAPOCA URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.38 8.15
+140 CLUJ COLEGIUL TEHNIC DE TRANSPORTURI "TRANSILVANIA" CLUJ-NAPOCA URBAN Electric Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.04 8.16
+139 CLUJ COLEGIUL TEHNIC DE COMUNICAȚII "AUGUSTIN MAIOR" CLUJ-NAPOCA URBAN Electronică automatizări Limba română - 56 56 Zi Tehnic Tehnologică Liceal 7.46 6.85
+138 CLUJ COLEGIUL TEHNIC DE COMUNICAȚII "AUGUSTIN MAIOR" CLUJ-NAPOCA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 7.47 5.04
+130 CLUJ COLEGIUL TEHNIC "ANGHEL SALIGNY" CLUJ-NAPOCA URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.51 -
+129 CLUJ COLEGIUL TEHNIC "ANGHEL SALIGNY" CLUJ-NAPOCA URBAN Construcţii, instalaţii şi lucrări publice Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.21 5.05
+128 CLUJ COLEGIUL TEHNIC "ANA ASLAN" CLUJ-NAPOCA URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 7.00 4.12
+127 CLUJ COLEGIUL TEHNIC "ANA ASLAN" CLUJ-NAPOCA URBAN Chimie industrială Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 7.04 5.28
+126 CLUJ COLEGIUL NAȚIONAL PEDAGOGIC "GHEORGHE LAZĂR" CLUJ-NAPOCA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.98 7.05
+120 CLUJ COLEGIUL NAȚIONAL "GEORGE COȘBUC" CLUJ-NAPOCA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 8.00 9.15
+119 CLUJ COLEGIUL NAȚIONAL "GEORGE COȘBUC" CLUJ-NAPOCA URBAN Ştiinţe ale Naturii Limba germană - 28 28 Zi Real Teoretică Liceal 8.42 8.87
+118 CLUJ COLEGIUL NAȚIONAL "GEORGE COȘBUC" CLUJ-NAPOCA URBAN Matematică-Informatică Limba română Limba germană 28 28 Zi Real Teoretică Liceal 7.59 9.35
+117 CLUJ COLEGIUL NAȚIONAL "GEORGE COȘBUC" CLUJ-NAPOCA URBAN Filologie Limba germană - 28 28 Zi Umanist Teoretică Liceal 6.82 8.78
+116 CLUJ COLEGIUL NAȚIONAL "GEORGE BARIȚIU" CLUJ-NAPOCA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 8.36 8.24
+115 CLUJ COLEGIUL NAȚIONAL "GEORGE BARIȚIU" CLUJ-NAPOCA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.91 8.85
+114 CLUJ COLEGIUL NAȚIONAL "GEORGE BARIȚIU" CLUJ-NAPOCA URBAN Filologie Limba română Limba italiană 28 28 Zi Umanist Teoretică Liceal 6.92 9.32
+107 CLUJ COLEGIUL ECONOMIC "IULIAN POP" CLUJ-NAPOCA URBAN Economic Limba română - 56 56 Zi Servicii Tehnologică Liceal 8.12 8.10
+106 CLUJ COLEGIUL ECONOMIC "IULIAN POP" CLUJ-NAPOCA URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 7.85 8.97
+179 CLUJ LICEUL TEORETIC "AVRAM IANCU" CLUJ-NAPOCA URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 9.09 7.44
+178 CLUJ LICEUL TEORETIC "AVRAM IANCU" CLUJ-NAPOCA URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 9.59 5.82
+177 CLUJ "APÁCZAI CSERE JÁNOS" ELMÉLETI LÍCEUM KOLOZSVÁR URBAN Matematică-Informatică Limba maghiară - 28 24 Zi Real Teoretică Liceal 5.00 -
+176 CLUJ "APÁCZAI CSERE JÁNOS" ELMÉLETI LÍCEUM KOLOZSVÁR URBAN Filologie Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 6.42 7.93
+175 CLUJ "APÁCZAI CSERE JÁNOS" ELMÉLETI LÍCEUM KOLOZSVÁR URBAN Economic Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 6.33 -
+
+163 CLUJ LICEUL TEHNOLOGIC NR. 1 CLUJ-NAPOCA URBAN Turism şi alimentaţie Limba română - 28 29 Zi Servicii Tehnologică Liceal 5.21 7.33
+154 CLUJ LICEUL GRECO-CATOLIC "INOCHENTIE MICU" CLUJ-NAPOCA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.42 -
+152 CLUJ LICEUL DE INFORMATICĂ "TIBERIU POPOVICIU" CLUJ-NAPOCA URBAN Matematică-Informatică Limba română - 84 84 Zi Real Teoretică Liceal 9.04 -
+143 CLUJ COLEGIUL TEHNIC ENERGETIC CLUJ-NAPOCA URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 7.12 -
+142 CLUJ COLEGIUL TEHNIC ENERGETIC CLUJ-NAPOCA URBAN Electric Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.85 4.82
+113 CLUJ COLEGIUL NAȚIONAL "EMIL RACOVIȚĂ" CLUJ-NAPOCA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 9.49 7.62
+112 CLUJ COLEGIUL NAȚIONAL "EMIL RACOVIȚĂ" CLUJ-NAPOCA URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 9.45 9.69
+155 CLUJ LICEUL TEHNOLOGIC "ALEXANDRU BORZA" CLUJ-NAPOCA URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.72 -
+223 CLUJ "JÁNOS ZSIGMOND" UNITÁRIUS KOLLÉGIUM KOLOZSVÁR URBAN Matematică-Informatică Limba maghiară - 28 28 Zi Real Teoretică Liceal 7.89 9.02
+219 CLUJ LICEUL TEORETIC "VICTOR BABEȘ" CLUJ-NAPOCA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.58 6.07
+168 CLUJ KOLOZSVÁRI REFORMÁTUS KOLLÉGIUM KOLOZSVÁR URBAN Ştiinţe ale Naturii Limba maghiară - 28 28 Zi Real Teoretică Liceal 6.47 -
+166 CLUJ LICEUL TEOLOGIC BAPTIST "EMANUEL" CLUJ-NAPOCA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.38 6.36
+156 CLUJ LICEUL TEHNOLOGIC "AUREL VLAICU" CLUJ-NAPOCA URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.00 9.39
+111 CLUJ "ANDREI MUREȘANU" NEMZETI KOLLÉGIUM DÉS URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.23 9.63
+110 CLUJ "ANDREI MUREȘANU" NEMZETI KOLLÉGIUM DÉS URBAN Ştiinţe ale Naturii Limba maghiară - 28 20 Zi Real Teoretică Liceal 3.83 8.71
+109 CLUJ "ANDREI MUREȘANU" NEMZETI KOLLÉGIUM DÉS URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 8.04 5.83
+108 CLUJ "ANDREI MUREȘANU" NEMZETI KOLLÉGIUM DÉS URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 7.68 8.76
+172 CLUJ LICEUL TEORETIC "ALEXANDRU PAPIU ILARIAN" DEJ URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.00 5.49
+170 CLUJ LICEUL TEORETIC "ALEXANDRU PAPIU ILARIAN" DEJ URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.57 4.15
+169 CLUJ LICEUL TEORETIC "ALEXANDRU PAPIU ILARIAN" DEJ URBAN Filologie Limba română Limba franceză 28 28 Zi Umanist Teoretică Liceal 6.90 5.39
+159 CLUJ LICEUL TEHNOLOGIC "SOMEȘ" DEJ URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.89 7.88
+158 CLUJ LICEUL TEHNOLOGIC "CONSTANTIN BRÂNCUȘI" DEJ URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.91 7.57
+157 CLUJ LICEUL TEHNOLOGIC "CONSTANTIN BRÂNCUȘI" DEJ URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 7.12 -
+146 CLUJ COLEGIUL TEHNIC TURDA URBAN Mecanică Limba română - 28 8 Zi Tehnic Tehnologică Liceal 4.51 -
+145 CLUJ COLEGIUL TEHNIC TURDA URBAN Electronică automatizări Limba română - 28 19 Zi Tehnic Tehnologică Liceal 4.53 7.60
+
+144 CLUJ COLEGIUL TEHNIC TURDA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.47 7.18
+123 CLUJ COLEGIUL NAȚIONAL "MIHAI VITEAZUL" TURDA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.67 -
+122 CLUJ COLEGIUL NAȚIONAL "MIHAI VITEAZUL" TURDA URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 8.29 8.43
+121 CLUJ COLEGIUL NAȚIONAL "MIHAI VITEAZUL" TURDA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 9.04 8.82
+103 CLUJ COLEGIUL "EMIL NEGRUȚIU" TURDA URBAN Turism şi alimentaţie Limba română - 28 19 Zi Servicii Tehnologică Liceal 4.35 -
+101 CLUJ COLEGIUL "EMIL NEGRUȚIU" TURDA URBAN Agricultură Limba română - 28 17 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.17 5.15
+195 CLUJ LICEUL TEORETIC "LIVIU REBREANU" TURDA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.44 6.67
+194 CLUJ LICEUL TEORETIC "LIVIU REBREANU" TURDA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.90 5.91
+192 CLUJ "JÓSIKA MIKLÓS" ELMÉLETI LÍCEUM TORDA URBAN Ştiinţe ale Naturii Limba maghiară - 14 14 Zi Real Teoretică Liceal 6.19 7.01
+191 CLUJ "JÓSIKA MIKLÓS" ELMÉLETI LÍCEUM TORDA URBAN Filologie Limba maghiară - 14 9 Zi Umanist Teoretică Liceal 5.00 8.94
+214 CLUJ LICEUL TEORETIC "PAVEL DAN" CÂMPIA TURZII URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 7.27 9.61
+213 CLUJ LICEUL TEORETIC "PAVEL DAN" CÂMPIA TURZII URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.00 8.94
+212 CLUJ LICEUL TEORETIC "PAVEL DAN" CÂMPIA TURZII URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.97 7.43
+137 CLUJ COLEGIUL TEHNIC "VICTOR UNGUREANU" CÂMPIA TURZII URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.39 -
+136 CLUJ COLEGIUL TEHNIC "VICTOR UNGUREANU" CÂMPIA TURZII URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.92 7.28
+135 CLUJ COLEGIUL TEHNIC "VICTOR UNGUREANU" CÂMPIA TURZII URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.63 6.68
+222 CLUJ KEMÉNY ZSIGMOND ELMÉLETI LÍCEUM SZAMOSÚJVÁR URBAN Ştiinţe ale Naturii Limba maghiară - 28 25 Zi Real Teoretică Liceal 6.09 9.35
+221 CLUJ KEMÉNY ZSIGMOND ELMÉLETI LÍCEUM SZAMOSÚJVÁR URBAN Filologie Limba maghiară - 28 12 Zi Umanist Teoretică Liceal 4.78 4.90
+174 CLUJ LICEUL TEORETIC "ANA IPĂTESCU" GHERLA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.42 -
+173 CLUJ LICEUL TEORETIC "ANA IPĂTESCU" GHERLA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.75 4.81
+218 CLUJ LICEUL TEORETIC "PETRU MAIOR" GHERLA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 6.51 8.12
+217 CLUJ LICEUL TEORETIC "PETRU MAIOR" GHERLA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.49 6.15
+216 CLUJ LICEUL TEORETIC "PETRU MAIOR" GHERLA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.51 7.20
+215 CLUJ LICEUL TEORETIC "PETRU MAIOR" GHERLA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.37 9.75
+162 CLUJ LICEUL TEHNOLOGIC GHERLA URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.87 -
+
+161 CLUJ LICEUL TEHNOLOGIC GHERLA URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.28 5.09
+208 CLUJ "OCTAVIAN GOGA" ELMÉLETI LÍCEUM BÁNFFYHUNYAD URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 6.32 9.22
+207 CLUJ "OCTAVIAN GOGA" ELMÉLETI LÍCEUM BÁNFFYHUNYAD URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.83 9.27
+206 CLUJ "OCTAVIAN GOGA" ELMÉLETI LÍCEUM BÁNFFYHUNYAD URBAN Ştiinţe ale Naturii Limba maghiară - 28 21 Zi Real Teoretică Liceal 5.77 7.75
+205 CLUJ "OCTAVIAN GOGA" ELMÉLETI LÍCEUM BÁNFFYHUNYAD URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 6.19 8.17
+160 CLUJ LICEUL TEHNOLOGIC "VLĂDEASA" HUEDIN URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.02 -
+187 CLUJ LICEUL TEORETIC "GELU VOIEVOD" GILĂU RURAL Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 4.90 7.20
+
+141 COVASNA Liceul Teoretic "Mircea Eliade" Întorsura Buzăului URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.67 -
+140 COVASNA Liceul Teoretic "Mircea Eliade" Întorsura Buzăului URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 6.28 7.56
+139 COVASNA Liceul Teoretic "Mircea Eliade" Întorsura Buzăului URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.36 -
+127 COVASNA Liceul Tehnologic "Nicolae Bălcescu" Întorsura Buzăului URBAN Mecanică Limba română - 28 21 Zi Tehnic Tehnologică Liceal 3.88 4.55
+135 COVASNA Református Kollégium Kézdivásárhely URBAN Ştiinţe ale Naturii Limba maghiară - 28 28 Zi Real Teoretică Liceal 7.70 5.99
+116 COVASNA "Bod Péter" Tanítóképző Kézdivásárhely URBAN Filologie Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 6.20 7.00
+126 COVASNA "Gábor Áron" Szakképző Líceum Kézdivásárhely URBAN Silvicultură Limba maghiară - 28 20 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.17 -
+124 COVASNA "Gábor Áron" Szakképző Líceum Kézdivásárhely URBAN Electronică automatizări Limba maghiară - 28 28 Zi Tehnic Tehnologică Liceal 4.80 4.19
+144 COVASNA "Nagy Mózes" Elméleti Líceum Kézdivásárhely URBAN Ştiinţe ale Naturii Limba maghiară - 28 28 Zi Real Teoretică Liceal 8.05 8.56
+143 COVASNA "Nagy Mózes" Elméleti Líceum Kézdivásárhely URBAN Matematică-Informatică Limba maghiară - 28 28 Zi Real Teoretică Liceal 6.93 8.00
+142 COVASNA "Nagy Mózes" Elméleti Líceum Kézdivásárhely URBAN Filologie Limba maghiară Limba engleză 28 24 Zi Umanist Teoretică Liceal 6.05 8.53
+119 COVASNA "Apor Péter" Szakközépiskola Kézdivásárhely URBAN Economic Limba română - 28 7 Zi Servicii Tehnologică Liceal 4.91 -
+118 COVASNA "Apor Péter" Szakközépiskola Kézdivásárhely URBAN Agricultură Limba maghiară - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.34 5.04
+133 COVASNA Református Kollégium Sepsiszentgyörgy URBAN Ştiinţe ale Naturii Limba maghiară - 28 28 Zi Real Teoretică Liceal 6.92 -
+111 COVASNA "Székely Mikó" Kollégium Sepsiszentgyörgy URBAN Ştiinţe Sociale Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 6.83 8.28
+110 COVASNA "Székely Mikó" Kollégium Sepsiszentgyörgy URBAN Ştiinţe ale Naturii Limba maghiară Limba engleză 14 14 Zi Real Teoretică Liceal 8.21 9.03
+109 COVASNA "Székely Mikó" Kollégium Sepsiszentgyörgy URBAN Ştiinţe ale Naturii Limba maghiară - 14 14 Zi Real Teoretică Liceal 8.36 9.00
+108 COVASNA "Székely Mikó" Kollégium Sepsiszentgyörgy URBAN Matematică-Informatică Limba maghiară Limba engleză 14 14 Zi Real Teoretică Liceal 8.83 9.10
+107 COVASNA "Székely Mikó" Kollégium Sepsiszentgyörgy URBAN Matematică-Informatică Limba maghiară - 14 14 Zi Real Teoretică Liceal 8.36 8.95
+129 COVASNA "Puskás Tivadar" Szakközépiskola Sepsiszentgyörgy URBAN Mecanică Limba maghiară - 28 8 Zi Tehnic Tehnologică Liceal 4.10 -
+128 COVASNA "Puskás Tivadar" Szakközépiskola Sepsiszentgyörgy URBAN Electronică automatizări Limba maghiară - 28 16 Zi Tehnic Tehnologică Liceal 4.13 -
+123 COVASNA Liceul Tehnologic "Constantin Brâncuși" Sfântu Gheorghe URBAN Turism şi alimentaţie Limba română - 28 10 Zi Servicii Tehnologică Liceal 3.88 4.96
+131 COVASNA Berde Áron Közgazdasági és Közigazgatási Szakközépiskola Sepsiszentgyörgy URBAN Economic Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 4.67 -
+130 COVASNA Berde Áron Közgazdasági és Közigazgatási Szakközépiskola Sepsiszentgyörgy URBAN Comerţ Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 5.77 4.38
+106 COVASNA Colegiul Național "Mihai Viteazul" Sfântu Gheorghe URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 4.34 6.84
+
+105 COVASNA Colegiul Național "Mihai Viteazul" Sfântu Gheorghe URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.73 7.43
+104 COVASNA Colegiul Național "Mihai Viteazul" Sfântu Gheorghe URBAN Matematică-Informatică Limba română Limba engleză 14 14 Zi Real Teoretică Liceal 8.52 9.09
+103 COVASNA Colegiul Național "Mihai Viteazul" Sfântu Gheorghe URBAN Matematică-Informatică Limba română - 14 14 Zi Real Teoretică Liceal 9.02 9.47
+102 COVASNA Colegiul Național "Mihai Viteazul" Sfântu Gheorghe URBAN Filologie Limba română Limba engleză 14 14 Zi Umanist Teoretică Liceal 6.95 7.32
+101 COVASNA Colegiul Național "Mihai Viteazul" Sfântu Gheorghe URBAN Filologie Limba română - 14 12 Zi Umanist Teoretică Liceal 5.16 5.76
+138 COVASNA "Mikes Kelemen" Elméleti Líceum Sepsiszentgyörgy URBAN Ştiinţe Sociale Limba maghiară Limba engleză 28 28 Zi Umanist Teoretică Liceal 7.12 6.80
+137 COVASNA "Mikes Kelemen" Elméleti Líceum Sepsiszentgyörgy URBAN Ştiinţe ale Naturii Limba maghiară - 28 28 Zi Real Teoretică Liceal 7.89 -
+136 COVASNA "Mikes Kelemen" Elméleti Líceum Sepsiszentgyörgy URBAN Matematică-Informatică Limba maghiară - 28 28 Zi Real Teoretică Liceal 7.16 6.54
+122 COVASNA "Baróti Szabó Dávid" Szakközépiskola Barót URBAN Ştiinţe Sociale Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 4.83 4.70
+121 COVASNA "Baróti Szabó Dávid" Szakközépiskola Barót URBAN Ştiinţe ale Naturii Limba maghiară - 28 10 Zi Real Teoretică Liceal 4.40 6.86
+120 COVASNA "Baróti Szabó Dávid" Szakközépiskola Barót URBAN Protecţia mediului Limba maghiară - 28 26 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.97 -
+115 COVASNA "Kőrösi Csoma Sándor" Líceum Kovászna URBAN Ştiinţe ale Naturii Limba română - 28 19 Zi Real Teoretică Liceal 5.89 6.26
+114 COVASNA "Kőrösi Csoma Sándor" Líceum Kovászna URBAN Ştiinţe ale Naturii Limba maghiară - 28 27 Zi Real Teoretică Liceal 5.28 -
+113 COVASNA "Kőrösi Csoma Sándor" Líceum Kovászna URBAN Filologie Limba română - 28 18 Zi Umanist Teoretică Liceal 4.57 5.96
+112 COVASNA "Kőrösi Csoma Sándor" Líceum Kovászna URBAN Filologie Limba maghiară - 28 22 Zi Umanist Teoretică Liceal 4.48 4.32
+
+158 CARAȘ-SEVERIN LICEUL TEHNOLOGIC „NICOLAE STOICA DE HAŢEG“ MEHADIA RURAL Economic Limba română - 28 25 Zi Servicii Tehnologică Liceal 2.22 2.37
+168 CARAȘ-SEVERIN LICEUL TEORETIC „EFTIMIE MURGU“ BOZOVICI RURAL Ştiinţe ale Naturii Limba română - 28 22 Zi Real Teoretică Liceal 2.99 -
+167 CARAȘ-SEVERIN LICEUL TEORETIC „EFTIMIE MURGU“ BOZOVICI RURAL Protecţia mediului Limba română - 28 22 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.19 -
+166 CARAȘ-SEVERIN LICEUL TEORETIC „EFTIMIE MURGU“ BOZOVICI RURAL Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 5.22 3.19
+165 CARAȘ-SEVERIN LICEUL TEORETIC BILINGV ROMÂNO-CROAT CARAŞOVA RURAL Filologie Limba croată - 28 7 Zi Umanist Teoretică Liceal 3.12 -
+160 CARAȘ-SEVERIN LICEUL TEHNOLOGIC „SF.DIMITRIE“ TEREGOVA RURAL Turism şi alimentaţie Limba română - 28 17 Zi Servicii Tehnologică Liceal 2.41 4.36
+126 CARAȘ-SEVERIN COLEGIUL TEHNIC REŞIŢA URBAN Estetica şi igiena corpului omenesc Limba română - 14 11 Zi Servicii Tehnologică Liceal 3.43 6.83
+124 CARAȘ-SEVERIN COLEGIUL TEHNIC REŞIŢA URBAN Electric Limba română - 14 6 Zi Tehnic Tehnologică Liceal 3.72 3.54
+103 CARAȘ-SEVERIN COLEGIUL ECONOMIC AL BANATULUI MONTAN REŞIŢA URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.00 -
+102 CARAȘ-SEVERIN COLEGIUL ECONOMIC AL BANATULUI MONTAN REŞIŢA URBAN Industrie alimentară Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.68 6.39
+101 CARAȘ-SEVERIN COLEGIUL ECONOMIC AL BANATULUI MONTAN REŞIŢA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.41 -
+176 CARAȘ-SEVERIN LICEUL TEORETIC „TRAIAN VUIA“ REŞIŢA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.74 6.54
+175 CARAȘ-SEVERIN LICEUL TEORETIC „TRAIAN VUIA“ REŞIŢA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.09 6.97
+174 CARAȘ-SEVERIN LICEUL TEORETIC „TRAIAN VUIA“ REŞIŢA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.35 7.47
+123 CARAȘ-SEVERIN COLEGIUL TEHNIC CĂRĂŞAN REŞIŢA URBAN Industrie textilă şi pielărie Limba română - 14 2 Zi Tehnic Tehnologică Liceal 3.64 -
+122 CARAȘ-SEVERIN COLEGIUL TEHNIC CĂRĂŞAN REŞIŢA URBAN Construcţii, instalaţii şi lucrări publice Limba română - 14 7 Zi Tehnic Tehnologică Liceal 3.05 -
+114 CARAȘ-SEVERIN COLEGIUL NAŢIONAL „MIRCEA ELIADE“ REŞIŢA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.48 8.22
+113 CARAȘ-SEVERIN COLEGIUL NAŢIONAL „MIRCEA ELIADE“ REŞIŢA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.02 8.12
+112 CARAȘ-SEVERIN COLEGIUL NAŢIONAL „MIRCEA ELIADE“ REŞIŢA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.78 7.19
+111 CARAȘ-SEVERIN COLEGIUL NAȚIONAL „DIACONOVICI TIETZ“ REŞIŢA URBAN Ştiinţe ale Naturii Limba română - 12 12 Zi Real Teoretică Liceal 6.33 7.45
+110 CARAȘ-SEVERIN COLEGIUL NAȚIONAL „DIACONOVICI TIETZ“ REŞIŢA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 6.10 7.51
+109 CARAȘ-SEVERIN COLEGIUL NAȚIONAL „DIACONOVICI TIETZ“ REŞIŢA URBAN Matematică-Informatică Limba germană - 16 15 Zi Real Teoretică Liceal 5.74 7.19
+108 CARAȘ-SEVERIN COLEGIUL NAȚIONAL „DIACONOVICI TIETZ“ REŞIŢA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.40 -
+120 CARAȘ-SEVERIN COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.98 3.66
+119 CARAȘ-SEVERIN COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 8.30 -
+
+118 CARAȘ-SEVERIN COLEGIUL NAŢIONAL „TRAIAN LALESCU“ REŞIŢA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.68 9.23
+137 CARAȘ-SEVERIN LICEUL „MATHIAS HAMMER“ ANINA URBAN Filologie Limba română - 28 22 Zi Umanist Teoretică Liceal 2.40 2.83
+136 CARAȘ-SEVERIN LICEUL „MATHIAS HAMMER“ ANINA URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 2.77 3.20
+135 CARAȘ-SEVERIN LICEUL "HERCULES" BAILE HERCULANE URBAN Turism şi alimentaţie Limba română - 28 19 Zi Servicii Tehnologică Liceal 2.81 3.55
+134 CARAȘ-SEVERIN LICEUL "HERCULES" BAILE HERCULANE URBAN Filologie Limba română - 28 21 Zi Umanist Teoretică Liceal 2.61 -
+173 CARAȘ-SEVERIN LICEUL TEORETIC "TATA OANCEA" BOCŞA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 6.31 -
+172 CARAȘ-SEVERIN LICEUL TEORETIC "TATA OANCEA" BOCŞA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 4.73 7.04
+145 CARAȘ-SEVERIN LICEUL TEHNOLOGIC "CONSTANTIN LUCACI" BOCŞA URBAN Electromecanică Limba română - 14 3 Zi Tehnic Tehnologică Liceal 4.31 -
+144 CARAȘ-SEVERIN LICEUL TEHNOLOGIC "CONSTANTIN LUCACI" BOCŞA URBAN Economic Limba română - 14 3 Zi Servicii Tehnologică Liceal 2.99 2.44
+163 CARAȘ-SEVERIN LICEUL TEHNOLOGIC "TRANDAFIR COCÂRLĂ" CARANSEBEŞ URBAN Mecanică Limba română - 14 14 Zi Tehnic Tehnologică Liceal 3.89 -
+161 CARAȘ-SEVERIN LICEUL TEHNOLOGIC "TRANDAFIR COCÂRLĂ" CARANSEBEŞ URBAN Electric Limba română - 14 13 Zi Tehnic Tehnologică Liceal 2.88 -
+151 CARAȘ-SEVERIN LICEUL TEHNOLOGIC "DACIA" CARANSEBEŞ URBAN Silvicultură Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.11 2.93
+150 CARAȘ-SEVERIN LICEUL TEHNOLOGIC "DACIA" CARANSEBEŞ URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.68 -
+149 CARAȘ-SEVERIN LICEUL TEHNOLOGIC "DACIA" CARANSEBEŞ URBAN Mecanică Limba română - 28 22 Zi Tehnic Tehnologică Liceal 2.45 5.30
+148 CARAȘ-SEVERIN LICEUL TEHNOLOGIC "DACIA" CARANSEBEŞ URBAN Fabricarea produselor din lemn Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.54 -
+154 CARAȘ-SEVERIN LICEUL TEHNOLOGIC "DECEBAL" CARANSEBEŞ URBAN Mecanică Limba română - 28 21 Zi Tehnic Tehnologică Liceal 2.35 -
+152 CARAȘ-SEVERIN LICEUL TEHNOLOGIC "DECEBAL" CARANSEBEŞ URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.53 6.38
+117 CARAȘ-SEVERIN COLEGIUL NAŢIONAL "TRAIAN DODA" CARANSEBEŞ URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.29 9.41
+116 CARAȘ-SEVERIN COLEGIUL NAŢIONAL "TRAIAN DODA" CARANSEBEŞ URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 6.57 8.58
+115 CARAȘ-SEVERIN COLEGIUL NAŢIONAL "TRAIAN DODA" CARANSEBEŞ URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.89 7.62
+107 CARAȘ-SEVERIN COLEGIUL NAŢIONAL "C.D. LOGA" CARANSEBEŞ URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.43 -
+105 CARAȘ-SEVERIN COLEGIUL NAŢIONAL "C.D. LOGA" CARANSEBEŞ URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 6.65 6.11
+104 CARAȘ-SEVERIN COLEGIUL NAŢIONAL "C.D. LOGA" CARANSEBEŞ URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.82 6.70
+143 CARAȘ-SEVERIN LICEUL TEHNOLOGIC "CLISURA DUNĂRII" MOLDOVA NOUĂ URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 5.90 8.36
+142 CARAȘ-SEVERIN LICEUL TEHNOLOGIC "CLISURA DUNĂRII" MOLDOVA NOUĂ URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 3.68 7.96
+
+140 CARAȘ-SEVERIN LICEUL TEHNOLOGIC "CLISURA DUNĂRII" MOLDOVA NOUĂ URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 5.51 6.52
+139 CARAȘ-SEVERIN LICEUL TEHNOLOGIC "CLISURA DUNĂRII" MOLDOVA NOUĂ URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.38 3.71
+138 CARAȘ-SEVERIN LICEUL TEHNOLOGIC "CLISURA DUNĂRII" MOLDOVA NOUĂ URBAN Electromecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.81 -
+171 CARAȘ-SEVERIN LICEUL TEORETIC "GENERAL DRAGALINA" ORAVIȚA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 5.36 -
+170 CARAȘ-SEVERIN LICEUL TEORETIC "GENERAL DRAGALINA" ORAVIȚA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 4.67 -
+169 CARAȘ-SEVERIN LICEUL TEORETIC "GENERAL DRAGALINA" ORAVIȚA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.69 3.37
+157 CARAȘ-SEVERIN LICEUL TEHNOLOGIC „MIHAI NOVAC“ ORAVIŢA URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.98 -
+156 CARAȘ-SEVERIN LICEUL TEHNOLOGIC „MIHAI NOVAC“ ORAVIŢA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 2.21 -
+131 CARAȘ-SEVERIN LICEUL BĂNĂŢEAN OŢELU ROŞU URBAN Turism şi alimentaţie Limba română - 14 14 Zi Servicii Tehnologică Liceal 5.77 -
+130 CARAȘ-SEVERIN LICEUL BĂNĂŢEAN OŢELU ROŞU URBAN Mecanică Limba română - 14 14 Zi Tehnic Tehnologică Liceal 4.39 6.42
+129 CARAȘ-SEVERIN LICEUL BĂNĂŢEAN OŢELU ROŞU URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.30 -
+128 CARAȘ-SEVERIN LICEUL BĂNĂŢEAN OŢELU ROŞU URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.78 3.38
+127 CARAȘ-SEVERIN LICEUL BĂNĂŢEAN OŢELU ROŞU URBAN Electromecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.03 8.23
+
+114 MARAMUREȘ COLEGIUL NATIONAL "GHEORGHE SINCAI" BAIA MARE URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 8.59 7.74
+113 MARAMUREȘ COLEGIUL NATIONAL "GHEORGHE SINCAI" BAIA MARE URBAN Ştiinţe ale Naturii Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 9.18 8.34
+112 MARAMUREȘ COLEGIUL NATIONAL "GHEORGHE SINCAI" BAIA MARE URBAN Matematică-Informatică Limba română - 140 140 Zi Real Teoretică Liceal 8.69 -
+128 MARAMUREȘ COLEGIUL TEHNIC "ANGHEL SALIGNY" BAIA MARE URBAN Mecanică Limba română - 56 35 Zi Tehnic Tehnologică Liceal 3.44 3.72
+127 MARAMUREȘ COLEGIUL TEHNIC "ANGHEL SALIGNY" BAIA MARE URBAN Electric Limba română - 28 21 Zi Tehnic Tehnologică Liceal 3.92 -
+126 MARAMUREȘ COLEGIUL TEHNIC "ANGHEL SALIGNY" BAIA MARE URBAN Construcţii, instalaţii şi lucrări publice Limba română - 28 15 Zi Tehnic Tehnologică Liceal 2.30 -
+105 MARAMUREȘ COLEGIUL ECONOMIC "NICOLAE TITULESCU" BAIA MARE URBAN Turism şi alimentaţie Limba română - 56 56 Zi Servicii Tehnologică Liceal 6.85 9.15
+104 MARAMUREȘ COLEGIUL ECONOMIC "NICOLAE TITULESCU" BAIA MARE URBAN Economic Limba română - 140 140 Zi Servicii Tehnologică Liceal 6.97 8.09
+125 MARAMUREȘ COLEGIUL NATIONAL "VASILE LUCACIU" BAIA MARE URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 8.41 4.17
+124 MARAMUREȘ COLEGIUL NATIONAL "VASILE LUCACIU" BAIA MARE URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 8.35 3.74
+123 MARAMUREȘ COLEGIUL NATIONAL "VASILE LUCACIU" BAIA MARE URBAN Matematică-Informatică Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 8.84 4.56
+122 MARAMUREȘ COLEGIUL NATIONAL "VASILE LUCACIU" BAIA MARE URBAN Matematică-Informatică Limba română - 84 84 Zi Real Teoretică Liceal 8.50 9.00
+135 MARAMUREȘ COLEGIUL TEHNIC "C.D. NENITESCU" BAIA MARE URBAN Silvicultură Limba română - 14 11 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.43 -
+134 MARAMUREȘ COLEGIUL TEHNIC "C.D. NENITESCU" BAIA MARE URBAN Protecţia mediului Limba română - 14 14 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.55 5.99
+133 MARAMUREȘ COLEGIUL TEHNIC "C.D. NENITESCU" BAIA MARE URBAN Industrie alimentară Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.69 2.83
+176 MARAMUREȘ LICEUL TEOLOGIC PENTICOSTAL BAIA MARE URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.01 6.54
+136 MARAMUREȘ COLEGIUL TEHNIC "GEORGE BARITIU" BAIA MARE URBAN Electronică automatizări Limba română - 168 168 Zi Tehnic Tehnologică Liceal 5.33 3.53
+197 MARAMUREȘ SEMINARUL TEOLOGIC LICEAL "SF. IOSIF MARTURISITORUL" BAIA MARE URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 5.27 -
+191 MARAMUREȘ "NÉMETH LÁSZLÓ" ELMÉLETI LÍCEUM NAGYBÁNYA URBAN Ştiinţe ale Naturii Limba maghiară - 14 14 Zi Real Teoretică Liceal 5.65 -
+190 MARAMUREȘ "NÉMETH LÁSZLÓ" ELMÉLETI LÍCEUM NAGYBÁNYA URBAN Matematică-Informatică Limba maghiară - 14 14 Zi Real Teoretică Liceal 6.02 6.10
+189 MARAMUREȘ "NÉMETH LÁSZLÓ" ELMÉLETI LÍCEUM NAGYBÁNYA URBAN Filologie Limba maghiară - 28 8 Zi Umanist Teoretică Liceal 5.07 6.09
+121 MARAMUREȘ COLEGIUL NATIONAL "MIHAI EMINESCU" BAIA MARE URBAN Ştiinţe Sociale Limba română - 56 56 Zi Umanist Teoretică Liceal 7.79 9.35
+120 MARAMUREȘ COLEGIUL NATIONAL "MIHAI EMINESCU" BAIA MARE URBAN Filologie Limba română Limba spaniolă 14 14 Zi Umanist Teoretică Liceal 7.63 9.02
+119 MARAMUREȘ COLEGIUL NATIONAL "MIHAI EMINESCU" BAIA MARE URBAN Filologie Limba română Limba germană 14 12 Zi Umanist Teoretică Liceal 6.00 8.95
+118 MARAMUREȘ COLEGIUL NATIONAL "MIHAI EMINESCU" BAIA MARE URBAN Filologie Limba română Limba franceză 28 26 Zi Umanist Teoretică Liceal 4.73 8.25
+
+117 MARAMUREȘ COLEGIUL NATIONAL "MIHAI EMINESCU" BAIA MARE URBAN Filologie Limba română Limba engleză 56 56 Zi Umanist Teoretică Liceal 7.53 8.08
+116 MARAMUREȘ COLEGIUL NATIONAL "MIHAI EMINESCU" BAIA MARE URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.89 6.66
+140 MARAMUREȘ COLEGIUL TEHNIC "TRANSILVANIA" BAIA MARE URBAN Turism şi alimentaţie Limba română - 28 10 Zi Servicii Tehnologică Liceal 3.92 4.61
+139 MARAMUREȘ COLEGIUL TEHNIC "TRANSILVANIA" BAIA MARE URBAN Mecanică Limba română - 28 0 Zi Tehnic Tehnologică Liceal null 6.78
+137 MARAMUREȘ COLEGIUL TEHNIC "TRANSILVANIA" BAIA MARE URBAN Estetica şi igiena corpului omenesc Limba română - 28 9 Zi Servicii Tehnologică Liceal 3.51 6.14
+185 MARAMUREȘ LICEUL TEORETIC "EMIL RACOVITA" BAIA MARE URBAN Ştiinţe ale Naturii Limba română - 140 140 Zi Real Teoretică Liceal 6.73 7.81
+184 MARAMUREȘ LICEUL TEORETIC "EMIL RACOVITA" BAIA MARE URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.72 3.97
+183 MARAMUREȘ LICEUL TEORETIC "EMIL RACOVITA" BAIA MARE URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.04 4.77
+182 MARAMUREȘ LICEUL TEORETIC "EMIL RACOVITA" BAIA MARE URBAN Industrie textilă şi pielărie Limba română - 56 56 Zi Tehnic Tehnologică Liceal 4.89 5.04
+159 MARAMUREȘ LICEUL TEHNOLOGIC "TRAIAN VUIA" TAUTII MAGHERAUS URBAN Electric Limba română - 28 9 Zi Tehnic Tehnologică Liceal 3.66 6.41
+155 MARAMUREȘ LICEUL PEDAGOGIC "TARAS SEVCENKO" SIGHETU MARMATIEI URBAN Ştiinţe ale Naturii Limba ucraineană - 28 2 Zi Real Teoretică Liceal 6.20 2.65
+111 MARAMUREȘ COLEGIUL NATIONAL "DRAGOS VODA" SIGHETU MARMATIEI URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.39 9.13
+110 MARAMUREȘ COLEGIUL NATIONAL "DRAGOS VODA" SIGHETU MARMATIEI URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.58 9.52
+109 MARAMUREȘ COLEGIUL NATIONAL "DRAGOS VODA" SIGHETU MARMATIEI URBAN Matematică-Informatică Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 7.77 9.22
+108 MARAMUREȘ COLEGIUL NATIONAL "DRAGOS VODA" SIGHETU MARMATIEI URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 8.45 7.89
+107 MARAMUREȘ COLEGIUL NATIONAL "DRAGOS VODA" SIGHETU MARMATIEI URBAN Filologie Limba română - 56 56 Zi Umanist Teoretică Liceal 7.60 9.16
+169 MARAMUREȘ LICEUL TEHNOLOGIC FORESTIER SIGHETU MARMATIEI URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.47 -
+167 MARAMUREȘ LICEUL TEHNOLOGIC FORESTIER SIGHETU MARMATIEI URBAN Silvicultură Limba română - 14 14 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.14 6.41
+166 MARAMUREȘ LICEUL TEHNOLOGIC FORESTIER SIGHETU MARMATIEI URBAN Protecţia mediului Limba română - 14 14 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.45 6.12
+165 MARAMUREȘ LICEUL TEHNOLOGIC FORESTIER SIGHETU MARMATIEI URBAN Fabricarea produselor din lemn Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.53 7.31
+164 MARAMUREȘ LICEUL TEHNOLOGIC FORESTIER SIGHETU MARMATIEI URBAN Electronică automatizări Limba română - 14 14 Zi Tehnic Tehnologică Liceal 4.78 6.92
+163 MARAMUREȘ LICEUL TEHNOLOGIC FORESTIER SIGHETU MARMATIEI URBAN Electric Limba română - 14 14 Zi Tehnic Tehnologică Liceal 4.96 4.94
+175 MARAMUREȘ LICEUL TEHNOLOGIC MARMATIA SIGHETU MARMATIEI URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.17 6.37
+174 MARAMUREȘ LICEUL TEHNOLOGIC MARMATIA SIGHETU MARMATIEI URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.98 6.95
+173 MARAMUREȘ LICEUL TEHNOLOGIC MARMATIA SIGHETU MARMATIEI URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.75 7.47
+
+172 MARAMUREȘ LICEUL TEHNOLOGIC MARMATIA SIGHETU MARMATIEI URBAN Industrie textilă şi pielărie Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.20 -
+171 MARAMUREȘ LICEUL TEHNOLOGIC MARMATIA SIGHETU MARMATIEI URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.59 3.62
+170 MARAMUREȘ LICEUL TEHNOLOGIC MARMATIA SIGHETU MARMATIEI URBAN Economic Limba română - 56 56 Zi Servicii Tehnologică Liceal 6.69 3.50
+188 MARAMUREȘ "LEOWEY KLARA" ELMÉLETI LÍCEUM MÁRAMAROSSZIGET URBAN Ştiinţe ale Naturii Limba maghiară - 28 20 Zi Real Teoretică Liceal 4.01 7.71
+152 MARAMUREȘ LICEUL PEDAGOGIC "REGELE FERDINAND" SIGHETU MARMATIEI URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.20 -
+151 MARAMUREȘ LICEUL PEDAGOGIC "REGELE FERDINAND" SIGHETU MARMATIEI URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.24 -
+141 MARAMUREȘ COLEGIUL TEHNIC DE TRANSPORTURI AUTO BAIA SPRIE URBAN Ştiinţe Sociale Limba română - 28 15 Zi Umanist Teoretică Liceal 3.59 5.36
+149 MARAMUREȘ LICEUL BORSA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 5.18 7.78
+148 MARAMUREȘ LICEUL BORSA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 4.59 -
+146 MARAMUREȘ LICEUL BORSA URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.17 -
+145 MARAMUREȘ LICEUL BORSA URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 3.05 -
+144 MARAMUREȘ LICEUL BORSA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 5.72 5.54
+143 MARAMUREȘ LICEUL BORSA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.36 5.26
+142 MARAMUREȘ LICEUL BORSA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.51 -
+106 MARAMUREȘ COLEGIUL ECONOMIC "PINTEA VITEAZUL" CAVNIC URBAN Turism şi alimentaţie Limba română - 28 22 Zi Servicii Tehnologică Liceal 2.38 8.36
+158 MARAMUREȘ LICEUL TEHNOLOGIC "GRIGORE MOISIL" TARGU LAPUS URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.91 5.59
+157 MARAMUREȘ LICEUL TEHNOLOGIC "GRIGORE MOISIL" TARGU LAPUS URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.50 5.10
+195 MARAMUREȘ LICEUL TEORETIC "PETRU RARES" TARGU LAPUS URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 6.78 -
+194 MARAMUREȘ LICEUL TEORETIC "PETRU RARES" TARGU LAPUS URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.29 -
+193 MARAMUREȘ LICEUL TEORETIC "PETRU RARES" TARGU LAPUS URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.35 -
+192 MARAMUREȘ LICEUL TEORETIC "PETRU RARES" TARGU LAPUS URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.36 6.42
+181 MARAMUREȘ LICEUL TEORETIC "BOGDAN VODA" VISEU DE SUS URBAN Ştiinţe ale Naturii Limba română - 84 84 Zi Real Teoretică Liceal 5.18 3.46
+180 MARAMUREȘ LICEUL TEORETIC "BOGDAN VODA" VISEU DE SUS URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 4.99 7.51
+179 MARAMUREȘ LICEUL TEORETIC "BOGDAN VODA" VISEU DE SUS URBAN Filologie Limba română - 56 56 Zi Umanist Teoretică Liceal 6.18 7.41
+178 MARAMUREȘ LICEUL TEORETIC "BOGDAN VODA" VISEU DE SUS URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.78 8.74
+
+162 MARAMUREȘ LICEUL TEHNOLOGIC AGRICOL "ALEXIU BERINDE" SEINI URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 2.97 5.37
+161 MARAMUREȘ LICEUL TEHNOLOGIC AGRICOL "ALEXIU BERINDE" SEINI URBAN Agricultură Limba română - 28 4 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.63 6.68
+187 MARAMUREȘ LICEUL TEORETIC "IOAN BUTEANU" SOMCUTA MARE URBAN Matematică-Informatică Limba română - 28 23 Zi Real Teoretică Liceal 5.14 6.08
+186 MARAMUREȘ LICEUL TEORETIC "IOAN BUTEANU" SOMCUTA MARE URBAN Filologie Limba română - 56 19 Zi Umanist Teoretică Liceal 2.36 5.97
+156 MARAMUREȘ LICEUL TEHNOLOGIC "DR. FLORIAN ULMEANU" ULMENI URBAN Mecanică Limba română - 28 18 Zi Tehnic Tehnologică Liceal 3.09 4.25
+
+214 MUREȘ LICEUL TEORETIC "SAMUIL MICU" SĂRMAȘU URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 4.26 -
+213 MUREȘ LICEUL TEORETIC "SAMUIL MICU" SĂRMAȘU URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 5.06 2.33
+177 MUREȘ SZENT GYÖRGY TECHNOLÓGIAI LÍCEUM ERDŐSZENTGYÖRGY URBAN Turism şi alimentaţie Limba maghiară - 28 11 Zi Servicii Tehnologică Liceal 3.64 4.14
+176 MUREȘ SZENT GYÖRGY TECHNOLÓGIAI LÍCEUM ERDŐSZENTGYÖRGY URBAN Filologie Limba română - 28 6 Zi Umanist Teoretică Liceal 3.46 -
+175 MUREȘ SZENT GYÖRGY TECHNOLÓGIAI LÍCEUM ERDŐSZENTGYÖRGY URBAN Filologie Limba maghiară - 28 7 Zi Umanist Teoretică Liceal 4.57 3.36
+202 MUREȘ "BOCSKAI ISTVÁN" ELMÉLETI LÍCEUM NYÁRÁDSZEREDA URBAN Ştiinţe ale Naturii Limba maghiară - 28 10 Zi Real Teoretică Liceal 4.65 8.79
+201 MUREȘ "BOCSKAI ISTVÁN" ELMÉLETI LÍCEUM NYÁRÁDSZEREDA URBAN Filologie Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 4.65 3.82
+230 MUREȘ REFORMÁTUS KOLLÉGIUM MAROSVÁSÁRHELY URBAN Ştiinţe Sociale Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 7.81 -
+228 MUREȘ "MIHAI EMINESCU" PEDAGÓGIAI LÍCEUM MAROSVÁSÁRHELY URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.05 -
+227 MUREȘ "MIHAI EMINESCU" PEDAGÓGIAI LÍCEUM MAROSVÁSÁRHELY URBAN Ştiinţe Sociale Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 7.53 8.38
+223 MUREȘ "MIHAI EMINESCU" PEDAGÓGIAI LÍCEUM MAROSVÁSÁRHELY URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.83 -
+181 MUREȘ "TRAIAN VUIA" SZAKKÉPZŐ LÍCEUM MAROSVÁSÁRHELY URBAN Estetica şi igiena corpului omenesc Limba română - 28 21 Zi Servicii Tehnologică Liceal 2.85 6.40
+180 MUREȘ "TRAIAN VUIA" SZAKKÉPZŐ LÍCEUM MAROSVÁSÁRHELY URBAN Estetica şi igiena corpului omenesc Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 4.09 5.82
+179 MUREȘ "TRAIAN VUIA" SZAKKÉPZŐ LÍCEUM MAROSVÁSÁRHELY URBAN Electric Limba română - 28 11 Zi Tehnic Tehnologică Liceal 2.84 3.51
+178 MUREȘ "TRAIAN VUIA" SZAKKÉPZŐ LÍCEUM MAROSVÁSÁRHELY URBAN Electric Limba maghiară - 28 19 Zi Tehnic Tehnologică Liceal 2.50 -
+134 MUREȘ "CONSTANTIN BRÂNCUȘI" SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Construcţii, instalaţii şi lucrări publice Limba maghiară - 28 11 Zi Tehnic Tehnologică Liceal 4.82 -
+159 MUREȘ "ION VLASIU" SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Protecţia mediului Limba maghiară - 14 14 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.15 6.83
+158 MUREȘ "ION VLASIU" SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Producţie media Limba română - 14 3 Zi Tehnic Tehnologică Liceal 2.68 8.93
+157 MUREȘ "ION VLASIU" SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Producţie media Limba maghiară - 14 3 Zi Tehnic Tehnologică Liceal 5.91 7.27
+155 MUREȘ "ION VLASIU" SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Fabricarea produselor din lemn Limba română - 14 4 Zi Tehnic Tehnologică Liceal 5.16 -
+154 MUREȘ "ION VLASIU" SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Fabricarea produselor din lemn Limba maghiară - 14 10 Zi Tehnic Tehnologică Liceal 4.07 -
+153 MUREȘ "ION VLASIU" SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Electronică automatizări Limba maghiară - 14 4 Zi Tehnic Tehnologică Liceal 3.69 -
+144 MUREȘ ELEKTROMOS SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Turism şi alimentaţie Limba română - 56 56 Zi Servicii Tehnologică Liceal 5.84 -
+143 MUREȘ ELEKTROMOS SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Turism şi alimentaţie Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 7.06 7.30
+142 MUREȘ ELEKTROMOS SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.23 7.23
+
+141 MUREȘ ELEKTROMOS SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Electronică automatizări Limba maghiară - 56 56 Zi Tehnic Tehnologică Liceal 6.51 6.58
+140 MUREȘ ELEKTROMOS SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Electric Limba română - 28 18 Zi Tehnic Tehnologică Liceal 4.14 7.40
+139 MUREȘ ELEKTROMOS SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Economic Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 6.84 4.75
+112 MUREȘ COLEGIUL NAȚIONAL "ALEXANDRU PAPIU ILARIAN" TÎRGU MUREȘ URBAN Ştiinţe Sociale Limba română - 56 56 Zi Umanist Teoretică Liceal 8.23 9.06
+111 MUREȘ COLEGIUL NAȚIONAL "ALEXANDRU PAPIU ILARIAN" TÎRGU MUREȘ URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 8.81 9.35
+110 MUREȘ COLEGIUL NAȚIONAL "ALEXANDRU PAPIU ILARIAN" TÎRGU MUREȘ URBAN Ştiinţe ale Naturii Limba germană - 28 14 Zi Real Teoretică Liceal 6.43 5.76
+109 MUREȘ COLEGIUL NAȚIONAL "ALEXANDRU PAPIU ILARIAN" TÎRGU MUREȘ URBAN Matematică-Informatică Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 9.39 9.56
+108 MUREȘ COLEGIUL NAȚIONAL "ALEXANDRU PAPIU ILARIAN" TÎRGU MUREȘ URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.90 9.43
+123 MUREȘ COLEGIUL NAȚIONAL "UNIREA" TÎRGU MUREȘ URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 8.62 9.28
+122 MUREȘ COLEGIUL NAȚIONAL "UNIREA" TÎRGU MUREȘ URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 8.89 9.32
+121 MUREȘ COLEGIUL NAȚIONAL "UNIREA" TÎRGU MUREȘ URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.93 9.54
+120 MUREȘ COLEGIUL NAȚIONAL "UNIREA" TÎRGU MUREȘ URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 7.47 8.80
+104 MUREȘ COLEGIUL AGRICOL "TRAIAN SĂVULESCU" TÎRGU MUREȘ URBAN Protecţia mediului Limba română - 28 14 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.01 5.26
+103 MUREȘ COLEGIUL AGRICOL "TRAIAN SĂVULESCU" TÎRGU MUREȘ URBAN Industrie alimentară Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.70 6.21
+102 MUREȘ COLEGIUL AGRICOL "TRAIAN SĂVULESCU" TÎRGU MUREȘ URBAN Economic Limba română - 56 56 Zi Servicii Tehnologică Liceal 5.33 6.72
+101 MUREȘ COLEGIUL AGRICOL "TRAIAN SĂVULESCU" TÎRGU MUREȘ URBAN Agricultură Limba română - 56 22 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.61 4.19
+107 MUREȘ COLEGIUL ECONOMIC "TRANSILVANIA" TÎRGU MUREȘ URBAN Turism şi alimentaţie Limba română - 56 56 Zi Servicii Tehnologică Liceal 6.94 8.07
+106 MUREȘ COLEGIUL ECONOMIC "TRANSILVANIA" TÎRGU MUREȘ URBAN Economic Limba română - 84 84 Zi Servicii Tehnologică Liceal 7.74 8.59
+105 MUREȘ COLEGIUL ECONOMIC "TRANSILVANIA" TÎRGU MUREȘ URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.92 7.89
+132 MUREȘ "AVRAM IANCU" TECHNOLÓGIAI LÍCEUM MAROSVÁSÁRHELY URBAN Comerţ Limba română - 28 7 Zi Servicii Tehnologică Liceal 3.93 3.71
+131 MUREȘ "AVRAM IANCU" TECHNOLÓGIAI LÍCEUM MAROSVÁSÁRHELY URBAN Comerţ Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 5.11 6.57
+149 MUREȘ "GHEORGHE ȘINCAI" SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Turism şi alimentaţie Limba română - 28 27 Zi Servicii Tehnologică Liceal 3.68 5.40
+148 MUREȘ "GHEORGHE ȘINCAI" SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Turism şi alimentaţie Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 6.03 4.98
+147 MUREȘ "GHEORGHE ȘINCAI" SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Mecanică Limba română - 28 10 Zi Tehnic Tehnologică Liceal 3.79 6.45
+146 MUREȘ "GHEORGHE ȘINCAI" SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Electric Limba română - 28 24 Zi Tehnic Tehnologică Liceal 3.66 3.58
+
+145 MUREȘ "GHEORGHE ȘINCAI" SZAKKÖZÉPISKOLA MAROSVÁSÁRHELY URBAN Electric Limba maghiară - 28 28 Zi Tehnic Tehnologică Liceal 5.22 -
+207 MUREȘ LICEUL TEORETIC "GHEORGHE MARINESCU" TÎRGU MUREȘ URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.57 4.44
+206 MUREȘ LICEUL TEORETIC "GHEORGHE MARINESCU" TÎRGU MUREȘ URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 7.85 7.82
+205 MUREȘ "BOLYAI FARKAS" ELMÉLETI LÍCEUM MAROSVÁSÁRHELY URBAN Ştiinţe Sociale Limba maghiară - 56 56 Zi Umanist Teoretică Liceal 8.06 8.06
+204 MUREȘ "BOLYAI FARKAS" ELMÉLETI LÍCEUM MAROSVÁSÁRHELY URBAN Ştiinţe ale Naturii Limba maghiară - 84 84 Zi Real Teoretică Liceal 8.29 8.73
+203 MUREȘ "BOLYAI FARKAS" ELMÉLETI LÍCEUM MAROSVÁSÁRHELY URBAN Matematică-Informatică Limba maghiară - 56 56 Zi Real Teoretică Liceal 8.22 9.05
+212 MUREȘ LICEUL TEORETIC "JOSEPH HALTRICH" SIGHIȘOARA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 5.88 4.64
+211 MUREȘ LICEUL TEORETIC "JOSEPH HALTRICH" SIGHIȘOARA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 4.76 6.57
+210 MUREȘ LICEUL TEORETIC "JOSEPH HALTRICH" SIGHIȘOARA URBAN Matematică-Informatică Limba germană - 28 26 Zi Real Teoretică Liceal 6.31 6.26
+209 MUREȘ LICEUL TEORETIC "JOSEPH HALTRICH" SIGHIȘOARA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.24 6.50
+208 MUREȘ LICEUL TEORETIC "JOSEPH HALTRICH" SIGHIȘOARA URBAN Filologie Limba germană - 28 15 Zi Umanist Teoretică Liceal 5.55 6.78
+195 MUREȘ LICEUL TEHNOLOGIC NR.1 SIGHIȘOARA URBAN Mecanică Limba română - 28 16 Zi Tehnic Tehnologică Liceal 2.84 4.60
+194 MUREȘ LICEUL TEHNOLOGIC NR.1 SIGHIȘOARA URBAN Electric Limba română - 28 25 Zi Tehnic Tehnologică Liceal 2.62 -
+193 MUREȘ LICEUL TEHNOLOGIC NR.1 SIGHIȘOARA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.28 8.43
+119 MUREȘ "MIRCEA ELIADE" FŐGIMNÁZIUM SEGESVÁR URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.13 7.83
+118 MUREȘ "MIRCEA ELIADE" FŐGIMNÁZIUM SEGESVÁR URBAN Ştiinţe ale Naturii Limba maghiară - 14 12 Zi Real Teoretică Liceal 4.65 5.31
+116 MUREȘ "MIRCEA ELIADE" FŐGIMNÁZIUM SEGESVÁR URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.10 8.72
+115 MUREȘ "MIRCEA ELIADE" FŐGIMNÁZIUM SEGESVÁR URBAN Matematică-Informatică Limba maghiară - 14 5 Zi Real Teoretică Liceal 6.29 7.54
+114 MUREȘ "MIRCEA ELIADE" FŐGIMNÁZIUM SEGESVÁR URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.05 7.54
+113 MUREȘ "MIRCEA ELIADE" FŐGIMNÁZIUM SEGESVÁR URBAN Filologie Limba maghiară - 28 12 Zi Umanist Teoretică Liceal 2.82 4.19
+192 MUREȘ TECHNOLÓGIAI LÍCEUM MAROSLUDAS URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 6.49 -
+191 MUREȘ TECHNOLÓGIAI LÍCEUM MAROSLUDAS URBAN Ştiinţe ale Naturii Limba maghiară - 28 19 Zi Real Teoretică Liceal 4.99 -
+190 MUREȘ TECHNOLÓGIAI LÍCEUM MAROSLUDAS URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.28 5.16
+189 MUREȘ TECHNOLÓGIAI LÍCEUM MAROSLUDAS URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 5.25 -
+188 MUREȘ TECHNOLÓGIAI LÍCEUM MAROSLUDAS URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.00 -
+
+187 MUREȘ TECHNOLÓGIAI LÍCEUM MAROSLUDAS URBAN Electric Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.92 5.12
+174 MUREȘ "PETRU MAIOR" LÍCEUM SZÁSZRÉGEN URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 5.91 5.49
+173 MUREȘ "PETRU MAIOR" LÍCEUM SZÁSZRÉGEN URBAN Ştiinţe ale Naturii Limba maghiară - 14 14 Zi Real Teoretică Liceal 7.12 2.98
+172 MUREȘ "PETRU MAIOR" LÍCEUM SZÁSZRÉGEN URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 5.82 4.93
+171 MUREȘ "PETRU MAIOR" LÍCEUM SZÁSZRÉGEN URBAN Matematică-Informatică Limba maghiară - 14 14 Zi Real Teoretică Liceal 7.55 4.85
+170 MUREȘ "PETRU MAIOR" LÍCEUM SZÁSZRÉGEN URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.25 3.18
+169 MUREȘ "PETRU MAIOR" LÍCEUM SZÁSZRÉGEN URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.19 8.36
+168 MUREȘ "PETRU MAIOR" LÍCEUM SZÁSZRÉGEN URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.61 7.97
+152 MUREȘ LICEUL TEHNOLOGIC "IOAN BOJOR" REGHIN URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.26 -
+151 MUREȘ LICEUL TEHNOLOGIC "IOAN BOJOR" REGHIN URBAN Industrie alimentară Limba română - 28 22 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.69 5.37
+150 MUREȘ LICEUL TEHNOLOGIC "IOAN BOJOR" REGHIN URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 3.95 5.05
+167 MUREȘ "LUCIAN BLAGA" ISKOLAKÖZPONT SZÁSZRÉGEN URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 6.66 8.41
+166 MUREȘ "LUCIAN BLAGA" ISKOLAKÖZPONT SZÁSZRÉGEN URBAN Ştiinţe Sociale Limba maghiară - 14 14 Zi Umanist Teoretică Liceal 5.44 8.41
+165 MUREȘ "LUCIAN BLAGA" ISKOLAKÖZPONT SZÁSZRÉGEN URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.75 6.51
+164 MUREȘ "LUCIAN BLAGA" ISKOLAKÖZPONT SZÁSZRÉGEN URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.94 7.32
+163 MUREȘ "LUCIAN BLAGA" ISKOLAKÖZPONT SZÁSZRÉGEN URBAN Turism şi alimentaţie Limba maghiară - 28 8 Zi Servicii Tehnologică Liceal 4.12 7.51
+162 MUREȘ "LUCIAN BLAGA" ISKOLAKÖZPONT SZÁSZRÉGEN URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.50 7.43
+161 MUREȘ "LUCIAN BLAGA" ISKOLAKÖZPONT SZÁSZRÉGEN URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 6.90 6.52
+160 MUREȘ "LUCIAN BLAGA" ISKOLAKÖZPONT SZÁSZRÉGEN URBAN Filologie Limba maghiară - 14 14 Zi Umanist Teoretică Liceal 5.47 7.86
+138 MUREȘ "DOMOKOS KÁZMÉR" GIMNÁZIUM ÉS SZAKKÖZÉPISKOLA SZOVÁTA URBAN Turism şi alimentaţie Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 4.47 7.08
+137 MUREȘ "DOMOKOS KÁZMÉR" GIMNÁZIUM ÉS SZAKKÖZÉPISKOLA SZOVÁTA URBAN Matematică-Informatică Limba maghiară - 28 28 Zi Real Teoretică Liceal 5.98 -
+136 MUREȘ "DOMOKOS KÁZMÉR" GIMNÁZIUM ÉS SZAKKÖZÉPISKOLA SZOVÁTA URBAN Comerţ Limba maghiară - 28 25 Zi Servicii Tehnologică Liceal 3.78 6.66
+200 MUREȘ "ANDREI BÂRSEANU" ELMÉLETI LÍCEUM DICSŐSZENTMÁRTON URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 5.19 4.54
+199 MUREȘ "ANDREI BÂRSEANU" ELMÉLETI LÍCEUM DICSŐSZENTMÁRTON URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 5.73 5.38
+198 MUREȘ "ANDREI BÂRSEANU" ELMÉLETI LÍCEUM DICSŐSZENTMÁRTON URBAN Ştiinţe ale Naturii Limba maghiară - 28 9 Zi Real Teoretică Liceal 4.20 5.51
+
+197 MUREȘ "ANDREI BÂRSEANU" ELMÉLETI LÍCEUM DICSŐSZENTMÁRTON URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.81 4.87
+196 MUREȘ "ANDREI BÂRSEANU" ELMÉLETI LÍCEUM DICSŐSZENTMÁRTON URBAN Filologie Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 5.09 5.28
+127 MUREȘ COLEGIUL TEHNIC TÂRNĂVENI URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.99 3.70
+126 MUREȘ COLEGIUL TEHNIC TÂRNĂVENI URBAN Electromecanică Limba română - 28 26 Zi Tehnic Tehnologică Liceal 2.30 -
+125 MUREȘ COLEGIUL TEHNIC TÂRNĂVENI URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.70 4.43
+184 MUREȘ LICEUL TEHNOLOGIC "VASILE NETEA" DEDA RURAL Ştiinţe ale Naturii Limba română - 28 21 Zi Real Teoretică Liceal 4.14 5.64
+183 MUREȘ LICEUL TEHNOLOGIC "VASILE NETEA" DEDA RURAL Fabricarea produselor din lemn Limba română - 28 12 Zi Tehnic Tehnologică Liceal 2.10 8.36
+124 MUREȘ COLEGIUL SILVIC GURGHIU RURAL Silvicultură Limba română - 56 32 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.30 3.87
+186 MUREȘ LICEUL TEHNOLOGIC IERNUT URBAN Ştiinţe ale Naturii Limba română - 28 21 Zi Real Teoretică Liceal 3.83 7.28
+185 MUREȘ LICEUL TEHNOLOGIC IERNUT URBAN Electric Limba română - 28 27 Zi Tehnic Tehnologică Liceal 3.48 5.35
+
+126 SATU-MARE COLEGIUL TEHNIC "ELISA ZAMFIRESCU" SATU MARE URBAN Industrie textilă şi pielărie Limba română - 28 11 Zi Tehnic Tehnologică Liceal 3.79 -
+125 SATU-MARE COLEGIUL TEHNIC "ELISA ZAMFIRESCU" SATU MARE URBAN Estetica şi igiena corpului omenesc Limba română - 28 28 Zi Servicii Tehnologică Liceal 3.80 8.01
+119 SATU-MARE COLEGIUL NAȚIONAL "DOAMNA STANCA" SATU MARE URBAN Ştiinţe Sociale Limba română Limba engleză 28 21 Zi Umanist Teoretică Liceal 4.08 8.29
+118 SATU-MARE COLEGIUL NAȚIONAL "DOAMNA STANCA" SATU MARE URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 7.22 8.43
+117 SATU-MARE COLEGIUL NAȚIONAL "DOAMNA STANCA" SATU MARE URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.65 7.90
+116 SATU-MARE COLEGIUL NAȚIONAL "DOAMNA STANCA" SATU MARE URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 6.77 7.86
+115 SATU-MARE COLEGIUL NAȚIONAL "DOAMNA STANCA" SATU MARE URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.23 8.01
+165 SATU-MARE HÁM JÁNOS RÓMAI KATOLIKUS TEOLÓGIAI LÍCEUM SZATMÁRNÉMETI URBAN Ştiinţe ale Naturii Limba maghiară - 28 28 Zi Real Teoretică Liceal 5.87 6.63
+124 SATU-MARE COLEGIUL NAȚIONAL „MIHAI EMINESCU” SATU MARE URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.19 9.00
+123 SATU-MARE COLEGIUL NAȚIONAL „MIHAI EMINESCU” SATU MARE URBAN Ştiinţe ale Naturii Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 8.32 8.77
+122 SATU-MARE COLEGIUL NAȚIONAL „MIHAI EMINESCU” SATU MARE URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.99 9.63
+121 SATU-MARE COLEGIUL NAȚIONAL „MIHAI EMINESCU” SATU MARE URBAN Matematică-Informatică Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 8.80 9.34
+120 SATU-MARE COLEGIUL NAȚIONAL „MIHAI EMINESCU” SATU MARE URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 8.63 7.74
+133 SATU-MARE COLEGIUL TEHNIC DE TRANSPORTURI ȘI TELECOMUNICAȚII "ION I. C. BRĂTIANU" SATU MARE URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 3.16 4.37
+132 SATU-MARE COLEGIUL TEHNIC DE TRANSPORTURI ȘI TELECOMUNICAȚII "ION I. C. BRĂTIANU" SATU MARE URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.29 2.29
+131 SATU-MARE COLEGIUL TEHNIC DE TRANSPORTURI ȘI TELECOMUNICAȚII "ION I. C. BRĂTIANU" SATU MARE URBAN Electric Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.35 5.77
+148 SATU-MARE LICEUL TEHNOLOGIC "CONSTANTIN BRÂNCUȘI" SATU MARE URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.35 -
+157 SATU-MARE LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARĂ "GEORGE EMIL PALADE" SATU MARE URBAN Industrie alimentară Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.32 4.13
+107 SATU-MARE "KÖLCSEY FERENC" FŐGIMNÁZIUM SZATMÁRNÉMETI URBAN Ştiinţe Sociale Limba maghiară Limba germană 14 14 Zi Umanist Teoretică Liceal 6.22 7.78
+106 SATU-MARE "KÖLCSEY FERENC" FŐGIMNÁZIUM SZATMÁRNÉMETI URBAN Ştiinţe Sociale Limba maghiară Limba engleză 14 14 Zi Umanist Teoretică Liceal 6.57 6.92
+105 SATU-MARE "KÖLCSEY FERENC" FŐGIMNÁZIUM SZATMÁRNÉMETI URBAN Ştiinţe Sociale Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 5.52 7.31
+104 SATU-MARE "KÖLCSEY FERENC" FŐGIMNÁZIUM SZATMÁRNÉMETI URBAN Ştiinţe ale Naturii Limba maghiară - 56 56 Zi Real Teoretică Liceal 6.29 5.25
+103 SATU-MARE "KÖLCSEY FERENC" FŐGIMNÁZIUM SZATMÁRNÉMETI URBAN Matematică-Informatică Limba maghiară - 56 56 Zi Real Teoretică Liceal 5.25 6.57
+114 SATU-MARE COLEGIUL NAŢIONAL "IOAN SLAVICI" SATU MARE URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.54 -
+113 SATU-MARE COLEGIUL NAŢIONAL "IOAN SLAVICI" SATU MARE URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.36 8.70
+
+111 SATU-MARE COLEGIUL NAŢIONAL "IOAN SLAVICI" SATU MARE URBAN Matematică-Informatică Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 8.12 8.89
+110 SATU-MARE COLEGIUL NAŢIONAL "IOAN SLAVICI" SATU MARE URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.53 7.48
+109 SATU-MARE COLEGIUL NAŢIONAL "IOAN SLAVICI" SATU MARE URBAN Filologie Limba română Limba engleză 14 14 Zi Umanist Teoretică Liceal 7.96 8.11
+108 SATU-MARE COLEGIUL NAŢIONAL "IOAN SLAVICI" SATU MARE URBAN Filologie Limba română - 14 14 Zi Umanist Teoretică Liceal 7.97 7.34
+173 SATU-MARE LICEUL TEORETIC GERMAN "JOHANN ETTINGER" SATU MARE URBAN Matematică-Informatică Limba germană Limba engleză 14 14 Zi Real Teoretică Liceal 8.76 7.51
+172 SATU-MARE LICEUL TEORETIC GERMAN "JOHANN ETTINGER" SATU MARE URBAN Matematică-Informatică Limba germană - 14 14 Zi Real Teoretică Liceal 7.34 -
+171 SATU-MARE LICEUL TEORETIC GERMAN "JOHANN ETTINGER" SATU MARE URBAN Filologie Limba germană - 28 28 Zi Umanist Teoretică Liceal 6.13 -
+141 SATU-MARE REFORMÁTUS GIMNÁZIUM SZATMÁRNÉMETI URBAN Filologie Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 4.82 -
+140 SATU-MARE REFORMÁTUS GIMNÁZIUM SZATMÁRNÉMETI URBAN Economic Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 5.29 -
+102 SATU-MARE COLEGIUL ECONOMIC "GHEORGHE DRAGOȘ" SATU MARE URBAN Economic Limba română - 56 56 Zi Servicii Tehnologică Liceal 6.62 -
+101 SATU-MARE COLEGIUL ECONOMIC "GHEORGHE DRAGOȘ" SATU MARE URBAN Comerţ Limba română - 56 56 Zi Servicii Tehnologică Liceal 6.36 6.93
+162 SATU-MARE LICEUL TEOLOGIC ORTODOX "NICOLAE STEINHARDT" SATU MARE URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.55 6.28
+145 SATU-MARE KALAZANCZI SZENT JÓZSEF RÓMAI KATOLIKUS LÍCEUM NAGYKÁROLY URBAN Turism şi alimentaţie Limba maghiară - 28 28 Zi Servicii Tehnologică Liceal 4.72 -
+170 SATU-MARE ELMÉLETI LÍCEUM NAGYKÁROLY URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.22 -
+169 SATU-MARE ELMÉLETI LÍCEUM NAGYKÁROLY URBAN Ştiinţe ale Naturii Limba maghiară - 28 28 Zi Real Teoretică Liceal 6.51 -
+168 SATU-MARE ELMÉLETI LÍCEUM NAGYKÁROLY URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.70 7.00
+167 SATU-MARE ELMÉLETI LÍCEUM NAGYKÁROLY URBAN Matematică-Informatică Limba maghiară - 28 28 Zi Real Teoretică Liceal 7.27 -
+166 SATU-MARE ELMÉLETI LÍCEUM NAGYKÁROLY URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.30 5.30
+156 SATU-MARE LICEUL TEHNOLOGIC "SIMION BĂRNUȚIU" CAREI URBAN Mecanică Limba română - 28 6 Zi Tehnic Tehnologică Liceal 3.91 4.53
+130 SATU-MARE COLEGIUL TEHNIC "IULIU MANIU" CAREI URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.06 3.02
+129 SATU-MARE COLEGIUL TEHNIC "IULIU MANIU" CAREI URBAN Mecanică Limba română - 28 17 Zi Tehnic Tehnologică Liceal 3.34 6.03
+128 SATU-MARE COLEGIUL TEHNIC "IULIU MANIU" CAREI URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.67 -
+154 SATU-MARE LICEUL TEHNOLOGIC "IONIȚĂ G. ANDRON" NEGREȘTI-OAȘ URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.89 -
+153 SATU-MARE LICEUL TEHNOLOGIC "IONIȚĂ G. ANDRON" NEGREȘTI-OAȘ URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.80 4.40
+152 SATU-MARE LICEUL TEHNOLOGIC "IONIȚĂ G. ANDRON" NEGREȘTI-OAȘ URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.58 -
+
+176 SATU-MARE LICEUL TEORETIC NEGREȘTI OAȘ URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.93 9.10
+175 SATU-MARE LICEUL TEORETIC NEGREȘTI OAȘ URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.53 8.46
+174 SATU-MARE LICEUL TEORETIC NEGREȘTI OAȘ URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.04 7.91
+160 SATU-MARE LICEUL TEHNOLOGIC TĂȘNAD URBAN Matematică-Informatică Limba română - 28 20 Zi Real Teoretică Liceal 3.56 -
+159 SATU-MARE LICEUL TEHNOLOGIC TĂȘNAD URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 5.12 -
+150 SATU-MARE LICEUL TEHNOLOGIC "GEORGE BARIȚIU" LIVADA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 3.23 3.99
+158 SATU-MARE LICEUL TEHNOLOGIC TARNA MARE RURAL Agricultură Limba română - 28 23 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.75 3.48
+147 SATU-MARE LICEUL TEHNOLOGIC "ANGHEL SALIGNY" TURȚ RURAL Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.05 -
+146 SATU-MARE LICEUL TEHNOLOGIC "ANGHEL SALIGNY" TURȚ RURAL Industrie textilă şi pielărie Limba română - 28 19 Zi Tehnic Tehnologică Liceal 3.36 -
+
+161 SIBIU LICEUL TEHNOLOGIC CONSTRUCTII SI ARHITECTURA "CAROL I" SIBIU URBAN Construcţii, instalaţii şi lucrări publice Limba română - 28 15 Zi Tehnic Tehnologică Liceal 4.28 -
+120 SIBIU COLEGIUL NATIONAL PEDAGOGIC "A.SAGUNA" SIBIU URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 7.17 6.56
+119 SIBIU COLEGIUL NATIONAL PEDAGOGIC "A.SAGUNA" SIBIU URBAN Filologie Limba germană - 28 19 Zi Umanist Teoretică Liceal 4.33 9.23
+106 SIBIU COLEGIUL ECONOMIC "G.BARITIU" SIBIU URBAN Turism şi alimentaţie Limba română - 56 56 Zi Servicii Tehnologică Liceal 7.32 8.04
+105 SIBIU COLEGIUL ECONOMIC "G.BARITIU" SIBIU URBAN Economic Limba română - 84 84 Zi Servicii Tehnologică Liceal 7.51 8.33
+104 SIBIU COLEGIUL ECONOMIC "G.BARITIU" SIBIU URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 7.48 8.11
+115 SIBIU COLEGIUL NATIONAL "O.GOGA" SIBIU URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 8.48 9.58
+114 SIBIU COLEGIUL NATIONAL "O.GOGA" SIBIU URBAN Ştiinţe ale Naturii Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 9.03 9.25
+113 SIBIU COLEGIUL NATIONAL "O.GOGA" SIBIU URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.91 -
+112 SIBIU COLEGIUL NATIONAL "O.GOGA" SIBIU URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 9.15 9.44
+111 SIBIU COLEGIUL NATIONAL "O.GOGA" SIBIU URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 8.31 9.04
+110 SIBIU COLEGIUL NATIONAL "O.GOGA" SIBIU URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 8.29 8.99
+118 SIBIU COLEGIUL NATIONAL "SAMUEL VON BRUKENTHAL" SIBIU URBAN Ştiinţe ale Naturii Limba germană - 56 56 Zi Real Teoretică Liceal 8.71 9.30
+117 SIBIU COLEGIUL NATIONAL "SAMUEL VON BRUKENTHAL" SIBIU URBAN Matematică-Informatică Limba germană - 28 28 Zi Real Teoretică Liceal 8.88 9.10
+116 SIBIU COLEGIUL NATIONAL "SAMUEL VON BRUKENTHAL" SIBIU URBAN Filologie Limba germană - 28 28 Zi Umanist Teoretică Liceal 8.33 9.09
+109 SIBIU COLEGIUL NATIONAL "GH.LAZAR" SIBIU URBAN Ştiinţe ale Naturii Limba română Limba engleză 56 56 Zi Real Teoretică Liceal 9.19 9.45
+108 SIBIU COLEGIUL NATIONAL "GH.LAZAR" SIBIU URBAN Ştiinţe ale Naturii Limba română - 84 84 Zi Real Teoretică Liceal 8.66 9.12
+107 SIBIU COLEGIUL NATIONAL "GH.LAZAR" SIBIU URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 9.43 9.67
+180 SIBIU LICEUL TEORETIC "ONISIFOR GHIBU" SIBIU URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.40 8.59
+179 SIBIU LICEUL TEORETIC "ONISIFOR GHIBU" SIBIU URBAN Ştiinţe ale Naturii Limba germană - 28 28 Zi Real Teoretică Liceal 7.90 -
+177 SIBIU LICEUL TEORETIC "ONISIFOR GHIBU" SIBIU URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.49 8.79
+176 SIBIU LICEUL TEORETIC "ONISIFOR GHIBU" SIBIU URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 8.08 7.80
+175 SIBIU LICEUL TEORETIC "ONISIFOR GHIBU" SIBIU URBAN Filologie Limba germană - 28 28 Zi Umanist Teoretică Liceal 6.59 3.67
+171 SIBIU LICEUL TEORETIC "C.NOICA" SIBIU URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.07 8.56
+170 SIBIU LICEUL TEORETIC "C.NOICA" SIBIU URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.92 7.73
+
+127 SIBIU COLEGIUL TEHNIC "CIBINIUM" SIBIU URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.65 6.43
+126 SIBIU COLEGIUL TEHNIC "CIBINIUM" SIBIU URBAN Industrie textilă şi pielărie Limba română - 56 56 Zi Tehnic Tehnologică Liceal 5.83 7.31
+125 SIBIU COLEGIUL TEHNIC "CIBINIUM" SIBIU URBAN Estetica şi igiena corpului omenesc Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.50 5.06
+129 SIBIU COLEGIUL TEHNIC "INDEPENDENTA" SIBIU URBAN Turism şi alimentaţie Limba română - 28 20 Zi Servicii Tehnologică Liceal 4.18 4.28
+128 SIBIU COLEGIUL TEHNIC "INDEPENDENTA" SIBIU URBAN Electronică automatizări Limba română - 28 21 Zi Tehnic Tehnologică Liceal 3.73 -
+147 SIBIU LICEUL TEHNOLOGIC "HENRI COANDA" SIBIU URBAN Mecanică Limba română - 28 15 Zi Tehnic Tehnologică Liceal 3.83 -
+138 SIBIU COLEGIUL TEHNIC ENERGETIC SIBIU URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.36 5.48
+137 SIBIU COLEGIUL TEHNIC ENERGETIC SIBIU URBAN Electronică automatizări Limba română - 56 56 Zi Tehnic Tehnologică Liceal 5.40 -
+136 SIBIU COLEGIUL TEHNIC ENERGETIC SIBIU URBAN Electromecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.40 5.46
+135 SIBIU COLEGIUL TEHNIC ENERGETIC SIBIU URBAN Electric Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.28 3.60
+145 SIBIU LICEUL TEHNOLOGIC "AVRAM IANCU" SIBIU URBAN Silvicultură Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.87 5.23
+144 SIBIU LICEUL TEHNOLOGIC "AVRAM IANCU" SIBIU URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.72 6.08
+143 SIBIU LICEUL TEHNOLOGIC "AVRAM IANCU" SIBIU URBAN Fabricarea produselor din lemn Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.37 -
+134 SIBIU COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARA "TEREZIANUM" SIBIU URBAN Industrie alimentară Limba română - 56 55 Zi Resurse naturale și protecția mediului Tehnologică Liceal 2.25 3.86
+133 SIBIU COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARA "TEREZIANUM" SIBIU URBAN Electromecanică Limba română - 28 15 Zi Tehnic Tehnologică Liceal 2.83 -
+103 SIBIU COLEGIUL AGRICOL "D.P.BARCIANU" SIBIU URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 6.79 -
+102 SIBIU COLEGIUL AGRICOL "D.P.BARCIANU" SIBIU URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 7.05 7.87
+101 SIBIU COLEGIUL AGRICOL "D.P.BARCIANU" SIBIU URBAN Agricultură Limba română - 84 84 Zi Resurse naturale și protecția mediului Tehnologică Liceal 6.36 7.17
+157 SIBIU LICEUL TEHNOLOGIC "SCOALA NATIONALA DE GAZ" MEDIAS URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.57 -
+156 SIBIU LICEUL TEHNOLOGIC "SCOALA NATIONALA DE GAZ" MEDIAS URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 5.57 -
+155 SIBIU LICEUL TEHNOLOGIC "SCOALA NATIONALA DE GAZ" MEDIAS URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.72 9.31
+154 SIBIU LICEUL TEHNOLOGIC "SCOALA NATIONALA DE GAZ" MEDIAS URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.73 7.05
+153 SIBIU LICEUL TEHNOLOGIC "SCOALA NATIONALA DE GAZ" MEDIAS URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 7.74 8.29
+132 SIBIU COLEGIUL TEHNIC "MEDIENSIS" MEDIAS URBAN Electronică automatizări Limba română - 28 15 Zi Tehnic Tehnologică Liceal 2.73 -
+131 SIBIU COLEGIUL TEHNIC "MEDIENSIS" MEDIAS URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.04 -
+
+158 SIBIU LICEUL TEHNOLOGIC AUTOMECANICA MEDIAS URBAN Turism şi alimentaţie Limba română - 28 5 Zi Servicii Tehnologică Liceal 4.86 7.23
+183 SIBIU LICEUL TEORETIC "ST.L.ROTH" MEDIAS URBAN Matematică-Informatică Limba germană - 28 28 Zi Real Teoretică Liceal 8.00 6.48
+182 SIBIU LICEUL TEORETIC "ST.L.ROTH" MEDIAS URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 5.12 4.66
+181 SIBIU LICEUL TEORETIC "ST.L.ROTH" MEDIAS URBAN Filologie Limba germană - 28 26 Zi Umanist Teoretică Liceal 5.49 8.94
+169 SIBIU LICEUL TEORETIC "AXENTE SEVER" MEDIAS URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 6.64 8.43
+168 SIBIU LICEUL TEORETIC "AXENTE SEVER" MEDIAS URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.50 -
+166 SIBIU LICEUL TEORETIC "AXENTE SEVER" MEDIAS URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.51 7.62
+165 SIBIU LICEUL TEORETIC "AXENTE SEVER" MEDIAS URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.95 -
+124 SIBIU COLEGIUL TEHNIC "A.T.LAURIAN" AGNITA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.74 -
+123 SIBIU COLEGIUL TEHNIC "A.T.LAURIAN" AGNITA URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.44 -
+160 SIBIU LICEUL TEHNOLOGIC CISNADIE URBAN Electronică automatizări Limba română - 28 12 Zi Tehnic Tehnologică Liceal 3.52 2.46
+174 SIBIU LICEUL TEORETIC "GUSTAV GUNDISCH" CISNADIE URBAN Filologie Limba română - 28 25 Zi Umanist Teoretică Liceal 4.45 6.60
+173 SIBIU LICEUL TEORETIC "GUSTAV GUNDISCH" CISNADIE URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.51 5.73
+152 SIBIU LICEUL TEHNOLOGIC "NICOLAE TECLU" COPSA MICA URBAN Electronică automatizări Limba română - 28 13 Zi Tehnic Tehnologică Liceal 3.71 4.44
+140 SIBIU LICEUL "TIMOTEI CIPARIU" DUMBRAVENI URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 3.50 6.17
+139 SIBIU LICEUL "TIMOTEI CIPARIU" DUMBRAVENI URBAN Economic Limba română - 28 11 Zi Servicii Tehnologică Liceal 3.24 4.43
+163 SIBIU LICEUL TEHNOLOGIC MIRSA URBAN Mecanică Limba română - 28 0 Zi Tehnic Tehnologică Liceal null -
+172 SIBIU LICEUL TEORETIC "GH.LAZAR" AVRIG URBAN Filologie Limba română - 56 39 Zi Umanist Teoretică Liceal 4.31 8.72
+149 SIBIU LICEUL TEHNOLOGIC "ILIE MACELARIU" MIERCUREA SIBIULUI URBAN Comerţ Limba română - 28 15 Zi Servicii Tehnologică Liceal 3.14 4.00
+150 SIBIU LICEUL TEHNOLOGIC "IOAN LUPAS" SALISTE URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.05 5.08
+151 SIBIU LICEUL TEHNOLOGIC "JOHANNES LEBEL" TALMACIU URBAN Turism şi alimentaţie Limba română - 28 19 Zi Servicii Tehnologică Liceal 3.85 5.41
+
+106 SALAJ "SILVANIA" FŐGIMNÁZIUM ZILAH URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 8.18 9.18
+105 SALAJ "SILVANIA" FŐGIMNÁZIUM ZILAH URBAN Ştiinţe ale Naturii Limba maghiară - 28 28 Zi Real Teoretică Liceal 8.16 8.35
+104 SALAJ "SILVANIA" FŐGIMNÁZIUM ZILAH URBAN Matematică-Informatică Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 8.32 8.49
+103 SALAJ "SILVANIA" FŐGIMNÁZIUM ZILAH URBAN Matematică-Informatică Limba română - 84 84 Zi Real Teoretică Liceal 8.82 9.06
+102 SALAJ "SILVANIA" FŐGIMNÁZIUM ZILAH URBAN Matematică-Informatică Limba maghiară - 28 28 Zi Real Teoretică Liceal 8.60 8.70
+101 SALAJ "SILVANIA" FŐGIMNÁZIUM ZILAH URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 8.55 9.02
+149 SALAJ LICEUL TEHNOLOGIC "MIHAI VITEAZUL" ZALĂU URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 5.64 4.37
+147 SALAJ LICEUL TEHNOLOGIC "MIHAI VITEAZUL" ZALĂU URBAN Mecanică Limba română - 28 15 Zi Tehnic Tehnologică Liceal 2.89 4.62
+146 SALAJ LICEUL TEHNOLOGIC "MIHAI VITEAZUL" ZALĂU URBAN Electromecanică Limba română - 28 26 Zi Tehnic Tehnologică Liceal 3.71 4.26
+145 SALAJ LICEUL TEHNOLOGIC "MIHAI VITEAZUL" ZALĂU URBAN Construcţii, instalaţii şi lucrări publice Limba română - 28 18 Zi Tehnic Tehnologică Liceal 3.93 -
+131 SALAJ "GHEORGHE ȘINCAI" PEDAGÓGIAI LÍCEUM ZILAH URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 7.00 -
+128 SALAJ "GHEORGHE ȘINCAI" PEDAGÓGIAI LÍCEUM ZILAH URBAN Filologie Limba română - 84 84 Zi Umanist Teoretică Liceal 7.29 5.13
+127 SALAJ "GHEORGHE ȘINCAI" PEDAGÓGIAI LÍCEUM ZILAH URBAN Filologie Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 6.79 -
+132 SALAJ "WESSELENYI" REFORMÁTUS LÍCEUM ZILAH URBAN Matematică-Informatică Limba maghiară - 28 28 Zi Real Teoretică Liceal 5.17 7.94
+118 SALAJ COLEGIUL TEHNIC "ALESANDRU PAPIU ILARIAN" ZALĂU URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.64 6.02
+117 SALAJ COLEGIUL TEHNIC "ALESANDRU PAPIU ILARIAN" ZALĂU URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 8.10 8.55
+116 SALAJ COLEGIUL TEHNIC "ALESANDRU PAPIU ILARIAN" ZALĂU URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.95 7.89
+115 SALAJ COLEGIUL TEHNIC "ALESANDRU PAPIU ILARIAN" ZALĂU URBAN Electromecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.10 7.16
+114 SALAJ COLEGIUL TEHNIC "ALESANDRU PAPIU ILARIAN" ZALĂU URBAN Electric Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.23 7.18
+113 SALAJ COLEGIUL TEHNIC "ALESANDRU PAPIU ILARIAN" ZALĂU URBAN Economic Limba română - 84 84 Zi Servicii Tehnologică Liceal 6.54 8.06
+153 SALAJ LICEUL TEHNOLOGIC "VOIEVODUL GELU" ZALĂU URBAN Turism şi alimentaţie Limba română - 28 26 Zi Servicii Tehnologică Liceal 3.44 4.32
+152 SALAJ LICEUL TEHNOLOGIC "VOIEVODUL GELU" ZALĂU URBAN Comerţ Limba română - 28 2 Zi Servicii Tehnologică Liceal 4.88 5.46
+140 SALAJ "GHEORGHE POP DE BĂSEȘTI" SZAKKÖZÉPISKOLA SZILÁGYCSEH URBAN Matematică-Informatică Limba română - 14 14 Zi Real Teoretică Liceal 7.52 6.45
+139 SALAJ "GHEORGHE POP DE BĂSEȘTI" SZAKKÖZÉPISKOLA SZILÁGYCSEH URBAN Matematică-Informatică Limba maghiară - 14 14 Zi Real Teoretică Liceal 5.07 5.82
+138 SALAJ "GHEORGHE POP DE BĂSEȘTI" SZAKKÖZÉPISKOLA SZILÁGYCSEH URBAN Filologie Limba română - 14 14 Zi Umanist Teoretică Liceal 6.03 3.60
+
+137 SALAJ "GHEORGHE POP DE BĂSEȘTI" SZAKKÖZÉPISKOLA SZILÁGYCSEH URBAN Filologie Limba maghiară - 14 3 Zi Umanist Teoretică Liceal 4.27 4.25
+136 SALAJ "GHEORGHE POP DE BĂSEȘTI" SZAKKÖZÉPISKOLA SZILÁGYCSEH URBAN Electronică automatizări Limba română - 28 21 Zi Tehnic Tehnologică Liceal 4.02 5.63
+160 SALAJ LICEUL TEORETIC "ION AGARBICEANU" JIBOU URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 5.58 4.88
+159 SALAJ LICEUL TEORETIC "ION AGARBICEANU" JIBOU URBAN Matematică-Informatică Limba română - 28 20 Zi Real Teoretică Liceal 3.29 4.08
+158 SALAJ LICEUL TEORETIC "ION AGARBICEANU" JIBOU URBAN Filologie Limba română - 56 56 Zi Umanist Teoretică Liceal 5.03 -
+151 SALAJ LICEUL TEHNOLOGIC "OCTAVIAN GOGA" JIBOU URBAN Electric Limba română - 28 8 Zi Tehnic Tehnologică Liceal 2.53 7.43
+150 SALAJ LICEUL TEHNOLOGIC "OCTAVIAN GOGA" JIBOU URBAN Economic Limba română - 28 11 Zi Servicii Tehnologică Liceal 3.03 -
+122 SALAJ COLEGIUL TEHNIC "IULIU MANIU" ȘIMLEU SILVANIEI URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.85 4.30
+121 SALAJ COLEGIUL TEHNIC "IULIU MANIU" ȘIMLEU SILVANIEI URBAN Electric Limba română - 28 20 Zi Tehnic Tehnologică Liceal 3.04 5.06
+120 SALAJ COLEGIUL TEHNIC "IULIU MANIU" ȘIMLEU SILVANIEI URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.86 7.21
+119 SALAJ COLEGIUL TEHNIC "IULIU MANIU" ȘIMLEU SILVANIEI URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.77 4.57
+112 SALAJ "SIMION BĂRNUȚIU" FŐGIMNÁZIUM SZILÁGYSOMLYÓ URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 7.40 7.78
+111 SALAJ "SIMION BĂRNUȚIU" FŐGIMNÁZIUM SZILÁGYSOMLYÓ URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.36 9.05
+110 SALAJ "SIMION BĂRNUȚIU" FŐGIMNÁZIUM SZILÁGYSOMLYÓ URBAN Matematică-Informatică Limba maghiară - 28 28 Zi Real Teoretică Liceal 7.12 7.41
+109 SALAJ "SIMION BĂRNUȚIU" FŐGIMNÁZIUM SZILÁGYSOMLYÓ URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.39 8.09
+108 SALAJ "SIMION BĂRNUȚIU" FŐGIMNÁZIUM SZILÁGYSOMLYÓ URBAN Filologie Limba maghiară - 28 28 Zi Umanist Teoretică Liceal 5.99 6.87
+107 SALAJ "SIMION BĂRNUȚIU" FŐGIMNÁZIUM SZILÁGYSOMLYÓ URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 7.82 8.26
+143 SALAJ "IOAN OSSIAN" ISKOLACSOPORT SZILÁGYSOMLYÓ URBAN Agricultură Limba română - 14 8 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.78 4.15
+142 SALAJ "IOAN OSSIAN" ISKOLACSOPORT SZILÁGYSOMLYÓ URBAN Agricultură Limba maghiară - 14 12 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.06 -
+135 SALAJ "CSEREY-GOGA" ISKOLACSOPORT KRASZNA RURAL Ştiinţe ale Naturii Limba română - 28 16 Zi Real Teoretică Liceal 3.95 -
+134 SALAJ "CSEREY-GOGA" ISKOLACSOPORT KRASZNA RURAL Ştiinţe ale Naturii Limba maghiară - 28 28 Zi Real Teoretică Liceal 4.80 6.38
+154 SALAJ LICEUL TEHNOLOGIC NR.1 GÎLGĂU RURAL Comerţ Limba română - 28 15 Zi Servicii Tehnologică Liceal 2.80 6.56
+144 SALAJ LICEUL TEHNOLOGIC "LIVIU REBREANU" HIDA RURAL Matematică-Informatică Limba română - 28 14 Zi Real Teoretică Liceal 3.53 3.78
+141 SALAJ LICEUL TEHNOLOGIC "IOACHIM POP" ILEANDA RURAL Mecanică Limba română - 28 15 Zi Tehnic Tehnologică Liceal 2.51 6.35
+157 SALAJ LICEUL TEHNOLOGIC NR.1 SĂRMĂȘAG RURAL Ştiinţe ale Naturii Limba română - 14 0 Zi Real Teoretică Liceal null 4.84
+
+156 SALAJ 1-ES SZÁMÚ SZAKKÉPZŐ LÍCEUM SZARMASÁG RURAL Ştiinţe ale Naturii Limba maghiară - 14 7 Zi Real Teoretică Liceal 3.19 5.25
+
+155 TIMIȘ COLEGIUL TEHNIC ENERGETIC "REGELE FERDINAND I " MUN.TIMISOARA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.70 6.12
+178 TIMIȘ LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARA MUN.TIMISOARA URBAN Industrie alimentară Limba română - 112 112 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.71 5.49
+151 TIMIȘ COLEGIUL TEHNIC DE VEST MUN.TIMISOARA URBAN Electric Limba română - 28 28 Zi Tehnic Tehnologică Liceal 3.07 3.88
+150 TIMIȘ COLEGIUL TEHNIC DE VEST MUN.TIMISOARA URBAN Construcţii, instalaţii şi lucrări publice Limba română - 56 29 Zi Tehnic Tehnologică Liceal 2.40 3.85
+209 TIMIȘ LICEUL TEORETIC "J.L.CALDERON" MUN.TIMISOARA URBAN Ştiinţe Sociale Limba română Limba franceză 28 28 Zi Umanist Teoretică Liceal 7.19 4.66
+208 TIMIȘ LICEUL TEORETIC "J.L.CALDERON" MUN.TIMISOARA URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 8.11 3.64
+207 TIMIȘ LICEUL TEORETIC "J.L.CALDERON" MUN.TIMISOARA URBAN Filologie Limba română Limba spaniolă 28 28 Zi Umanist Teoretică Liceal 7.70 3.57
+206 TIMIȘ LICEUL TEORETIC "J.L.CALDERON" MUN.TIMISOARA URBAN Filologie Limba română Limba italiană 28 28 Zi Umanist Teoretică Liceal 7.25 5.26
+190 TIMIȘ LICEUL TEOLOGIC PENTICOSTAL LOGOS MUN.TIMISOARA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.30 -
+107 TIMIȘ COLEGIUL NATIONAL "ANA ASLAN" MUN.TIMISOARA URBAN Ştiinţe ale Naturii Limba română - 84 84 Zi Real Teoretică Liceal 8.21 9.14
+106 TIMIȘ COLEGIUL NATIONAL "ANA ASLAN" MUN.TIMISOARA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.74 7.76
+105 TIMIȘ COLEGIUL ECONOMIC "F.S. NITTI" MUN.TIMISOARA URBAN Turism şi alimentaţie Limba română - 84 84 Zi Servicii Tehnologică Liceal 7.20 8.18
+104 TIMIȘ COLEGIUL ECONOMIC "F.S. NITTI" MUN.TIMISOARA URBAN Economic Limba română - 112 112 Zi Servicii Tehnologică Liceal 7.52 2.72
+202 TIMIȘ LICEUL TEORETIC "GRIGORE MOISIL" MUN.TIMISOARA URBAN Matematică-Informatică Limba română - 140 140 Zi Real Teoretică Liceal 9.15 8.28
+164 TIMIȘ LICEUL PEDAGOGIC "CARMEN SYLVA" MUN.TIMISOARA URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 9.02 -
+161 TIMIȘ LICEUL PEDAGOGIC "CARMEN SYLVA" MUN.TIMISOARA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 9.13 5.40
+160 TIMIȘ LICEUL PEDAGOGIC "CARMEN SYLVA" MUN.TIMISOARA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 8.23 -
+103 TIMIȘ COLEGIUL DE SILVICULTURA SI AGRICULTURA "CASA VERDE" MUN.TIMISOARA URBAN Silvicultură Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.16 4.13
+102 TIMIȘ COLEGIUL DE SILVICULTURA SI AGRICULTURA "CASA VERDE" MUN.TIMISOARA URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.23 3.21
+111 TIMIȘ COLEGIUL NATIONAL "CONSTANTIN DIACONOVICI LOGA" MUN.TIMISOARA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 8.74 6.28
+110 TIMIȘ COLEGIUL NATIONAL "CONSTANTIN DIACONOVICI LOGA" MUN.TIMISOARA URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 9.01 9.29
+109 TIMIȘ COLEGIUL NATIONAL "CONSTANTIN DIACONOVICI LOGA" MUN.TIMISOARA URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 9.47 8.48
+108 TIMIȘ COLEGIUL NATIONAL "CONSTANTIN DIACONOVICI LOGA" MUN.TIMISOARA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 8.27 8.69
+139 TIMIȘ COLEGIUL TEHNIC "HENRI COANDA" MUN.TIMISOARA URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.94 6.36
+138 TIMIȘ COLEGIUL TEHNIC "HENRI COANDA" MUN.TIMISOARA URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.92 7.31
+
+137 TIMIȘ COLEGIUL TEHNIC "HENRI COANDA" MUN.TIMISOARA URBAN Electronică automatizări Limba română - 56 56 Zi Tehnic Tehnologică Liceal 6.39 -
+136 TIMIȘ COLEGIUL TEHNIC "HENRI COANDA" MUN.TIMISOARA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 7.16 3.18
+201 TIMIȘ LICEUL TEORETIC "DOSITEI OBRADOVICI" MUN.TIMISOARA URBAN Matematică-Informatică Limba sârbă - 14 8 Zi Real Teoretică Liceal 6.86 6.35
+200 TIMIȘ LICEUL TEORETIC "DOSITEI OBRADOVICI" MUN.TIMISOARA URBAN Filologie Limba sârbă - 14 9 Zi Umanist Teoretică Liceal 5.36 4.68
+131 TIMIȘ COLEGIUL TEHNIC "AZUR" MUN.TIMISOARA URBAN Protecţia mediului Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.83 5.18
+135 TIMIȘ COLEGIUL TEHNIC "EMANUIL UNGUREANU" MUN.TIMISOARA URBAN Turism şi alimentaţie Limba română - 28 28 Zi Servicii Tehnologică Liceal 6.95 -
+134 TIMIȘ COLEGIUL TEHNIC "EMANUIL UNGUREANU" MUN.TIMISOARA URBAN Electronică automatizări Limba română - 112 112 Zi Tehnic Tehnologică Liceal 5.79 4.02
+133 TIMIȘ COLEGIUL TEHNIC "EMANUIL UNGUREANU" MUN.TIMISOARA URBAN Electric Limba română - 28 28 Zi Tehnic Tehnologică Liceal 6.15 4.97
+132 TIMIȘ COLEGIUL TEHNIC "EMANUIL UNGUREANU" MUN.TIMISOARA URBAN Economic Limba română - 56 56 Zi Servicii Tehnologică Liceal 7.05 -
+220 TIMIȘ LICEUL TEORETIC "WILLIAM SHAKESPEARE" MUN.TIMISOARA URBAN Matematică-Informatică Limba română Limba engleză 28 28 Zi Real Teoretică Liceal 8.39 8.84
+219 TIMIȘ LICEUL TEORETIC "WILLIAM SHAKESPEARE" MUN.TIMISOARA URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 7.97 9.23
+198 TIMIȘ "BARTÓK BÉLA" ELMÉLETI LÍCEUM TEMESVÁR URBAN Ştiinţe Sociale Limba maghiară - 28 15 Zi Umanist Teoretică Liceal 3.21 -
+197 TIMIȘ "BARTÓK BÉLA" ELMÉLETI LÍCEUM TEMESVÁR URBAN Ştiinţe ale Naturii Limba maghiară - 14 9 Zi Real Teoretică Liceal 5.22 -
+196 TIMIȘ "BARTÓK BÉLA" ELMÉLETI LÍCEUM TEMESVÁR URBAN Matematică-Informatică Limba maghiară - 14 12 Zi Real Teoretică Liceal 5.37 -
+212 TIMIȘ LICEUL TEORETIC "NIKOLAUS LENAU" MUN.TIMISOARA URBAN Ştiinţe Sociale Limba germană - 28 28 Zi Umanist Teoretică Liceal 6.93 7.19
+211 TIMIȘ LICEUL TEORETIC "NIKOLAUS LENAU" MUN.TIMISOARA URBAN Ştiinţe ale Naturii Limba germană - 28 28 Zi Real Teoretică Liceal 8.27 9.42
+210 TIMIȘ LICEUL TEORETIC "NIKOLAUS LENAU" MUN.TIMISOARA URBAN Teor.real spec.germană Limba germană - 25 25 Zi Real Teoretică Liceal 9.11 3.63
+125 TIMIȘ COLEGIUL NATIONAL BANATEAN MUN.TIMISOARA URBAN Ştiinţe Sociale Limba română - 56 56 Zi Umanist Teoretică Liceal 8.33 4.87
+124 TIMIȘ COLEGIUL NATIONAL BANATEAN MUN.TIMISOARA URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 8.85 -
+123 TIMIȘ COLEGIUL NATIONAL BANATEAN MUN.TIMISOARA URBAN Ştiinţe ale Naturii Limba germană - 28 18 Zi Real Teoretică Liceal 5.37 -
+122 TIMIȘ COLEGIUL NATIONAL BANATEAN MUN.TIMISOARA URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 8.97 -
+121 TIMIȘ COLEGIUL NATIONAL BANATEAN MUN.TIMISOARA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 8.19 7.14
+187 TIMIȘ LICEUL TEOLOGIC BAPTIST MUN.TIMISOARA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.87 -
+154 TIMIȘ COLEGIUL TEHNIC ELECTROTIMIS MUN.TIMISOARA URBAN Producţie media Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.42 -
+153 TIMIȘ COLEGIUL TEHNIC ELECTROTIMIS MUN.TIMISOARA URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 4.27 6.69
+
+186 TIMIȘ LICEUL TEHNOLOGIC TRANSPORTURI AUTO MUN.TIMISOARA URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 3.64 5.15
+218 TIMIȘ LICEUL TEORETIC "VLAD TEPES" MUN.TIMISOARA URBAN Ştiinţe Sociale Limba română - 56 56 Zi Umanist Teoretică Liceal 7.37 7.23
+217 TIMIȘ LICEUL TEORETIC "VLAD TEPES" MUN.TIMISOARA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 7.66 8.67
+144 TIMIȘ COLEGIUL TEHNIC "ION.I.C.BRATIANU" MUN.TIMISOARA URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.36 3.18
+142 TIMIȘ COLEGIUL TEHNIC "ION.I.C.BRATIANU" MUN.TIMISOARA URBAN Estetica şi igiena corpului omenesc Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.95 5.11
+141 TIMIȘ COLEGIUL TEHNIC "ION.I.C.BRATIANU" MUN.TIMISOARA URBAN Economic Limba română - 56 56 Zi Servicii Tehnologică Liceal 6.37 7.29
+140 TIMIȘ COLEGIUL TEHNIC "ION.I.C.BRATIANU" MUN.TIMISOARA URBAN Comerţ Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.82 6.70
+199 TIMIȘ LICEUL TEORETIC "DAVID VONIGA" COM.GIROC RURAL Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 5.33 2.51
+148 TIMIȘ COLEGIUL TEHNIC "VALERIU BRANISTE" MUN.LUGOJ URBAN Turism şi alimentaţie Limba română - 56 56 Zi Servicii Tehnologică Liceal 5.05 7.39
+146 TIMIȘ COLEGIUL TEHNIC "VALERIU BRANISTE" MUN.LUGOJ URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.11 6.65
+145 TIMIȘ COLEGIUL TEHNIC "VALERIU BRANISTE" MUN.LUGOJ URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 5.06 7.58
+115 TIMIȘ COLEGIUL NATIONAL "CORIOLAN BREDICEANU" MUN.LUGOJ URBAN Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 6.67 9.34
+114 TIMIȘ COLEGIUL NATIONAL "CORIOLAN BREDICEANU" MUN.LUGOJ URBAN Ştiinţe ale Naturii Limba germană - 28 14 Zi Real Teoretică Liceal 6.59 8.51
+113 TIMIȘ COLEGIUL NATIONAL "CORIOLAN BREDICEANU" MUN.LUGOJ URBAN Matematică-Informatică Limba română - 56 56 Zi Real Teoretică Liceal 7.25 8.61
+112 TIMIȘ COLEGIUL NATIONAL "CORIOLAN BREDICEANU" MUN.LUGOJ URBAN Filologie Limba română Limba engleză 28 28 Zi Umanist Teoretică Liceal 6.38 9.12
+166 TIMIȘ LICEUL TEHNOLOGIC "AUREL VLAICU" MUN.LUGOJ URBAN Electronică automatizări Limba română - 28 28 Zi Tehnic Tehnologică Liceal 3.90 9.53
+165 TIMIȘ LICEUL TEHNOLOGIC "AUREL VLAICU" MUN.LUGOJ URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.22 8.70
+120 TIMIȘ COLEGIUL NATIONAL "IULIA HASDEU" MUN.LUGOJ URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 6.38 8.06
+119 TIMIȘ COLEGIUL NATIONAL "IULIA HASDEU" MUN.LUGOJ URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 7.05 6.69
+118 TIMIȘ COLEGIUL NATIONAL "IULIA HASDEU" MUN.LUGOJ URBAN Filologie Limba ucraineană - 28 21 Zi Umanist Teoretică Liceal 3.33 -
+117 TIMIȘ COLEGIUL NATIONAL "IULIA HASDEU" MUN.LUGOJ URBAN Filologie Limba română Limba franceză 14 14 Zi Umanist Teoretică Liceal 6.36 8.84
+116 TIMIȘ COLEGIUL NATIONAL "IULIA HASDEU" MUN.LUGOJ URBAN Filologie Limba română Limba engleză 14 14 Zi Umanist Teoretică Liceal 7.01 9.24
+225 TIMIȘ LICEUL TEORETIC ORAS BUZIAS URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 2.98 2.83
+224 TIMIȘ LICEUL TEORETIC ORAS BUZIAS URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 5.10 4.82
+175 TIMIȘ LICEUL TEHNOLOGIC "SFANTUL NICOLAE" ORAS DETA URBAN Matematică-Informatică Limba română - 28 26 Zi Real Teoretică Liceal 3.56 -
+
+174 TIMIȘ LICEUL TEHNOLOGIC "SFANTUL NICOLAE" ORAS DETA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 4.80 -
+173 TIMIȘ LICEUL TEHNOLOGIC "SFANTUL NICOLAE" ORAS DETA URBAN Economic Limba română - 28 28 Zi Servicii Tehnologică Liceal 4.15 3.66
+184 TIMIȘ LICEUL TEHNOLOGIC ORAS JIMBOLIA URBAN Matematică-Informatică Limba română - 28 27 Zi Real Teoretică Liceal 4.21 5.71
+183 TIMIȘ LICEUL TEHNOLOGIC ORAS JIMBOLIA URBAN Industrie textilă şi pielărie Limba română - 28 14 Zi Tehnic Tehnologică Liceal 3.11 5.55
+181 TIMIȘ LICEUL TEHNOLOGIC ORAS JIMBOLIA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.24 5.90
+180 TIMIȘ LICEUL TEHNOLOGIC ORAS JIMBOLIA URBAN Electric Limba română - 28 28 Zi Tehnic Tehnologică Liceal 5.36 6.63
+179 TIMIȘ LICEUL TEHNOLOGIC ORAS JIMBOLIA URBAN Construcţii, instalaţii şi lucrări publice Limba română - 28 13 Zi Tehnic Tehnologică Liceal 2.79 3.22
+205 TIMIȘ LICEUL TEORETIC "IOAN JEBELEAN" ORAS SANNICOLAU MARE URBAN Ştiinţe ale Naturii Limba română - 56 56 Zi Real Teoretică Liceal 6.24 4.54
+204 TIMIȘ LICEUL TEORETIC "IOAN JEBELEAN" ORAS SANNICOLAU MARE URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 8.12 4.41
+203 TIMIȘ LICEUL TEORETIC "IOAN JEBELEAN" ORAS SANNICOLAU MARE URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 6.78 3.82
+171 TIMIȘ LICEUL TEHNOLOGIC "CRISTOFOR NAKO" ORAS SANNICOLAU MARE URBAN Mecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 3.79 -
+170 TIMIȘ LICEUL TEHNOLOGIC "CRISTOFOR NAKO" ORAS SANNICOLAU MARE URBAN Industrie alimentară Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 4.99 5.62
+169 TIMIȘ LICEUL TEHNOLOGIC "CRISTOFOR NAKO" ORAS SANNICOLAU MARE URBAN Electromecanică Limba română - 28 28 Zi Tehnic Tehnologică Liceal 2.48 9.46
+168 TIMIȘ LICEUL TEHNOLOGIC "CRISTOFOR NAKO" ORAS SANNICOLAU MARE URBAN Agricultură Limba română - 28 28 Zi Resurse naturale și protecția mediului Tehnologică Liceal 3.41 -
+195 TIMIȘ LICEUL TEORETIC "ALEXANDRU MOCIONI" ORAS CIACOVA URBAN Ştiinţe Sociale Limba română - 28 28 Zi Umanist Teoretică Liceal 3.49 6.91
+194 TIMIȘ LICEUL TEORETIC "ALEXANDRU MOCIONI" ORAS CIACOVA URBAN Matematică-Informatică Limba română - 28 18 Zi Real Teoretică Liceal 2.55 -
+213 TIMIȘ LICEUL TEORETIC "SFINTII KIRIL SI METODII" COM.DUDESTII VECHI RURAL Ştiinţe ale Naturii Limba română - 28 28 Zi Real Teoretică Liceal 2.04 7.68
+216 TIMIȘ LICEUL TEORETIC "TRAIAN VUIA" ORAS FAGET URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 6.72 7.54
+215 TIMIȘ LICEUL TEORETIC "TRAIAN VUIA" ORAS FAGET URBAN Filologie Limba română - 56 56 Zi Umanist Teoretică Liceal 4.06 7.29
+214 TIMIȘ LICEUL TEORETIC "TRAIAN VUIA" ORAS FAGET URBAN Economic Limba română - 56 56 Zi Servicii Tehnologică Liceal 3.93 6.10
+228 TIMIȘ LICEUL TEORETIC ORAS GATAIA URBAN Ştiinţe Sociale Limba română - 28 22 Zi Umanist Teoretică Liceal 2.58 5.07
+227 TIMIȘ LICEUL TEORETIC ORAS GATAIA URBAN Matematică-Informatică Limba română - 28 28 Zi Real Teoretică Liceal 3.99 3.65
+226 TIMIȘ LICEUL TEORETIC ORAS GATAIA URBAN Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 4.14 4.10
+172 TIMIȘ LICEUL TEHNOLOGIC "ROMULUS PARASCHIVOIU" COM.LOVRIN RURAL Economic Limba română - 56 56 Zi Servicii Tehnologică Liceal 4.19 3.69
+177 TIMIȘ LICEUL TEHNOLOGIC "TRAIAN GROZAVESCU" COM.NADRAG RURAL Mecanică Limba română - 28 13 Zi Tehnic Tehnologică Liceal 3.26 3.20
+
+221 TIMIȘ LICEUL TEORETIC COM.PECIU NOU RURAL Ştiinţe ale Naturii Limba română - 56 46 Zi Real Teoretică Liceal 2.11 7.26
+223 TIMIȘ LICEUL TEORETIC COM.PERIAM RURAL Matematică-Informatică Limba română - 28 25 Zi Real Teoretică Liceal 3.20 4.51
+222 TIMIȘ LICEUL TEORETIC COM.PERIAM RURAL Filologie Limba română - 28 28 Zi Umanist Teoretică Liceal 5.22 5.41
+229 TIMIȘ LICEUL TEORETIC ORAS RECAS URBAN Ştiinţe ale Naturii Limba română - 56 52 Zi Real Teoretică Liceal 2.84 3.14
