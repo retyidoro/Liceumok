@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8' />
+    <title>Líceumok</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    
+    <!--using turf.js mapbox and vue.js-->
+    <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script> 
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.js'></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.js"></script>
+
+    <!--using mapbox style and bootstrap-->
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.css' rel='stylesheet' />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <style>
+      body { margin:0; padding:0; }
+      #map { position:absolute; top:10%; bottom:0%; width:64%; height:90%; }
+      .marker { 
+        background-image: url('doticon.png');
+        background-size: cover;
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        cursor: pointer;
+      }
+      .mapboxgl-popup { max-width: 200px; }
+
+      .mapboxgl-popup-content {
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 6;
+      }
+      #title {
+        width: 100%;
+        height: 10%;
+      }
+      #left {
+        background-color:white;
+        width: 470px;
+        height: 100%;
+        left: 100px;
+      }
+
+      .graph_container{
+        display:block;
+        width:400px;
+      }
+
+      #content {
+        padding: 40px 40px 40px 40px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id='app'>
+      <div id='title'>
+        <h2 align="center">Erdélyi líceumok az <a href="http://admitere.edu.ro/2018/">admitere.edu.ro</a> oldalról (2018)</h2>
+      </div>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <div id='left'>
+                <!--select content-->
+                <div id="content">
+                    <div id="filter">
+                      <p>Szűrés</p>
+                      <form>
+                        <div class="col-md-4">
+                          <label for="szaktipus">szaktípus</label>
+                          <select class="form-control" id="szaktipus" v-model="szaktipusok">
+                              <option v-for="szaktipus in szaktipusok">{{szaktipus}}</option>
+                            </select>
+                        </div>
+                        
+                        <div class="col-md-4">
+                          <label for="szaktipus">szaknév</label>
+                          <select class="form-control" id="szaknev" v-model="szaknevek">
+                              <option v-for="szaknev in szaknevek">{{szaknev}}</option>
+                            </select>
+                        </div>
+                        
+                        <div class="col-md-4">
+                          <label for="szaktipus">nyelv</label>
+                          <select class="form-control" id="nyelv" v-model="nyelvek">
+                              <option v-for="nyelv in nyelvek">{{nyelv}}</option>
+                            </select>
+                        </div>
+
+                      </form>
+                    </div> 
+                    <br>
+                    <br>
+                    <br>
+                    <h4 id="suli"></h4>
+                    <!--<input id='slider' type='range' min='0' max='3' step='1' value='0' v-model=years />
+                    <p>
+                      A térképen lévő pöttyök a körzetben levő líceumok számát mutatják. Nagyítással részletesebb információk érhetőek el.
+                      A narancssárga pöttyök a konkrét iskolák helyét jelölik, rákattintva további információk láthatóak, s később az iskola
+                      szakjainak leírásai itt oldalt jelennek meg.
+                      A színek még kísérleti jellegűek.-->
+                      </p>
+                    <p id="szakok">{{szakok}}</p>
+                    <div class="graph_container">
+                      <canvas id="Chart1"></canvas>
+                    </div>
+                </div>
+              </div>
+            </td>
+            <td>
+              <!--map-->
+              <div id='formap'>
+                <div id='map'>
+                  
+                </div>
+              </div>
+              
+            </td>
+            <td>
+              <!--map-->
+              <div >
+                  <p>hello</p>
+                
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      
+    </div>
+    <script src='index.js'></script>
+
+ 
+  </body>
+</html>
