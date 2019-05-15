@@ -68,28 +68,36 @@
                 <!--select content-->
                 <div id="content">
                     <div id="filter">
-                      <p>Szűrés</p>
                       <form>
                         <div class="col-md-4">
                           <label for="szaktipus">szaktípus</label>
-                          <select class="form-control" id="szaktipus" v-model="szaktipusok">
+                          <select class="form-control" id="szaktipusID" v-model="szaktipus">
                               <option v-for="szaktipus in szaktipusok">{{szaktipus}}</option>
                             </select>
                         </div>
                         
                         <div class="col-md-4">
-                          <label for="szaktipus">szaknév</label>
-                          <select class="form-control" id="szaknev" v-model="szaknevek">
+                          <label for="szaknev">szaknév</label>
+                          <select class="form-control" id="szaknevID" v-model="szaknev">
                               <option v-for="szaknev in szaknevek">{{szaknev}}</option>
                             </select>
                         </div>
                         
                         <div class="col-md-4">
-                          <label for="szaktipus">nyelv</label>
-                          <select class="form-control" id="nyelv" v-model="nyelvek">
+                          <label for="nyelv">nyelv</label>
+                          <select class="form-control" id="nyelvID" v-model="nyelv">
                               <option v-for="nyelv in nyelvek">{{nyelv}}</option>
                             </select>
                         </div>
+                        
+                        <div class="col-md-4">
+                          <label for="megye">nyelv</label>
+                          <select class="form-control" id="megyeID" v-model="megye">
+                              <option v-for="megye in megyek">{{megye}}</option>
+                            </select>
+                        </div>
+
+                        <button type='button' class="btn" @click="szur">Szűrés</button>
 
                       </form>
                     </div> 
