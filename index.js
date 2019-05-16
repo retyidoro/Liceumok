@@ -6,12 +6,12 @@ let app = new Vue({
       "Reál Német", "Turizmus és élelmezés", "Elektromechanika", "Médiatermelés", "Ipari kémia", "Matematika-Informatika", "Filológia", 
       "Kereskedelem", "Erdészet", "Társadalomtudományok", "Építőanyagok"],
     szaktipusok: ["Minden szaktípus", "Szolgáltatások", "Műszaki", "Természeti erőforrások és környezetvédelem", "Humán", "Reál"],
-    nyelvek: ["mind a 7 nyelv", "magyar", "román", "szlovák", "ukrán", "horvát", "szerb", "német"],
+    nyelvek: ["Mind a 7 nyelv", "magyar", "román", "szlovák", "ukrán", "horvát", "szerb", "német"],
     megyek: ["ERDÉLY", "ALBA", "ARAD", "BIHOR", "BISTRIȚA-NĂSĂUD", "BRAȘOV", "CARAȘ-SEVERIN", "CLUJ", "COVASNA", "HARGHITA", "HUNEDOARA", "MARAMUREȘ", "MUREȘ", "SALAJ", "SATU-MARE", "SIBIU", "TIMIȘ"],
 
     szaknev: "Minden szak",
     szaktipus: "Minden szaktípus",
-    nyelv: "mind a 7 nyelv",
+    nyelv: "Mind a 7 nyelv",
     megye: "ERDÉLY",
     minden_adat: undefined,
     szurt_adat: undefined
@@ -379,21 +379,6 @@ let app = new Vue({
             
         },
 
-  watch: {
-    szaknev() {
-      console.log("watch", this.szaknev);
-      this.szur();
-    },
-    szaktipus() {
-      console.log("watch", this.szaktipus);
-      this.szur();
-    },
-    nyelv() {
-      console.log("watch", this.nyelv);
-      this.szur();
-    }
-  },
-
   methods: {
 
     terkep() {
@@ -647,28 +632,98 @@ let app = new Vue({
     async szur() {
       var response = await fetch("https://raw.githubusercontent.com/retyidoro/Liceumok/master/geodata.geojson"); 
       //console.log("megvarta", response.json()); // this line will "wait" for the previous to be completed
-      var megye = this.megye
-      var nyelv = this.nyelv
-      var szaktipus = this.szaktipus
-      var szaknev = this.szaknev
-      response.json().then(function(data) {
+      var megye = [this.megye]
+      var nyelv = [this.nyelv]
+      var szaktipus = [this.szaktipus]
+      var szaknev = [this.szaknev]
+
+      var megyek = this.megyek
+      var nyelvek = this.nyelvek
+      var szaknevek = this.szaknevek
+      var szaktipusok = this.szaktipusok
+
+      response.json().then(function(data) { //the response dataset
         this.minden_adat = data;
 
-        this.szurt_adat = {
+        this.szurt_adat = { //building up the filtered data
           "type": "FeatureCollection",
           "features": []
         }
-        console.log(this.szaktipusok);
+
         console.log("szures", szaknev, szaktipus, nyelv, megye)
         var len = this.minden_adat.features.length
+
+        if(megye[0] == "ERDÉLY") {
+          megye = megyek
+        }
+        if(nyelv[0] == "Mind a 7 nyelv") {
+          nyelv = nyelvek
+        }
+        if(szaktipus[0] == "Minden szaktípus") {
+          szaktipus = szaktipusok
+        }
+        if(szaknev[0] == "Minden szak") {
+          szaknev = szaknevek
+        }
+
+        //megye szurese
+        var megye_filter = []
         for (var i = 0; i < len; i++) {
-          var str = this.minden_adat.features[i].properties.hely;
-          if(str == megye){
-            this.szurt_adat.features.push(this.minden_adat.features[i]);
+          if(megye.includes(this.minden_adat.features[i].properties.hely)){
+            megye_filter.push(this.minden_adat.features[i]);
           }
         }
 
-        console.log("szurt", this.szurt_adat)
+        //nyelv szurese
+        var nyelv_filter = []
+        for (var i = 0; i < megye_filter.length; ++i) {
+          suli_nyelvei = []
+          for (var j = 0; j < megye_filter[i].properties.szakok.length; ++j) {
+            suli_nyelvei.push(megye_filter[i].properties.szakok[j].nyelv)
+          }
+          //console.log("suli nyelvei ", suli_nyelvei)
+          for (var k = 0; k < suli_nyelvei.length; ++k) {
+            if (nyelv.includes(suli_nyelvei[k])) {
+              nyelv_filter.push(megye_filter[i])
+              break
+            }
+          }
+        }
+
+        //szaktipus szurese valami baj van a humánnal
+        /*var szaktipus_filter = []
+        for (var i = 0; i < nyelv_filter.length; ++i) {
+          suli_szaktipusai = []
+          for (var j = 0; j < nyelv_filter[i].properties.szakok.length; ++j) {
+            suli_szaktipusai.push(nyelv_filter[i].properties.szakok[j].szaktipus)
+            console.log(nyelv_filter[i].properties.szakok[j].szaktipus)
+          }
+          //console.log("suli szaktipusai", suli_szaktipusai)
+          for (var k = 0; k < suli_szaktipusai.length; ++k) {
+            if (szaktipus.includes(suli_szaktipusai[k])) {
+              szaktipus_filter.push(nyelv_filter[i])
+              break
+            }
+          }
+        }*/
+
+        //szak szurese
+        var szak_filter = []
+        for (var i = 0; i < nyelv_filter.length; ++i) {
+          suli_szakjai = []
+          for (var j = 0; j < nyelv_filter[i].properties.szakok.length; ++j) {
+            suli_szakjai.push(nyelv_filter[i].properties.szakok[j].szaknev)
+          }
+          //console.log("suli szakjai", suli_szakjai)
+          for (var k = 0; k < suli_szakjai.length; ++k) {
+            if (szaknev.includes(suli_szakjai[k])) {
+              szak_filter.push(nyelv_filter[i])
+              break
+            }
+          }
+        }
+
+        this.szurt_adat.features = szak_filter
         var s = this.szurt_adat
         mapboxgl.accessToken = 'pk.eyJ1IjoicmV0eWlkb3JvIiwiYSI6ImNqdWlsczh5ZDFicTQ0M3BnMGw0NWlkZTQifQ.VsxfpzFMbwB1g6L4MoiTQg';
             var map = new mapboxgl.Map({
