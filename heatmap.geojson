@@ -424,8 +424,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.1838310930353,
-                    45.7402685
+                    23.173664,
+                    46.262220
                 ]
             },
             "properties": {
@@ -842,8 +842,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    25.2849324519986,
-                    46.203852000000005
+                    23.513733,
+                    46.144671
                 ]
             },
             "properties": {
@@ -1920,8 +1920,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    22.4338342478684,
-                    46.6178765
+                    22.130091,
+                    46.371566
                 ]
             },
             "properties": {
@@ -3746,8 +3746,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    22.809346292550103,
-                    46.3677235
+                    21.847039,
+                    46.549674
                 ]
             },
             "properties": {
@@ -4934,8 +4934,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.393358,
-                    46.256384999999995
+                    22.414516,
+                    47.239561
                 ]
             },
             "properties": {
@@ -11490,8 +11490,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.9722929804569,
-                    47.0075055
+                    24.077828,
+                    47.009045
                 ]
             },
             "properties": {
@@ -14394,8 +14394,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    22.30999,
-                    45.378262
+                    23.318518,
+                    45.405247
                 ]
             },
             "properties": {
@@ -14592,8 +14592,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    22.5809720155938,
-                    46.482504
+                    22.890895,
+                    46.030538 
                 ]
             },
             "properties": {
@@ -15274,13 +15274,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.868802,
-                    46.390533000000005
+                    23.170842,
+                    45.729962 
                 ]
             },
             "properties": {
                 "megye": "Hunyad",
-                "nev": "IOARA DE SUS ROMANIA",
+                "nev": "ORASTIOARA DE SUS ROMANIA",
                 "mind": 2079,
                 "roman": 2044,
                 "magyar": 1,
@@ -15626,8 +15626,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.9166190437568,
-                    46.307204999999996
+                    23.123102,
+                    45.851793 
                 ]
             },
             "properties": {
@@ -16572,8 +16572,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    24.1824207433113,
-                    47.259776
+                    23.651033,
+                    47.598520
                 ]
             },
             "properties": {
@@ -17254,8 +17254,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    24.608549399999998,
-                    47.001072799999996
+                    24.221084,
+                    47.723830 
                 ]
             },
             "properties": {
@@ -20884,8 +20884,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    22.1995455159933,
-                    46.9752895
+                    23.343780,
+                    47.252288 
                 ]
             },
             "properties": {
@@ -22402,8 +22402,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.480497220323702,
-                    46.000983000000005
+                    24.341154,
+                    45.895014 
                 ]
             },
             "properties": {
@@ -22952,8 +22952,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.6588942362843,
-                    45.832718
+                    20.903535,
+                    45.787347
                 ]
             },
             "properties": {
